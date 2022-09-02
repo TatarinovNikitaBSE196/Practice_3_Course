@@ -1,0 +1,533 @@
+4
+
+	ivcontents6 work and energy138work done by a constant force139*work done by a varying force142kinetic energy, and the work-energyprinciple142potential energy145conservative and nonconservative forces149mechanical energy and its conservation150problem solving using conservation of mechanical energy151other forms of energy and energytransformations; the law of conservation of energy155energy conservation with dissipativeforces: solving problems156power159questions, misconceptual questions 161–63problems, search and learn 164–697 linear momentum170momentum and its relation to force171conservation of momentum173collisions and impulse176conservation of energy and momentum in collisions177elastic collisions in one dimension178inelastic collisions180*collisions in two dimensions182center of mass (cm)184*cm for the human body186*cm and translational motion187questions, misconceptual questions 190–91problems, search and learn 192–977–107 – 97 – 87 – 77 – 67 – 57 – 47 – 37 – 27 – 16–106 – 96 – 86 – 76 – 66 – 56 – 46 – 36 – 26 – 18 rotational motion198angular quantities199constant angular acceleration203rolling motion (without slipping)204torque206rotational dynamics; torque and rotational inertia208solving problems in rotational dynamics210rotational kinetic energy212angular momentum and its conservation215*vector nature of angular quantities217questions, misconceptual questions 220–21problems, search and learn 222–299static equilibrium;elasticity and fracture230the conditions for equilibrium231solving statics problems233applications to muscles and joints238stability and balance240elasticity; stress and strain241fracture245*spanning a space: arches and domes246questions, misconceptual questions 250–51problems, search and learn 252–5910 fluids260phases of matter261density and specific gravity261pressure in fluids 262atmospheric pressure and gauge pressure264pascal’s principle265measurement of pressure;gauges and the barometer266buoyancy and archimedes’ principle268fluids in motion; flow rate and the equation of continuity272bernoulli’s equation274applications of bernoulli’s principle:torricelli, airplanes, baseballs,blood flow276*viscosity279*flow in tubes: poiseuille’s equation,blood flow279*surface tension and capillarity280*pumps, and the heart282questions, misconceptual questions 283–85problems, search and learn 285–9110–1410–1310–1210–1110–1010–910–810–710–610–510–410–310–210–19 – 79 – 69 – 59 – 49 – 39 – 29 – 18 – 98 – 88 – 78 – 68 – 58 – 48 – 38 – 28 – 1displacementforce
+
+
+
+6
+
+	16electric charge andelectric field443static electricity; electric charge and its conservation444electric charge in the atom 445insulators and conductors 445induced charge; the electroscope 446coulomb’s law 447solving problems involving coulomb’s law and vectors 450the electric field453electric field lines 457electric fields and conductors 459*electric forces in molecular biology:dna structure and replication460*photocopy machines and computer printers use electrostatics 462*gauss’s law 463questions, misconceptual questions 467–68problems, search and learn 469–7217 electric potential473electric potential energy and potential difference474relation between electric potential and electric field 477equipotential lines and surfaces478the electron volt, a unit of energy 478electric potential due to point charges479*potential due to electric dipole;dipole moment482capacitance482dielectrics485storage of electric energy 486digital; binary numbers; signal voltage488*tv and computer monitors: crts,flat screens490*electrocardiogram (ecg or ekg)493questions, misconceptual questions 494–95problems, search and learn 496–50017–1217–1117–1017–917–817–717–617–517–417–317–217–116–1216–1116–1016–916–816–716–616–516–416–316–216–118 electric currents501the electric battery502electric current 504ohm’s law: resistance and resistors 505resistivity508electric power510power in household circuits512alternating current514*microscopic view of electric current516*superconductivity517*electrical conduction in the humannervous system517questions, misconceptual questions 520–21problems, search and learn 521–2519 dc circuits526emf and terminal voltage527resistors in series and in parallel528kirchhoff’s rules 532emfs in series and in parallel;charging a battery536circuits containing capacitors in series and in parallel538rc circuits—resistor and capacitor in series539electric hazards543ammeters and voltmeters—measurementaffects the quantity being measured546questions, misconceptual questions 549–51problems, search and learn 552–5920 magnetism560magnets and magnetic fields560electric currents produce magnetic fields563force on an electric current in a magnetic field; definition of 564force on an electric charge moving in a magnetic field566magnetic field due to a long straight wire570force between two parallel wires571solenoids and electromagnets 572ampère’s law573torque on a current loop;magnetic moment575applications: motors, loudspeakers,galvanometers576*mass spectrometer578*ferromagnetism: domains and hysteresis579questions, misconceptual questions 581–83problems, search and learn 583–8920–1220–1120–1020–920–820–720–620–520–4bb20–320–220–119–819–719–619–519–419–319–219–118–1018–918–818–718–618–518–418–318–218–1vicontents
+
+
+
+7
+
+	21electromagnetic inductionand faraday’s law590induced emf591faraday’s law of induction; lenz’s law592emf induced in a moving conductor596changing magnetic flux produces an electric field597electric generators597back emf and counter torque;eddy currents599transformers and transmission of power601*information storage: magnetic andsemiconductor; tape, hard drive, ram604*applications of induction: microphone,seismograph, gfci606*inductance608*energy stored in a magnetic field610*lr circuit610*ac circuits and reactance611*lrc series ac circuit614*resonance in ac circuits616questions, misconceptual questions 617–19problems, search and learn 620–2422 electromagnetic waves625changing electric fields produce magnetic fields; maxwell’s equations626production of electromagnetic waves627light as an electromagnetic wave and the electromagnetic spectrum629measuring the speed of light632energy in em waves633momentum transfer and radiation pressure635radio and television; wirelesscommunication636questions, misconceptual questions 640problems, search and learn 641–4323 light: geometric optics644the ray model of light645reflection; image formation by a plane mirror645formation of images by spherical mirrors649index of refraction656refraction: snell’s law657total internal reflection; fiber optics659thin lenses; ray tracing661the thin lens equation664*combinations of lenses668*lensmaker’s equation670questions, misconceptual questions 671–73problems, search and learn 673–7823–1023–923–823–723–623–523–423–323–223–122–722–622–522–422–322–222–121–1521–1421–1321–1221–1121–1021–921–821–721–621–521–421–321–221–124 the wave nature of light679waves vs. particles; huygens’ principle and diffraction680*huygens’ principle and the law of refraction681interference—young’s double-slitexperiment682the visible spectrum and dispersion685diffraction by a single slit or disk687diffraction grating690the spectrometer and spectroscopy692interference in thin films693*michelson interferometer698polarization699*liquid crystal displays (lcd)703*scattering of light by the atmosphere704questions, misconceptual questions 705–7problems, search and learn 707–1225 optical instruments713cameras: film and digital 713the human eye; corrective lenses719magnifying glass722telescopes723compound microscope726aberrations of lenses and mirrors727limits of resolution; circular apertures728resolution of telescopes and microscopes; the limit730resolution of the human eye and useful magnification732*specialty microscopes and contrast733x-rays and x-ray diffraction733*x-ray imaging and computed tomography (ct scan)735questions, misconceptual questions 738–39problems, search and learn 740–4325–1225–1125–1025–9l25–825–725–625–525–425–325–225–124–1224–1124–1024–924–824–724–624–524–424–324–224–1contentsvii
+
+
+
+10
+
+	xchapter 4how we walk82chapter 5weightlessness 124–25chapter 6cardiac treadmill168chapter 7body parts, center of mass186–87impulse, don’t break a leg193chapter 8bird of prey200centrifuge204, 222torque with muscles207, 223chapter 9teeth straightening231forces in muscles and joints 238–39, 255human body stability240leg stress in fall259chapter 10pressure in cells264blood flow274, 278, 280blood loss to brain, tia278underground animals, air circulation 278blood flow and heart disease280walking on water (insect)281heart as a pump282blood pressure283blood transfusion288chapter 11spider web298echolocation by animals309chapter 12ear and hearing range331, 334–35doppler, blood speed; bat position347, 358ultrasound medical imaging350–51chapter 13life under ice366–67molecules in a breath373evaporation cools379, 400humidity and comfort380diffusion in living organisms383chapter 14working off calories392convection by blood402human radiative heat loss404room comfort and metabolism404medical thermography405chapter 15energy in the human body418–19biological evolution, development 430–31trees offset co2 emission442chapter 16cells: electric forces, kinetic theory460–62dna structure, replication460–61chapter 17heart-beat scan (ecg or ekg)473dipoles in molecular biology482capacitor burn or shock487heart defibrillator487, 559electrocardiogram (ecg)493chapter 18electrical conduction in the humannervous system517–19chapter 19blood sugar phone app526pacemaker, ventricular fibrillation543electric shock, grounding544–45chapter 20blood flow rate 584electromagnetic pump 589chapter 21em blood-flow measurement596ground fault interrupter (gfci)607pacemaker608chapter 22optical tweezers636chapter 23medical endoscopes660chapter 24spectroscopic analysis693chapter 25human eye719corrective lenses719–21contact lenses721seeing under water721light microscopes726resolution of eye730, 732x-ray diffraction in biology735medical imaging: x-rays, ct 735–37cones in fovea 740chapter 27electron microscope images:blood vessel, blood clot,retina, viruses771, 785–86photosynthesis779measuring bone density780chapter 28laser surgery823chapter 29cell energy—atp833–34weak bonds in cells, dna834–35protein synthesis836–37pulse oximeter848chapter 31biological radiation damage899radiation dosimetry899–903radon901radiation exposure; film badge901radiation sickness901radon exposure calculation902–3radiation therapy903proton therapy904tracers in medicine and biology904–5medical imaging: pet, spect905–6nmr and mri906–8radiation and thyroid 912chapter 32linacs and tumor irradiation920applications to biology and medicine (selected)applications to other fields and everyday life (selected)chapter 1the 8000-m peaks11estimating volume of a lake13height by triangulation14measuring earth’s radius15chapter 2braking distances32rapid transit47chapter 3sports49, 58, 67, 68, 69, 73, 74kicked football62, 64chapter 4rocket acceleration82what force accelerates car?82elevator and counterweight91mechanical advantage of pulley92skiing97, 100, 138bear sling 100, 252city planning, cars on hills105chapter 5not skidding on a curve116antilock brakes116banked highways117artificial earth satellites122–23, 134free fall in athletics125planets125–28, 134, 137, 189, 197, 228determining the sun’s mass127moon’s orbit, phases, periods, diagram 129simulated gravity130, 132near-earth orbit134comets 135asteroids, moons135, 136, 196, 228rings of saturn, galaxy136gps, milky way136chapter 6work done on a baseball, skiing138car stopping distance145roller coaster152, 158pole vault, high jump153, 165stair-climbing power output159horsepower, car needs159–61lever164spiderman167chapter 7billiards170, 179, 183tennis serve172, 176rocket propulsion175, 188–89rifle recoil176nuclear collisions180, 182ballistic pendulum181high jump187distant planets discovered189chapter 8rotating carnival rides198, 201, 202bicycle205, 227, 229rotating skaters, divers216neutron star collapse217strange spinning bike wheel218tightrope walker220hard drive222total solar eclipses 229chapter 9tragic collapse231, 246lever’s mechanical advantage233cantilever235architecture: columns, arches,domes243, 246–49fracture245–46concrete, prestressed246tower crane252chapter 10glaciers260hydraulic lift, brakes, press265, 286hydrometer271continental drift, plate tectonics272helium balloon lift272airplane wings, dynamic lift277sailing against the wind277baseball curve278r v2
+
+
+
+19
+
+	prefacexixforce (   )torque (  )displacement (       )   , alvmvectorsuse of colorelectricity and magnetismelectric circuit symbolswire, with switch sresistorcapacitorinductorbatterygroundsor+or–electric charge (+)electric charge (–)electric field linesequipotential linesmagnetic field linesa general vector      resultant vector (sum) is slightly thicker      components of any vector are dashedopticslight raysobject1.0 mmeasurement linesenergy level(atom, etc.
+
+
+
+218
+
+	we will discuss thekinematics of rotational motion and then its dynamics (involving torque), as well as rotational kinetic energy and angular momentum (the rotational analog of linear momentum).
+	rotating carnival rides have rotational kinetic energy as well as angular momentum.angular acceleration is produced by a net torque, and rotating objects have rotational kinetic energy.contents8–1 angular quantities8–2 constant angular acceleration8–3 rolling motion (without slipping)8–4 torque8–5 rotational dynamics;torque and rotational inertia8–6 solving problems in rotational dynamics8–7 rotational kinetic energy8–8 angular momentum and its conservation*8–9 vector nature of angular quantities
+
+
+
+226
+
+	8–4 torquewe have so far discussed rotational kinematics—the description of rotationalmotion in terms of angular position, angular velocity, and angular acceleration.now we discuss the dynamics, or causes, of rotational motion.
+	this product is called the moment of the force about the axis, or, more commonly, it is called the torque, and is represented by (greeklowercase letter tau).
+	thus, the angular acceleration of an object is directly proportional to the net applied torque and we see that it is torque that gives rise to angular acceleration.
+	thus is much smaller than .rarcrafbarcfbcfbcfbcfbcfbd,fbafbca r f.a r t,t:atfafbra = 3rb ,rb ,rarbrafbbfa ,fba206chapter 8rotational motionarbrabfbfbfigure 8;10 top view of a door.applying the same force with different lever arms,and ifthen to create the sameeffect (angular acceleration),needs to be three times fa.fbra = 3rb,rb.ra(a)(b)figure 8;11 (a) a plumber canexert greater torque using a wrenchwith a long lever arm.
+
+
+
+227
+
+	the magnitude of the torque associated with is then this short leverarm and the corresponding smaller torque associated with are consistentwith the observation that is less effective in accelerating the door than is with its larger lever arm.
+	8–12 that the lineof action of the force passes through the hinge, and hence its lever arm is zero.consequently, zero torque is associated with and it gives rise to no angularacceleration, in accord with everyday experience (you can’t get a door to startmoving by pushing directly at the hinge).in general, then, we can write the magnitude of the torque about a given axis as(8;10a)where is the lever arm, and the perpendicular symbol reminds us that wemust use the distance from the axis of rotation that is perpendicular to the line ofaction of the force (fig.
+	8–13a).an equivalent way of determining the torque associated with a force is toresolve the force into components parallel and perpendicular to the line that con-nects the axis to the point of application of the force, as shown in fig.
+	thecomponent exerts no torque since it is directed at the rotation axis (its leverarm is zero).
+	hence the torque will be equal to times the distance r from theaxis to the point of application of the force:(8;10b)this gives the same result as eq.
+	8–10 to calculate the torque, whichever is easiest.because torque is a distance times a force, it is measured in units of insi units,†in the cgs system, and in the english system.ft�lbcm�dynem�nfbfbut = rf sin ur⊥ = r sin u.f⊥ = f sin ut = rf⊥.f⊥f∑∑(⊥)r⊥t = r⊥f,fbdfbda r tfbafbcfbcrcrc fc .fbcsection 8–4torque207r⊥(a)θaxis ofrotationpoint ofapplicationof force⊥(b)rrθ||fbfbfbfbfigure 8;13 torque = r⊥f = rf⊥.†note that the units for torque are the same as those for energy.
+	we write the unit for torque here as(in si) to distinguish it from energy because the two quantities are very different.
+	thespecial name jouleis used only for energy (and for work), never for torque.
+	(1 j = 1 n�m)(n�m)m�n5.0 cm(a)700 nr⊥(b)700 n30°60°axis atelbowr⊥fbfbf⊥b(c)60°axis(d)60°60°rraxisaxisfigure 8;14 example 8–8.biceps torque.
+	8–14a and b. for each case, calculate thetorque about the axis of rotation through the elbow joint, assuming the muscleis attached 5.0 cm from the elbow as shown.approach the force is given, and the lever arm in (a) is given.
+	8–14c) than in part (a):where is theangle between and r. f is still 700 n, sothe arm can exert less torque at this angle than when it is at 90°.
+
+
+
+228
+
+	which force exerts the greater torque:or both the same?when more than one torque acts on an object, the angular acceleration isfound to be proportional to the net torque.
+	if all the torques acting on an objecttend to rotate it in the same direction about a fixed axis of rotation, the nettorque is the sum of the torques.
+	but if, say, one torque acts to rotate an object in one direction, and a second torque acts to rotate the object in the oppositedirection, the net torque is the difference of the two torques.
+	we normally assigna positive sign to torques that act to rotate the object counterclockwise (just as is usually positive counterclockwise), and a negative sign to torques that actto rotate the object clockwise.forces that act to tilt the axiswe have been considering only rotation about a fixed axis, and so we considered onlyforces that act in a plane perpendicular to the axis of rotation.
+	8–16), in a plane perpen-dicular to the axis will give rise to rotational acceleration about the axis.8–5 rotational dynamics;torque and rotational inertiawe discussed in section 8–4 that the angular acceleration of a rotating object isproportional to the net torque applied to it:we write to remind us that it is the net torque (sum of all torques acting on the object) that is proportional to this corresponds to newton’s second law for translational motion,in the translational case, the acceleration isnot only proportional to the net force, but it is also inversely proportional to theinertia of the object, which we call its mass, m. thus we wrote .
+	consider a force f that acts on the mass m tangent to the circle as shown.the torque that gives rise to an angular acceleration is if we use newton’ssecond law for linear quantities,and eq.
+	8–5 relating the angularacceleration to the tangential linear acceleration,then we havewhen we multiply both sides of this equation by r, we find that the torque or[single particle] (8;11)here at last we have a direct relation between the angular acceleration and theapplied torque the quantity represents the rotational inertia of the particleand is called its moment of inertia.mr2t.t = mr2a.t = rf = r(mra),= mra.f = maatan = ra,©f = ma,t = rf.©f = ma.a r ©ta = ©f�ma r ©f.a.©ta r ©t.tafb⊥fb∑∑*uafb,fa,fbbfa = 30 nfb = 20 n208chapter 8rotational motion30°axisbfbafbfigure 8;15 exercise b.axis ofrotation⊥||fbfbfbfigure 8;16 only the componentof that acts in the plane perpen-dicular to the rotation axis,acts to accelerate the wheel about the axis.the component parallel to the axis,would tend to move the axisitself, which we assume is held fixed.fb∑∑ ,fb⊥,fbrmcfbfigure 8;17 a mass m revolvingin a circle of radius r about a fixedpoint c.
+
+
+
+229
+
+	the sum of the various torques is the net torque,so we obtain:(8;12)where we factored out because it is the same for all the particles of a rigidobject.
+	second, wesee in part (b) that mass close to the axis of rotation contributes little to the totalmoment of inertia; here, the 5.0-kg object contributed less than 1% to the total.= 1.3 kg�m2 + 142 kg�m2 = 143 kg�m2.i = ©mr2 = (5.0 kg)(0.50 m)2 + (7.0 kg)(4.5 m)2= 20 kg�m2 + 28 kg�m2 = 48 kg�m2.i = ©mr2 = (5.0 kg)(2.0 m)2 + (7.0 kg)(2.0 m)2example 8;9a©t = ia.i = ©mr2 = m1 r12 + m2 r22 + p.m1 r12 + m2 r22 + m3 r32 + p.©mr2 =(1,  2,  3, p ),©mr2 a©t = a©mr2ba©t,section 8–5rotational dynamics; torque and rotational inertia209figure 8;18 a large-diametercylinder has greater rotational iner-tia than one of smaller diameter butequal mass.5.0 kg7.0 kg4.0 maxis(a)5.0 kg7.0 kg4.0 maxis(b)0.50 mfigure 8;19 example 8–9:calculating the moment of inertia.newton’s second law for rotationc a u t i o ni depends on axis of rotation and on distribution of mass
+
+
+
+230
+
+	8–20, weuse capital r to refer to the outer radius of an object (in (d) also the inner radius).when calculation is difficult, i can be determined experimentally by measuringthe angular acceleration about a fixed axis due to a known net torque,andapplying newton’s second law,eq.
+	8–14.8–6 solving problems in rotational dynamicswhen working with torque and angular acceleration (eq.
+
+
+
+231
+
+	section 8–6211directions of rotation (counterclockwise and clock-wise), and assign the correct sign to each torque.5.
+	draw a free-body diagram for the object under consideration (or for each object, if more than one),showing all (and only) the forces acting on thatobject and exactly where they act, so you can deter-mine the torque due to each.
+	gravity acts at the cmof the object (section 7–8).4. identify the axis of rotation and determine thetorques about it.
+	the pulley accelerates uniformly from rest to an angular speed ofin 3.00 s. if there is a frictional torque at the axle,determine the moment of inertia of the pulley.
+	we are given only its torque,which is what we need.
+	they do not contribute to the torque (their leverarms are zero) and so we omit them to keep our diagram simple.4.
+	determine the torques.
+	the cord exerts a force that acts at the edge of thepulley, so its lever arm is r. the torque exerted by the cord equals and is counterclockwise, which we choose to be positive.
+	the frictional torque isgiven as  it opposes the motion and is negative.5.
+	the net torque isthe angular acceleration is found from the given data that it takes 3.00 s toaccelerate the pulley from rest tonewton’s second law,can be solved for i which is the unknown:6. other calculations: none needed.7.
+
+
+
+232
+
+	assume the same frictional torque acts.approach this situation looks a lot like example 8–10, fig.
+	8–5,substitutinginto the first equation above (newton’s secondlaw for rotation of the pulley), we obtainthe unknown appears on the left and in the second term on the far right, so webring that term to the left side and solve for the numerator is the net torque, and the denominator is the total rotational inertia of the system.
+
+
+
+234
+
+	try to explain why you may have answered differently the first time.crlθ��fbwork done by torquethe work done on an object rotating about a fixed axis, such as the pulleys infigs.
+	8–26, a force f exerting a torque on a wheel does work in rotating the wheel a small distance at the point of application of thewheel has rotated through a small angle(eq.
+	hencebecause then(8;17)is the work done by the torque when rotating the wheel through an angle finally, power p is the rate work is done:which is analogous to the translational version,(see eq.
+	6–18).p = fvp = w�¢t = t ¢u�¢t = tv,¢u.tw = t ¢ut = rf,w = f ¢l = fr ¢u.¢u = ¢l�rfb.¢lw = f ¢lt = rffigure 8;26 torque doeswork when rotating a wheel equal tow = f ¢l = fr ¢u = t ¢u.t = rfif there had been little or no static friction between the rolling objects and theplane in these examples, the round objects would have slid rather than rolled, or acombination of both.
+
+
+
+235
+
+	8–14 can be written as can also be written interms of angular momentum:(8;19)where is the net torque acting to rotate the object, and is the change inangular momentum in a time interval equation 8–14,is a specialcase of eq.
+	8–19 that if the net torque on an object is zero, then equals zero.
+	this is the law of conservation of angular momentum fora rotating object:the total angular momentum of a rotating object remains constant if the nettorque acting on it is zero.the law of conservation of angular momentum is one of the great conservationlaws of physics, along with those for energy and linear momentum.when there is zero net torque acting on an object, and the object is rotatingabout a fixed axis or about an axis through its center of mass whose directiondoesn’t change, we can write(8;20)and are the moment of inertia and angular velocity, respectively, about thataxis at some initial time and i and are their values at some other time.the parts of the object may alter their positions relative to one another, so that ichanges.
+
+
+
+236
+
+	since the angular momentum remains constant(we ignore the small torque due to friction), if i decreases, then the angularvelocity must increase.
+	the change inmoment of inertia from the straight position to the tuck position can be a factorof as much as note that for angular momentum to be conserved, the net torque must bezero; but the net force does not necessarily have to be zero.
+	8–28, for example, is not zero (gravity is acting), but the net torqueabout her cm is zero because the force of gravity acts at her center of mass.3 12 .clutch.
+	plate is accelerated from rest to an angular velocity in time calculate (a) the angular momentum of and (b) the torque required toaccelerate from rest to (c) next, plate initially at rest but free to rotate without friction, is placed in firm contact with freely rotating plate and the two plates then both rotate at a constant angular velocity which is considerably less than why does this happen, and what is approach we use angular momentum,(eq.
+	8–19.solution (a) the angular momentum of a cylinder, is(b) the plate started from rest so the torque, assumed constant, was(c) initially, before contact,is rotating at constant (we ignore friction).
+	you might think interms of the torque each exerts on the other upon contact.
+	8–20, since no externaltorques are assumed to act.
+
+
+
+238
+
+	that is also whatthe system’s angular momentum must be afterward, since is conserved when there is no net torque.
+	even though the person exerts a force (and torque) on the platform, the platform exerts an equal and opposite torque on the person.so the net torque on the system of person plus platform is zero (ignoring friction), and the total angular momentum remains constant.mr2l = iv = amr2b(v�r),vblbvblb= ivb .218chapter 8rotational motioncmpersonaxisplatformm(a)(b)lblbvbrlbfigure 8;32 example 8–16.exercise e in example 8–16, what if he moves the axis only 90° so it is horizontal?
+
+
+
+239
+
+	lines drawn perpendicularlyfrom the rotation axis to various points in the object all sweepout the same angle in any given time interval.angles are conventionally measured in radians, where oneradian is the angle subtended by an arc whose length is equalto the radius, orangular velocity,is defined as the rate of change ofangular position:(8;2)all parts of a rigid object rotating about a fixed axis have thesame angular velocity at any instant.angular acceleration,is defined as the rate of change ofangular velocity:(8;3)the linear velocity v and acceleration a of a point locateda distance r from the axis of rotation are related to and by(8;4)(8;5)(8;6)where and are the tangential and radial (centripetal)components of the linear acceleration, respectively.the frequency f is related to by(8;7)and to the period t by(8;8)if a rigid object undergoes uniformly accelerated rotationalmotion equations analogous to those for linearmotion are valid:(8;9)the torque due to a force exerted on a rigid object isequal to(8;10)where called the lever arm, is the perpendicular distancefrom the axis of rotation to the line along which the force acts,and is the angle between and r.fbur⊥,t = r⊥f = rf⊥ = rf sin u,fbv2 = v02 + 2au,  j = v + v02.v = v0 + at,  u = v0t +12 at2,(a = constant),t = 1�f.v = 2pf,varatanar = v2r,atan = ra,v = rv,ava =¢v¢t.a,v =¢u¢t.v, 1 rad l  57.3°.
+	8–20).the rotational kinetic energy of an object rotating about afixed axis with angular velocity is(8;15)for an object both translating and rotating, the totalkinetic energy is the sum of the translational kinetic energy ofthe object’s center of mass plus the rotational kinetic energy of the object about its center of mass:(8;16)as long as the rotation axis is fixed in direction.the angular momentum l of an object rotating about afixed rotation axis is given by(8;18)newton’s second law, in terms of angular momentum, is(8;19)if the net torque on an object is zero,sothis is the law of conservation of angularmomentum for a rotating object.the following table summarizes angular (or rotational)quantities, comparing them to their translational analogs.translationrotationconnectionxvamif[*angular velocity, angular acceleration, and angularmomentum are vectors.
+
+
+
+240
+
+	can a small force ever exert a greater torque than a largerforce?
+	if the net force on a system is zero, is the net torque also zero?if the net torque on a system is zero, is the net force zero?explain and give examples.6.
+
+
+
+241
+
+	which force shown exerts thelargest magnitude torque on the board?4u.2u.u.14 u.12 u.12 t?tu8.
+	the string is shortened by pulling it through the axisof rotation without any external torque, fig.
+	the string is shortened by pulling it through the axisof rotation without any external torque, fig.
+	the length of the beam isand,so thatand.of the following expressions, which ones give the correct torqueproduced by the force around point p?
+
+
+
+243
+
+	calcu-late (a) the angular acceleration of the pottery wheel, and(b) the time it takes the pottery wheel to reach its requiredspeed of 65 rpm.8;4 torque24.
+	(a) what is the maximum torque she exerts?
+	(b) how could she exert more torque?25.
+	(ii) calculate the net torque about the axle of the wheelshown in fig.
+	assume that a friction torque ofopposes the motion.0.60 m�n7.2 rad�s2,29.
+	(ii) determine the net torque onthe 2.0-m-long uniform beam shownin fig.
+	what is the magnitude of the torqueif the force is exerted (a) perpendicular to the door and (b) at a 60.0° angle to the face of the door?27.
+	calculate the magnitude and direction of the net torque on this system when it is first released.18 n35 n28 n24 cm12 cm135°figure 8;42 problem 25.mml1l2figure 8;43 problem 27.28.
+	(ii) the bolts on the cylinder head of an engine requiretightening to a torque of if a wrench is 28 cm long,what force perpendicular to the wrench must the mechanicexert at its end?
+	(ii) a merry-go-round accelerates from rest to in 34 s. assuming the merry-go-round is a uniform disk ofradius 7.0 m and mass 31,000 kg, calculate the net torquerequired to accelerate it.33.
+	calculate (a) its moment ofinertia about its center, and (b) the applied torque neededto accelerate it from rest to 1750 rpm in 5.00 s. take intoaccount a frictional torque that has been measured to slowdown the wheel from 1500 rpm to rest in 55.0 s.35.
+	calcu-late (a) the torque needed, and(b) the force that must be exertedby the triceps muscle.
+
+
+
+244
+
+	(ii) a 0.72-m-diameter solid sphere can be rotated aboutan axis through its center by a torque of whichaccelerates it uniformly from rest through a total of160 revolutions in 15.0 s. what is the mass of the sphere?43.
+	(b) how much torque must themotor apply to bring the blades from rest up to a speedofin 8.0 s?6.0 rev�s10.8 m�nma = 8.0 kga = 1.00 m/s2mb = 10.0 kgtbta32°61°bfbfbfigure 8;51 problem 46.37.
+	(ii) a softball player swings a bat, accelerating it from restto in a time of 0.20 s. approximate the bat as a 0.90-kg uniform rod of length 0.95 m, and compute thetorque the player applies to one end of it.38.
+	(ii) a small 350-gram ball on the end of a thin, light rod is rotated in a horizontal circle of radius 1.2 m. calculate(a) the moment of inertia of the ball about the center ofthe circle, and (b) the torque needed to keep the ball rotating at constant angular velocity if air resistance exertsa force of 0.020 n on the ball.
+	(ii) a centrifuge rotor rotating at 9200 rpm is shut off andis eventually brought uniformly to rest by a frictionaltorque of if the mass of the rotor is 3.10 kg andit can be approximated as a solid cylinder of radius0.0710 m, through how many revolutions will the rotorturn before coming to rest, and how long will it take?45.
+	(c) find the net torque actingon the pulley, and determine its moment of inertia, i.ftb,fta1.00 m�s241.
+	calculate the torque requiredto produce the acceleration, neglecting frictional torque.what force is required at the edge?40.
+	(a) howlarge is her torque on the wheel, if the diameter of the bowlis 9.0 cm?
+	(b) how long would it take for the potter’s wheel to stop if the only torque acting on it is due to the potter’shands?
+
+
+
+245
+
+	(i) an automobile engine develops a torque of at3350 rpm.
+	(b) how much torque is required to stop it in6.0 s?62.
+
+
+
+246
+
+	(ii) a nonrotating cylindrical disk of moment of inertia iis dropped onto an identical disk rotating at angular speed assuming no external torques, what is the finalcommon angular speed of the two disks?64.
+	(b) howmuch torque is required to slow her to a stop in 4.0 s,assuming she does not move her arms?67.
+	a 1.6-kg grindstone in the shape of a uniform cylinder ofradius 0.20 m acquires a rotational rate of fromrest over a 6.0-s interval at constant angular acceleration.calculate the torque delivered by the motor.24 rev�s1.35 rad�s.1.70 rad�s.1260 kg�m277.
+
+
+
+247
+
+	if the coefficient of static friction between a car’s tires andthe pavement is 0.65, calculate the minimum torque thatmust be applied to the 66-cm-diameter tire of a 1080-kgautomobile in order to “lay rubber” (make the wheels spin,slipping as the car accelerates).
+	suppose david puts a 0.60-kg rock into a sling of length1.5 m and begins whirling the rock in a nearly horizontalcircle, accelerating it from rest to a rate of 75 rpm after5.0 s. what is the torque required to achieve this feat, andwhere does the torque come from?81.
+
+
+
+248
+
+	(b) what is the torquethe water applies to thewaterwheel?
+	8–67 is 7.6 cm and its moment of inertia is a force of 3.5 n is exerted on the end of the roll for 1.3 s, but the paper does not tear so it begins to unroll.a constant friction torque of is exerted on theroll which gradually brings it to a stop.
+
+
+
+250
+
+	(e)is down,is up, and they are equal.in this chapter, we will study a special case in mechanics—when the net forceand the net torque on an object, or system of objects, are both zero.
+	we will be concerned mainly with the first situation, in which theobject or objects are all at rest, or static ().the net force and the net torque can be zero, but this does not imply that noforces at all act on the objects.
+
+
+
+252
+
+	although the two forces labeled add up to give zero netforce on the object, they do give rise to a net torque that will rotate the object.fbfafbbfbafb = fa cos 60° = (231 kg)(g)(0.500) = (115 kg)g = 1130 n.©fx = fb - fa cos 60° = 0.©fx = 0,fa = (200 kg)gsin 60°= (231 kg)g = (231 kg)(9.80 m�s2) = 2260 n.©fy = 0fa sin 60° - (200 kg)(g) = 0fbamg = (200 kg)(g),fbbfay = fa sin 60°.fax = –fa cos 60°fa,fbafb .fafbbfba©fy = 0,©fx = 0fbb,fba ,fbbfbamg = (200 kg)a9.80 m�s2b = 1960 n.fbbfbaexample 9;2
+
+
+
+253
+
+	8–14,we see that if an object is to remain at rest, thenet torque applied to it (calculated about any axis) must be zero.
+	thus we havethe second condition for equilibrium: that the sum of the torques acting on anobject, as calculated about any axis, must be zero:(9;2)this condition will ensure that the angular acceleration,about any axis will be zero.
+	in such cases the torque is calculated about an axis that is perpen-dicular to the xy plane.
+	once the axis is chosen, all torques must be calcu-lated about that axis.a lever.
+	the small rock acts as a fulcrum (pivot point).the force required at the long end of the bar can be quite a bit smaller than the rock’s weight mg, since it is the torques that balance in the rotation about the fulcrum.
+	in orderto pry the rock, the torque due to must at least balance the torque due to mg;that is,andwith r smaller, the weight mg can be balanced with less force the ratio is the mechanical advantage of the system.
+	wewill mainly consider situations in which all the forces act in a plane, so we canhave two force equations (x and y components) and one torque equation, for atotal of three equations.
+	when using a torque equation, a torque that tends to rotatethe object counterclockwise is usually considered positive, whereas a torque thattends to rotate it clockwise is considered negative.
+	for more complicated objects, the cg can be determined as discussed in section 7–8.r�rfp.rr =fpmg.mgr = fprfpr�rfpfpconceptual example 9;3©t = 0(v = 0),a,©t = 0.©t = ia,section 9–2solving statics problems233c a u t i o naxis choice foris arbitrary.all torques must be calculated about the same axis.©t = 0rrfpbmgbfigure 9–6 example 9–3.
+
+
+
+254
+
+	for the torque equation,choose any axis perpendicular to the xy plane thatmight make the calculation easier.
+	(for example, youcan reduce the number of unknowns in the resultingequation by choosing the axis so that one of theunknown forces acts through that axis; then this forcewill have zero lever arm and produce zero torque, andso won’t appear in the torque equation.)
+	give each torque a or sign to indicatetorque direction.
+	for example, if torques tendingto rotate the object counterclockwise are positive,then those tending to rotate it clockwise are negative.5.
+	using letters to represent unknowns, write down theequilibrium equations for the forces:andassuming all the forces act in a plane.©fy = 0,©fx = 0p h y s i c s  a p p l i e dbalancing a seesaw(a)ma = 30 kgabmb = 25 kg   nxxm= (4.0 kg)   b = mb(b)+ torque− torqueppygbgbgb   a = magbfbfbfb2.5 m2.5 mfigure 9–7 (a) two children on aseesaw, example 9–4.
+
+
+
+255
+
+	4. torque equation.
+	let us calculate the torque about an axis through the boardat the pivot point, p. then the lever arms for and for the weight of theboard are zero, and they will contribute zero torque about point p. thus thetorque equation will involve only the forces and which are equal tothe weights of the children.
+	the torque exerted by each child will be mg timesthe appropriate lever arm, which here is the distance of each child from thepivot point.tends to rotate the board counterclockwise and clockwise , so the torque equation isorwhere two terms were dropped because their lever arms were zero.5.
+	we solve the torque equation for x and findto balance the seesaw, child b must sit so that her cg is 3.0 m from the pivotpoint.
+	this makes sense: since she is lighter, she must sit farther from the pivot than the heavier child in order to provide torques of equal magnitude.exercise c we did not need to use the force equation to solve example 9–4 becauseof our choice of the axis.
+	we choose a con-venient axis for writing the torque equation: the point of application of (labeled p), so will not enter the equation (its lever arm will be zero) and wewill have an equation in only one unknown,solution the torque equation,, with the counterclockwise directionas positive, givessolving for we find to find we usewith upward:putting inwe find thatfigure 9–9 shows a uniform beam that extends beyond its support like adiving board.
+
+
+
+256
+
+	(thehinge is assumed small and smooth, so it can exert no internal torque on the beam.
+	it also shows the components of and a guessfor the direction of we have three unknowns,and (we aregiven ), so we will need all three equations,solution the sum of the forces in the vertical (y) direction is(i)in the horizontal (x) direction, the sum of the forces is(ii)for the torque equation, we choose the axis at the point where and act.then our torque equation will contain only one unknown,because the leverarms for, and are zero.
+	we choose torques that tend to rotate thebeam counterclockwise as positive.
+
+
+
+257
+
+	alternate solution let us see the effect of choosing a different axis for calcu-lating torques, such as an axis through the hinge.
+	then the lever arm for iszero, and the torque equationbecomeswe solve this for and findwe get the same result, within the precision of our significant figures.note it doesn’t matter which axis we choose for.
+	the y component of the force equation isso immediately we havethe x component of the force equation isto determine both and we need a torque equation.
+	if we choose to calculate torques about an axis through the point where the ladder touches the cement floor, then which acts at this point, will have a lever arm of zero and so won’t enter the equation.
+	the torque equation about the ladder’s contact point on the cement isthusthen, from the x component of the force equation,since the components of areandthen(rounded off to two significant figures), and it acts at an angle to the floor ofnote the force does not have to act along the ladder’s direction becausethe ladder is rigid and not flexible like a cord or cable.fbcu = tan–1(118 n�44 n) = 70°.fc =2(44 n)2 + (118 n)2 = 126 n l  130 nfcy = 118 n,fcx = 44 nfbcfcx = fw = 44 n.fw =(1.5 m)(12.0 kg)a9.8 m�s2b4.0 m= 44 n.©t = (4.0 m)fw - (1.5 m)mg = 0.fwc2 = a2 + b2x0 = 2(5.0 m)2 - (4.0 m)2 = 3.0 mfbc ,fw ,fcx©fx = fcx - fw = 0.fcy = mg = 118 n.©fy = fcy - mg = 0,fcyfcx,fw ,©t = 0.©fy = 0,©fx = 0,mg = (12.0 kg)a9.80 m�s2b = 118 nfcyfcxfbcfbw.m = 12.0 kg.example 9;7*©t = 0fty = m2 g + mg = (12.5 kg + 28.0 kg)a9.80 m�s2b = 397 n.fty–mg(1.10 m) - mg(2.20 m) + fty(2.20 m) = 0.
+
+
+
+258
+
+	we wish to find the magnitude of which can be doneusing the torque equation and by choosing our axis through the joint so that contributes zero torque.solution (a) we calculate torques about the point where acts in fig.9–13a.theequation giveswe solve for (b) the lever arm, as calculated about the joint, is reduced by the factor for all three forces.
+	our torque equation will look like the one just above, exceptthat each term will have its lever arm reduced by the same factor, which willcancel out.
+
+
+
+259
+
+	we can calculate using the torque equation if we take the axisat the base of the spine (point s); with this choice, the other unknown,doesn’tappear in the equation because its lever arm is zero.
+	9–14b to be their respective distances from s times tends to rotate the trunk counterclockwise, which we take to be positive.then will contribute negative torques.
+
+
+
+260
+
+	9–4 stability and balancean object in static equilibrium, if left undisturbed, will undergo no translationalor rotational acceleration since the sum of all the forces and the sum of all thetorques acting on it are zero.
+	9–15a) due to the net force and torque exerted on it.
+	if its center of grav-ity is directly over its tip (fig.9–15b), the net force and net torque on it will be zero.but if it is displaced ever so slightly as shown—say, by a slight vibration or tiny aircurrent—there will be a torque on it, and this torque acts to make the pencil continueto fall in the direction of the original displacement.
+	if it is movedslightly to one side, it will remain in its new position—no net torque acts on it.240chapter 9p h y s i c s  a p p l i e dhumans and balance(a)(b)netforcefigure 9–15 (a) stable equilibrium,and (b) unstable equilibrium.cgcg(b)(a)(c)cgfigure 9–16 equilibrium of arefrigerator resting on a flat floor.totalcgfigure 9–17 humans adjust theirposture to achieve stability whencarrying loads.in most situations, such as in the design of structures and in working with thehuman body, we are interested in maintaining stable equilibrium, or balance, as wesometimes say.
+	if it is tipped slightly, it will return to its original position due to the torque on it as shown in fig.
+	when the cg is on one side, the torque pullsthe object back onto its original base of support, fig.
+	if the object is tippedfurther, the cg goes past the pivot point and the torque causes the object to topple,fig.
+	this is because the normal force upward on the object (which balancesout gravity) can be exerted only within the area of contact, so if the force of gravityacts beyond this area, a net torque will act to topple the object.stability, then, can be relative.
+
+
+
+268
+
+	we set equal to zero the total torque calculated about the apex ofthe arch due to the three forces exerted on that half arch.
+	the torque equationcontains three terms: the weight above, the support below, and thehorizontal force which for the round arch (see fig.
+	for the pointed arch, the torque equa-tion is (see fig.
+
+
+
+269
+
+	the subject con-cerned with the determination of the forces within a structureat rest is called statics.the two necessary conditions for an object to be in equi-librium are (1) the vector sum of all the forces on it must be zero, and (2) the sum of all the torques (calculated aboutany arbitrary axis) must also be zero.
+
+
+
+270
+
+	6. can the sum of the torques on an object be zero while thenet force on the object is nonzero?
+	(a) what force produces the torque to keep the wallupright?
+
+
+
+271
+
+	(e) much more than the woman’s weight.figure 9–42misconceptual question 3:beam and cable.fbθfigure 9–43misconceptual question 4.ab10.0 nfigure 9–44misconceptual question 6.figure 9–45misconceptualquestion 8.2. when you apply the torque equation to an objectin equilibrium, the axis about which torques are calculated(a) must be located at a pivot.
+
+
+
+272
+
+	9–49 if sheexerts a torque of on the board, relativeto the left (a) support post?1800 m�nproblems   c   b  a105°?fbfbfbfigure 9–46problem 1.hip jointmcgfigure 9–47 problem 2.2.
+	9–48a) must always be carefullybalanced so that there is no net torque tending to tip it.a particular crane at a building site is about to lift a 2800-kg air-conditioning unit.
+
+
+
+274
+
+	(c) determine d fromthe appropriate torque equation.w = 22 n3.8 kgm =figure 9–67problem 27.figure 9–66problem 26.28.
+
+
+
+277
+
+	calculate the torque aboutthe potential pivot point,the rear edge of thebuilding (where acts infig.
+
+
+
+279
+
+	9–92, the support exerts atorque on the shelf.
+	then calculate (b) the magni-tudes of the three forces and (c) the torque exerted by thesupport (about the left end of the shelf).81. a cubic crate of sideis top-heavy: its cg is18 cm above its true center.
+	in example 9–6, the torque is calculated around the axiswhere the cable is attached to the beam.
+
+
+
+308
+
+	the outer cylinder isfixed, and a torque of keeps the inner cylinderturning at a steady rotational speed of what isthe viscosity of the liquid?
+
+
+
+492
+
+	if the apparatus is thensubjected to a uniform electric field e parallel to the tableand perpendicular to the rod, find the net torque on thesystem of rod plus charges.66.
+
+
+
+524
+
+	electric cars need no gear changes and can developfull torque starting from rest, and so can accelerate quickly and smoothly.
+
+
+
+580
+
+	magnetism56020chaptercontents20–1 magnets and magnetic fields20–2 electric currents producemagnetic fields20–3 force on an electric currentin a magnetic field;definition of 20–4 force on an electric chargemoving in a magnetic field20–5 magnetic field due to along straight wire20–6 force between two parallelwires20–7 solenoids and electromagnets20–8 ampère’s law20–9 torque on a current loop;magnetic moment20–10 applications: motors,loudspeakers, galvanometers*20–11 mass spectrometer*20–12 ferromagnetism: domainsand hysteresisbbmagnets produce magnetic fields,but so do electric currents.
+
+
+
+595
+
+	20–33.n�l,[solenoid]b = m0 inl,bl = m0 ni,m0bllab|| ¢lbcd = bl,section 20–9torque on a current loop; magnetic moment575iiba  2   1   1   2iiiiiii(a)b(b)axisaxis of rotationi   2  1(c)axisθ(   to coil face) m = niafbfbfbfbfbfbbbbbbbfigure 20–34 calculating thetorque on a current loop in amagnetic field (a) loop faceparallel to field lines; (b) top view;(c) loop makes an angle to reducing the torque since the leverarm is reduced.bb,bbbb.20–9 torque on a current loop;magnetic momentwhen an electric current flows in a closed loop of wire placed in an externalmagnetic field, as shown in fig.
+	20–34, the magnetic force on the current canproduce a torque.
+	20–34a, whose face weassume is parallel to .exerts no force and no torque on the horizontalsegments of wire because they are parallel to the field andin eq.
+	these forces give rise to a net torque that acts torotate the coil about its vertical axis.let us calculate the magnitude of this torque.
+	the torques around this axis produced by and act in thesame direction (fig.
+	20–34b), so the total torque is the sum of the two torques:whereis the area of the coil.
+	if the coil consists of n loops of wire, thecurrent is then ni, so the torque becomesif the coil makes an angle with the magnetic field, as shown in fig.
+	so the torque becomes(20;10)this formula, derived here for a rectangular coil, is valid for any shape of flat coil.the quantity nia is called the magnetic dipole moment of the coil:(20;11)and is considered a vector perpendicular to the coil.m = niat = niab sin u.bbu12 b sin u.12 bt = niab.a = abt = iab b2 + iab b2= iabb = iab,tfb2fb1b�2,f = iab,acurrent ⊥ bb b,fb2fb2fb1sin u = 0bbbb
+
+
+
+596
+
+	torque on a coil.
+	determine the maximum and mini-mum torque exerted on the coil by the field.approach equation 20–10 is valid for any shape of coil, including circularloops.
+	maximum and minimum torque are determined by the angle the coilmakes with the magnetic field.solution the area of one loop of the coil isthe maximum torque occurs when the coil’s face is parallel to the magneticfield, soin fig.
+	20–10:the minimum torque occurs iffor whichand thenfromeq.
+	whencurrent flows through the loop of wire, the magnetic field b exerts a torque onthe loop, as given by eq.
+	20–10,this torque is opposed by a spring which exerts a torque approximatelyproportional to the angle through which it is turned (hooke’s law).
+	the coil and attached pointerrotate to the angle where the torques balance.
+	when the needle is in equilibriumat rest, the torques have equal magnitude:sothe deflection of the pointer,is directly proportional to the current i flowingin the coil, but also depends on the angle the coil makes with for a usefulmeter we need to depend only on the current i, independent of to solve thisproblem, magnets with curved pole pieces are used and the galvanometer coil iswrapped around a cylindrical iron core as shown in fig.
+	the force is then always perpendicular to theface of the coil, and the torque will not vary with angle.
+
+
+
+597
+
+	electric motorsan electric motor changes electric energy into (rotational) mechanical energy.a motor works on the same principle as a galvanometer (a torque is exerted on acurrent-carrying loop in a magnetic field) except that the coil must turn continu-ously in one direction.
+	current flows through each coil only during asmall part of a revolution, at the time when its orientation results in the maximumtorque.
+	in this way, a motor produces a much steadier torque than can be obtainedfrom a single coil.an ac motor, with ac current as input, can work without commutators since thecurrent itself alternates.
+
+
+
+600
+
+	20–35 experiences a torque thattends to align it; (2) diamagnetic materials have atoms with no net dipole moment, but in the pres-ence of an external field electrons revolving in one direction increase in speed slightly whereaselectrons revolving in the opposite direction are reduced in speed; the result is a slight net magneticeffect that opposes the external field.12,0002000400048120b (g)a6000800010,000bb0 (g)figure 20–45 total magnetic field b in aniron-core toroid as a function of the externalfield (is caused by the current i in the coil).we use gauss so that labels are clear.
+
+
+
+601
+
+	parallel currents in the same directionattract each other; currents in opposite directions repel.the magnetic field inside a long tightly wound solenoid is(20;8)where n is the number of loops in a length of coil, and i is thecurrent in each loop.ampère’s law states that around any chosen closed looppath, the sum of each path segment times the component of parallel to the segment equals times the current ienclosed by the closed path:(20;9)the torque on n loops of current i in a magnetic field is(20;10)the force or torque exerted on a current-carrying wire by amagnetic field is the basis for operation of many devices, suchas motors, loudspeakers, and galvanometers used in analogelectric meters.
+
+
+
+606
+
+	if a 7.20-a clockwise current passes through the coil,(a) determine the torque on the coil, and (b) which edge ofthe coil rises up: north, east, south, or west?
+	(b) show thatoutside thecoaxial cable.b = 0(= ground)b = m0 i�2pr20–9 and 20–10 torque on current loop, motors,galvanometers51.
+	20–34b.when 5.70 a flows in the coil, the torque on it is what is the magnetic field strength?52.
+	(i) if the current to a motor drops by 12%, by what factordoes the output torque change?0.325 m�n.47.
+
+
+
+608
+
+	80. a motor run by a 9.0-v battery has a 20-turn square coilwith sides of length 5.0 cm and total resistance whenspinning, the magnetic field felt by the wire in the coil is0.020 t. what is the maximum torque on the motor?81.
+
+
+
+610
+
+	electromagnetic inductionand faraday’s law590chaptercontents21–1 induced emf21–2 faraday’s law of induction;lenz’s law21–3 emf induced in a moving conductor21–4 changing magnetic flux produces an electric field21–5 electric generators21–6 back emf and counter torque; eddy currents21–7 transformers and transmission of power*21–8 information storage:magnetic and semiconductor;tape, hard drive, ram*21–9 applications of induction:microphone, seismograph, gfci*21–10 inductance*21–11 energy stored in a magnetic field*21–12 lr circuit*21–13 ac circuits and reactance*21–14 lrc series ac circuit*21–15 resonance in ac circuitschapter-opening question—guess now!in the photograph above, the bar magnet is inserted down into the coil of wire,and is left there for 1 minute; then it is pulled up and out from the coil.
+
+
+
+619
+
+	21–5 for n withn =e0bav =170 v(0.15 t)a2.0 * 10–2 m2ba377 s–1b= 150 turns.v = 2pf = (6.28)a60 s–1b = 377 s–1:e0 = nbav.e0 = 170 v?2.0 * 10–2 m2,example 21;721–6 back emf and counter torque;eddy currentsback emf, in a motora motor turns and produces mechanical energy when a current is made to flow init.
+	from our description in section 20–10 of a simple dc motor, you might expectthat the armature would accelerate indefinitely due to the torque on it.
+
+
+
+620
+
+	the current will increase and may become large enough that thewindings of the motor heat up and may melt, ruining the motor.e r v,conceptual example 21;9counter torque, in a generatorin a generator, the situation is the reverse of that for a motor.
+	because this current-carryingcoil is in an external magnetic field, there will be a torque exerted on it (as ina motor), and this torque opposes the motion (use right-hand-rule-2, page 568,for the force on a wire in fig.
+	this is called a counter torque.the greater the electrical load—that is, the more current that is drawn—thegreater will be the counter torque.
+	hence the external applied torque will have tobe greater to keep the generator turning.
+
+
+
+636
+
+	similarly, a generator actssomewhat like a motor in that a counter torque acts on itsrotating coil.a transformer, which is a device to change the magnitudeof an ac voltage, consists of a primary coil and a secondary coil.the changing flux due to an ac voltage in the primary coilinduces an ac voltage in the secondary coil.
+
+
+
+637
+
+	21–14 and 21–17 plus the right-hand rules to showwhy the counter torque in a generator opposes the motion.13.
+
+
+
+641
+
+	consider the resistance of thewire on the armature.21–6 back emf and torque24.
+
+
+
+644
+
+	(a) how much current does the motor drawto produce the required torque?
+	]a 1240 sb.¢blv0 = 170 v.f = 60 hzi0 = 155 af = 60 hzsearch and learna: (e).b: (a) counterclockwise; (b) clockwise; (c) zero;(d) counterclockwise.c: clockwise (conventional current counterclockwise).d: (a) increase (brighter); (b) yes; resists more (countertorque).e: 10 turns.f: from eq.
+
+
+
+1047
+
+	archimedes, 268–70archimedes’ principle, 268–72and geology, 272area, 12, a-1, inside back coverunder a curve or graph, 142,176–77arecibo radiotelescope, 643 pr,731aristotle, 2, 76armature, 577, 597arteriosclerosis, 280artificial radioactivity, 863asa number, 715 fnasteroids, 135 pr, 136 pr,196 pr, 228 prastigmatism, 720, 727astronomical telescope, 650,724–25, 743 prastrophysics, 916, 947 ffasymptotic freedom, 937atlas, 921, 939atmosphere (atm) (unit), 264atmosphere, scattering of lightby, 704atmospheric pressure, 264,266–67decrease with altitude, 264atom, model of, 445atom trap, 802 pratomic bomb, 893–94, 897atomic density, 859atomic emission spectra,692–93, 787–89atomic force microscope(afm), 786atomic mass, 360atomic mass number (a), 858atomic mass unit, unified, 10,360, 860atomic number (z), 815,817–19, 858atomic spectra, 787–89, 792–94atomic structure:bohr model of, 789–95,803–4, 811–12of complex atoms, 816–17early models of, 786–87of hydrogen atoms, 812–14of multielectron atoms,816–17nuclear model of, 787planetary model of, 787quantum mechanics of,803–24shells and subshells in,816–17atomic theory of matter,359–61, 443atomic weight, 360atomizer, 277atoms, 359–61, 372–77, 786–96,916 fnangular momentum in, 789,812–14binding energy in, 791bohr model of, 789–95as cloud, 811complex, 815–17crystal lattice of, 840and de broglie’s hypothesis,795–96distance between, 361electric charge in, 445energy levels in, 789–95,812–13, 815–16, 818hydrogen, 787–96, 812–14ionization energy in, 791–94multielectron, 815–17neutral, 860probability distributions in,805, 811quantum mechanics of,803–24shells and subshells in,816–17(see also atomic structure;kinetic theory)atp, 833attack angle, 277attractive forces, 832–33, 922atwood machine, 91, 225 praudible range, 329audible sound, frequency of,329, 334–35audiofrequency (af) signal, 637aurora borealis, 569autofocusing camera, 330autoradiography, 904average acceleration (defn),26–27, 40average angular acceleration,201average angular velocity, 200average speed (defn), 23–24, 376average velocity (defn), 23–25,28, 39avogadro, amedeo, 372avogadro’s hypothesis, 372avogadro’s number, 372–73axis of lens, 661axis of rotation (defn), 199forces tilting, 208 axon, 517–19back, forces in, 238–39back emf, 599–600background radiation, cosmicmicrowave, 967–70, 973,974, 977–78backlight, 491bacterium, 785bainbridge-type massspectrometer, 578balance, human, 240ballistic galvanometer, 624 prballistic pendulum, 181balloons:helium, 272, 371hot-air, 43 pr, 359, 389 prbalmer, j. j., 788balmer formula, 789, 792balmer series, 788, 792–93band gap, 842–43band spectra, 837band theory of solids, 842–43and doped semiconductors,845bandwidth, 489banking of curves, 115–17bar (unit), 264, 267bar codes, 822barometer, 266–67barrel distortion, 728barrier, coulomb, 876, 954–55barrier tunneling, 876–77baryon, 930–31, 935, 936–38,976–78decay, 931and quark theory, 934–35baryon number, 926–27,930–31, 933–35, 940, 971conservation of, 927base, of transistor, 850base bias voltage, 850base quantities, 10base semiconductor, 850base units (defn), 10baseball, 68 pr, 70 pr, 74 pr,102 pr, 138, 220 pr, 278position uncertainty, 809baseball curve, and bernoulli’sprinciple, 278bases, nucleotide, 460–61,834–36basketball, 73 pr, 102 prbattery, 476, 502–3, 505, 507, 527automobile, charging,536–37, 604chargers, inductive, 604electric, 502–3jump starting, 536–37lithium-ion, 504rechargeable, 604symbol, 504, 526voltaic, 502bayer mosaic, 714, 717beam splitter, 698beams, 235–36, 245–47bear sling, 105, 252beat frequency, 343beats, 342–43becquerel, henri, 863becquerel (bq) (unit), 900bel (unit), 331bell, alexander graham, 331benzene ring, 849bernoulli, daniel, 274–75bernoulli’s equation, 274–79bernoulli’s principle, 274–78beta decay, 863–64, 866–68,869, 873, 938inverse, 956beta particle (or ray), 864, 866(see also electron)bethe, hans, 896biasing and bias voltage,845–46, 850–51biceps, and torque, 238, 255 prbicycle, 205, 218, 227 pr, 229 prbicycle gears, 227 prbig bang theory, 801 pr, 941,947, 964, 966–79big crunch, 975bimetallic strip, 362bimetallic-strip thermometer,362binary code, 604binary numbers, 488binary system, 956–57, 963binding energy:in atoms, 791for iron, 862in molecules, 830, 832–33,834–35of nuclei, 860–62in solids, 840total, 769 pr, 861binding energy per nucleon(defn), 861, 894binoculars, 660, 725binomial expansion, 753, 755,763, a-1, a-6–a-7, insideback coverbiochemical analysis byspectroscopy, 693biological damage byradiation, 899biological development, andentropy, 430–31bipolar junction transistor,850–51birth and death of stars, 954–57bismuth-strontium-calcium-copper oxide (bscco),517bit depth, 488–89bit-line, 605bits, 604black holes, 136 pr, 951, 956,962–63, 975blackbody, 774blackbody radiation, 774, 952,968blinking flashers, 542blood flow, 274, 280, 282–83,288 prconvection by, 402rate, 584 prtias and, 278blood-flow measurement,electromagnetic, 596blood-flow meter, doppler,347, 358 prblood pressure, measuring,280, 283, 288 pr, 289 pr,290 prblood transfusion, 288 pr,289 prblue sky, 704blueshift, 965a-44index
+
+
+
+1050
+
+	constant angular acceleration,203–4constant-volume gasthermometer, 363constants, values of: insidefront coverconstructive interference,313–14, 341–43, 683 ff, 697,830contact, thermal, 363contact force, 76, 84, 87contact lenses, 721continent, 272, 289 prcontinental drift, 272, 289 prcontinuity, equation of, 273continuous laser, 822continuous spectrum, 692, 774continuous wave, 306contrast, 733control rods, 891convection, 402conventional current (defn),505conventions, sign (geometricoptics), 653, 655, 665converging lens, 661 ffconversion factors, 11, insidefront coverconverting units, 11–12convex mirror, 649, 655–56cooksey, donald, 917coordinate axes, 22cop, 426, 427copenhagen interpretation ofquantum mechanics, 811copernicus, nicolaus, 3, 125copier, electrostatic, 454,462–63cord, tension in, 89cordless phone, 604core, of reactor, 892coriolis acceleration,a-17–a-18coriolis effect, a-17–a-18coriolis force, a-17, a-18cornea, 719corrective lenses, 719–21correspondence principle, 765,795, 804cosine, 54, a-8cosmic acceleration, 976–77cosmic background explorer(cobe), 949, 968cosmic microwave backgroundradiation (cmb), 967–70,973, 974, 977–78anisotropy of, 968, 977uniformity of, 968, 974cosmic rays, 916cosmological constant, 977–78cosmological model, 970–78cosmological principle, 966perfect, 967cosmological redshift, 965cosmology, 941, 947–79coulomb, charles, 447coulomb (c) (unit), 448, 572operational definition of, 572coulomb barrier, 876, 954–55coulomb force, 450, 461coulomb potential (defn), 479coulomb’s law, 447–53, 463–64,626, 628, 790, 864vector form of, 450–53counter emf, 599–600counter torque, 600counters, 877–78counterweight, 91covalent bond, 830, 831–32,840cowan, clyde, 928 fncreativity in science, 2–3credit card reader, 606crest, wave, 306, 313–14crick, f., 735critical angle, 659critical damping, 303critical density, of universe,975critical mass, 891–94critical point, 377critical reaction, 891–94critical temperature, 377, 517cross section, 888–89crossed polaroids, 700–1crt, 490–92crystal, liquid, 261, 378crystal lattice, 360, 840crystalline solids, 840crystallography, 734ct scan, 735–36, 905–6curie, marie, 863curie, pierre, 863curie (ci) (unit), 900curie temperature, 579current, electric (see electriccurrent)current, induced, 590 ffcurrent gain, 851current sensitivity, 546curvature of field, 727curvature of space, 961–63,974–75curvature of universe(space–time), 961–63,974–75curveball, 278curves, banking of, 115–17cutoff wavelength, 818–19cycle (defn), 294cyclotron, 588 pr, 917–19cyclotron frequency, 568, 918cygnus x-1, 963cytosine, 460da vinci, leonardo, 4dac, 489, 559 prdamage, done by radiation,899dampers, building, 303damping and dampedharmonic motion, 303dante, 321 prdark energy, 916, 926, 973,975–77dark matter, 916, 942, 973,975–78hot and cold, 977–78data lines, 492data stream, 491dating:archeological, 875geological, 876radioactive, 874–76daughter nucleus (defn), 864davisson, c. j., 783db (unit), 331–33dc (defn), 514dc circuits, 526–48dc generator, 597, 599dc motor, 577de broglie, louis, 782, 795, 804de broglie wavelength, 782–83,795–96, 805, 917applied to atoms, 795–96debye (unit), 482decay, 863alpha, 864–66, 869beta, 863–64, 866–68, 869,873, 938, 956of elementary particles,927–42exponential, 540–41, 610, 870gamma, 863–64, 868–69proton, 930, 940–41radioactive, 863–78rate of, 869–73types of radioactive, 863–64,869decay constant, 869–70decay rates, 872–73decay series, 873–74, 884 prdeceleration, 27decibels (db) (unit), 331–33declination, magnetic, 562decommissioning nuclearpower plant, 892decoupled photons, 969, 973dee, 917–18defects of the eye, 719–21, 728defibrillator, heart, 487,498 pr, 543 fndefinite proportions, law of,360 fndegeneracy:electron, 955neutron, 956degradation of energy, 431degrees of freedom, a-20dehumidifier, 389 pr, 442 prdelayed neutrons, 891delta particle, 932democritus, 359demodulator, 638dendrites, 517density, 261–62charge, 465and floating, 271nuclear and atomic, 859probability, 805, 811, 814,830density of occupied states, 841density of universe, 975deoxyribonucleic acid, 460–62depletion layer, 845depth of field, 716depth finding, 349derived quantities, 11descriptive laws, 5destructive interference,313–14, 341–43, 683, 697,698, 830detection of radiation, 877–78,901detectors, of particles andradiation, 877–78detergents and surface tension,281determinism, 128, 810–11deuterium, 858, 883 pr, 886,891, 895–98, 914 pr, a-12deuterium–tritium fusion(d–t), 897deuteron, 858, 886, a-12dew point, 381diagrams:energy-level, 792, 815feynman, 922, 938force, 87free-body, 87–88h–r, 952–55, 958phase, 378phasor, 614potential, energy, 832–34pt, 378pv, 377–78, 414–16ray, 651, 655, 666for solving problems, 30, 57,60, 88, 115, 141, 158, 184,211, 234, 456, 655, 666diamagnetism, 580 fndiamond, 686diastolic pressure, 283diatomic molecules, 838–39,a-20–a-21dielectric constant, 485dielectric strength, 485dielectrics, 485–86molecular description of, 486diesel engine, 415difference in potential,electric, 474 ff (see alsoelectric potential; voltage)diffraction, 680, 687–93, 821by circular opening, 728–30in double-slit experiment,690of electrons, 783–84fresnel, 687of light, 680, 687–93indexa-47
+
+
+
+1067
+
+	superconductivity, 517supercritical reactions, 891, 894superdome (new orleans, la),248superfluidity, 378supernovae, 929–30, 951,955–58as source of elements onearth, 956type ia, 956, 957, 958, 976superposition, principle of,313–14, 340–41, 450–53, 455supersaturated air, 381supersonic speed, 329, 348–49superstring theory, 942supersymmetry, 939, 942supply voltage, 488surface area formulas, insideback coversurface of last scattering, 969surface tension, 280–82surface waves, 309–10surfactants, 281surgery, laser, 823susy, 942swing, children’s, 304symmetry, 14, 37, 62, 119, 183,186, 218, 233, 447 fn, 449,456, 457, 464, 465, 539,574, 626, 627, 653, 670,782, 934, 940, 942, 971symmetry breaking, 940, 971synapse, 517synchrocyclotron, 919synchrotron, 919synchrotron radiation, 919synodic period, 129, 137 prsystème international (si), 10,inside front coversystems, 90, 174, 394–96, 413closed, 394isolated, 174, 394–96open, 394overdamped, 303of particles, 187–89as set of objects, 90, 413underdamped, 303of units, 10systolic pressure, 283tacoma narrows bridge, 304tail-to-tip method of addingvectors, 51–52tangent, 39, 54, a-8tangential acceleration, 118,201–3tape recorder, 604tau lepton, 927, 930–31, 935tau lepton number, 927,930–31tau neutrino, 930–31technetium-99, 905technology generation, 851teeth, braces and forces on,231telephone, cell, 318, 602, 604,631, 639telephoto lens, 718telescope(s), 723–25, 730–32arecibo, 731astronomical, 650, 724–25,743 prgalilean, 723, 723 fn, 725hale, 725hubble space (hst), 136 pr,730, 743 pr, 961keck, 725keplerian, 723 fn, 724magnification of, 724reflecting, 725refracting, 724resolution of, 730–32space, 730, 950, 961terrestrial, 725television, 490–92, 636–39,703–4high definition, 491–92television receiver, 638tem, 785temperature, 361–63, 368absolute, 362, 368celsius (or centigrade), 362critical, 377, 517curie, 579distinguished from heat andinternal energy, 392fahrenheit, 362gradient, 400–1human body, 363, 400kelvin, 362, 368molecular interpretation of,373–76operating (of heat engine), 420relation to chemicalreactions, 377relation to molecular kineticenergy, 374–75, 392–93relation to molecularvelocities, 373–77scales of, 362–63, 368standard scale, 363of star, 952transition, 517of the universe, 941temperature coefficient ofresistivity, 508, 509–10temperature dependence ofresistivity, 509–10tennis serve, 73 pr, 172, 176,193 prtensile strength, 245tensile stress, 243–44tension (stress), 243–44tension, surface, 280–82tension in flexible cord, 89terminal, of battery, 503, 505terminal velocity, 34 fnterminal voltage, 527–28terrestrial telescope, 725tesla (t) (unit), 565test charge, 453testing, of ideas/theories, 3tevatron, 762, 919, 920tft, 492tftr, 898theories (general), 3–5theories of everything, 942therm (unit), 391thermal conductivity, 400–1thermal conductor, 401thermal contact, 363thermal energy, 156–57, 392distinguished from heat andtemperature, 392transformation of electric to,510(see also internal energy)thermal equilibrium, 363,394–95thermal expansion, 364–67anomalous behavior of waterbelow 4ºc, 366–67coefficients of, 364linear expansion, 364–65volume expansion, 366thermal insulator, 401thermal pollution, 434–35thermal radiation, 403–6thermal resistance, 402thermal stress, 367thermal windows, 401thermionic emission, 490thermistor, 510thermodynamic processes,414–18adiabatic, 415–16isobaric, 415isothermal, 414–15isovolumetric, 415work done in volumechanges, 415–17thermodynamics, 363, 412–36first law of, 413–19second law of, 419–33third law of, 424zeroth law of, 363thermography, 405thermoluminescent dosimeter(tld), 901thermometers, 361–63bimetallic-strip, 362constant-volume gas, 363liquid-in-glass, 362mercury-in-glass, 361–62resistance, 510thermonuclear devices, 897thermonuclear runaway, 957thermostat, 384 pr, 411 prthin lens equation, 664–67thin lenses, 661–70thin-film interference, 693–98thin-film transistor (tft), 492third law of motion, 81–83third law of thermodynamics,424thomson, g. p., 783thomson, j. j., 772–73, 783, 784thought experiment, 749 and ff, 807definition, 749three mile island, 892three-dimensional waves, 310three-way lightbulb, 556 prthreshold energy, 887threshold of hearing, 335threshold of pain, 335thymine, 460tia, 278tidal wave, 306timbre, 340time:absolute, 746characteristic expansion, 967lookback, 951, 969planck, 941, 970proper, 753, 945 prrelativity of, 749–55, 758–59standard of, 9time constant, 540, 610, 871time dilation, 750–55, a-25time-of-flight, 906time intervals, 9, 24time’s arrow, 431tire pressure, 372tire pressure gauge, 266tld, 901tokamak, 898tokamak fusion test reactor(tftr), 898tomography, 735–37image formation, 736image reconstruction, 736–37tone color, 340toner, 462toothbrush, electric, 604top quark, 934topographic map, 478toroid, 580, 586 pr, 898toroidal field, 898torque, 206–8 ffcounter, 600on current loop, 575–76work done by, 214torr (unit), 266torricelli, evangelista, 266–67,276torricelli’s theorem, 276torsion balance, 447torus, 580, 586, 898total binding energy, 769 pr,861total internal reflection,327 pr, 659–61total magnifying power, 724total mechanical energy (defn),150, 295–97townsend, j. s., 773tracers, 904–5traffic light, led, 848transfer-rna (t-rna), 836–37a-64index
+
+
+
+1070
+
+	wess, j., 942whales, echolocation in, 309wheatstone bridge, 556 prwhirlpool galaxy, 950white dwarfs, 951, 953, 955–57white light, 686white-light holograms, 824white-light led, 848whole-body dose, 902wide-angle lens, 718, 728width, of resonance, 932wien’s (displacement) law, 774,952, 953wilkinson, d., 968wilkinson microwaveanisotropy probe(wmap), 931 fn, 968wilson, robert, 919 fn, 967–68wimps, 976wind:as convection, 402and coriolis effect, a-18noise, 340power, 435wind instruments, 317, 337–40windings, 577windows:heat loss through, 401thermal, 401windshield wipers,intermittent, 543wing of an airplane, lift on, 277wire, ground, 544–45wire drift chamber, 878 fnwire proportional chamber,878 fnwire-wound resistor, 506wireless communication, 625,636–39wireless transmission of power,604wiring, electrical, 545witten, edward, 942wmap, 931 fn, 968word-line, 605work, 138–45, 155, 391, 412–19to bring positive chargestogether, 480compared to heat, 412defined, 139, 412 ffdone by a constant force(defn), 139–42done by an electric field, 474done by a gas, 414 ffdone by torque, 214done by a varying force, 142done in volume changes,415–17in first law ofthermodynamics, 413–19graphical analysis for, 142from heat engines, 420 ffon the moon, 142negative, 140and power, 159–61relation to energy, 142–47,155, 157–61units of, 139work function, 776–77work-energy principle, 142–45,150, 760, 921energy conservation vs., 157as reformulation of newton’slaws, 144working off calories, 392working substance (defn),421wrench, 223 prwright, thomas, 948writing data, 605xdf (hubble extreme deepfield), 947, 961xerox (see photocopier)xi (particle), 931xi—anti-xi pair, 925x-rays, 630, 733–36, 817–19,869and atomic number, 817–19characteristic, 818in electromagnetic spectrum,630spectra, 817–19x-ray crystallography, 734x-ray diffraction, 733–35x-ray image, normal, 735x-ray scattering, 780ybco superconductor, 517yerkes observatory, 724yosemite falls, 155young, thomas, 682, 685young’s double-slitexperiment, 682–85, 690,805–6young’s modulus, 241–42yo-yo, 227 pryttrium, barium, copper,oxygen superconductor(ybco), 517yukawa, hideki, 922–23yukawa particle, 922–23z (atomic number), 815,817–19, 858z0 particle, 826 pr, 915, 924,930–32, 937z-particle decay, 924zeeman effect, 812zener diode, 846zero, absolute, temperature of,368, 424zero-point energy, 839zeroth law of thermodynamics,363zoom, digital, 718zoom lens, 718zumino, b., 942zweig, g., 934indexa-67
+
+
+

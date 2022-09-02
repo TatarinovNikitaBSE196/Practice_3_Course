@@ -1,0 +1,1325 @@
+3
+
+	applications listxprefacexiiito studentsxviiiuse of colorxix1introduction, measurement,estimating1the nature of science2physics and its relation to other fields4models, theories, and laws5measurement and uncertainty;significant figures5units, standards, and the si system8converting units11order of magnitude: rapid estimating13*dimensions and dimensional analysis16questions, misconceptual questions 17problems, search and learn 18–202describing motion: kinematicsin one dimension21reference frames and displacement 22average velocity23instantaneous velocity 25acceleration26motion at constant acceleration28solving problems30freely falling objects33graphical analysis of linear motion39questions, misconceptual questions 41–42problems, search and learn 43–482 – 82 – 72 – 62 – 52 – 42 – 32 – 22 – 11 – 81 – 71 – 61 – 51 – 41 – 31 – 21 – 13kinematics in two dimensions;vectors49vectors and scalars50addition of vectors—graphical methods 50subtraction of vectors, and multiplication of a vector by a scalar52adding vectors by components53projectile motion58solving projectile motion problems60*projectile motion is parabolic64relative velocity65questions, misconceptual questions 67–68problems, search and learn 68–744dynamics: newton’s lawsof motion75force76newton’s first law of motion 76mass78newton’s second law of motion78newton’s third law of motion81weight—the force of gravity;and the normal force84solving problems with newton’s laws:free-body diagrams87problems involving friction, inclines93questions, misconceptual questions 98–100problems, search and learn 101–85circular motion;gravitation109kinematics of uniform circular motion110dynamics of uniform circular motion112highway curves: banked and unbanked115*nonuniform circular motion118newton’s law of universal gravitation119gravity near the earth’s surface121satellites and “weightlessness”122planets, kepler’s laws, and newton’s synthesis125moon rises an hour later each day129types of forces in nature129questions, misconceptual questions 130–32problems, search and learn 132–375–105 – 95 – 85 – 75 – 65 – 55 – 45 – 35 – 25 – 14 – 84 – 74 – 64 – 54 – 44 – 34 – 24 – 13 – 83 – 73 – 63 – 53 – 43 – 33 – 23 – 1iiicontents
+
+
+
+4
+
+	ivcontents6 work and energy138work done by a constant force139*work done by a varying force142kinetic energy, and the work-energyprinciple142potential energy145conservative and nonconservative forces149mechanical energy and its conservation150problem solving using conservation of mechanical energy151other forms of energy and energytransformations; the law of conservation of energy155energy conservation with dissipativeforces: solving problems156power159questions, misconceptual questions 161–63problems, search and learn 164–697 linear momentum170momentum and its relation to force171conservation of momentum173collisions and impulse176conservation of energy and momentum in collisions177elastic collisions in one dimension178inelastic collisions180*collisions in two dimensions182center of mass (cm)184*cm for the human body186*cm and translational motion187questions, misconceptual questions 190–91problems, search and learn 192–977–107 – 97 – 87 – 77 – 67 – 57 – 47 – 37 – 27 – 16–106 – 96 – 86 – 76 – 66 – 56 – 46 – 36 – 26 – 18 rotational motion198angular quantities199constant angular acceleration203rolling motion (without slipping)204torque206rotational dynamics; torque and rotational inertia208solving problems in rotational dynamics210rotational kinetic energy212angular momentum and its conservation215*vector nature of angular quantities217questions, misconceptual questions 220–21problems, search and learn 222–299static equilibrium;elasticity and fracture230the conditions for equilibrium231solving statics problems233applications to muscles and joints238stability and balance240elasticity; stress and strain241fracture245*spanning a space: arches and domes246questions, misconceptual questions 250–51problems, search and learn 252–5910 fluids260phases of matter261density and specific gravity261pressure in fluids 262atmospheric pressure and gauge pressure264pascal’s principle265measurement of pressure;gauges and the barometer266buoyancy and archimedes’ principle268fluids in motion; flow rate and the equation of continuity272bernoulli’s equation274applications of bernoulli’s principle:torricelli, airplanes, baseballs,blood flow276*viscosity279*flow in tubes: poiseuille’s equation,blood flow279*surface tension and capillarity280*pumps, and the heart282questions, misconceptual questions 283–85problems, search and learn 285–9110–1410–1310–1210–1110–1010–910–810–710–610–510–410–310–210–19 – 79 – 69 – 59 – 49 – 39 – 29 – 18 – 98 – 88 – 78 – 68 – 58 – 48 – 38 – 28 – 1displacementforce
+
+
+
+19
+
+	)path of a movingobjectreal image(dashed)virtual image(dashed and paler)velocity (  )acceleration (  )momentum (   or      ) angular momentum (   )angular velocity (   )electric field (   )magnetic field (   )force on second objector third object in same figuredirection of motionor currentother++–lbfbebdbvbtbvbvbrbpbabbb
+
+
+
+36
+
+	supposethat you can’t remember whether the equation for the period t (the time to makeone back-and-forth swing) isor where g is theacceleration due to gravity and, like all accelerations, has dimensions (do not worry about these formulas—the correct one will be derived in chapter 11; what we are concerned about here is a person’s recalling whether itcontains or ) a dimensional check shows that the former is correct:whereas the latter is not:the constant has no dimensions and so can’t be checked using dimensions.2p[t] zdcl�t2d[l]=c1ct2d=1[t].
+
+
+
+41
+
+	the directions of the shuttle’s velocity and acceleration are shown by the green and gold arrows.motion is described using the concepts of velocity and acceleration.
+	the acceleration is in the opposite direction from the velocity which means the object is slowing down.we examine in detail motionwith constant acceleration,including the vertical motion of objects falling under gravity.vb,abvbaabbavbb21contents2–1 reference frames anddisplacement2–2 average velocity2–3 instantaneous velocity2–4 acceleration2–5 motion at constant acceleration2–6 solving problems2–7 freely falling objects2–8 graphical analysis of linear motionchapter-opening question—guess now!
+
+
+
+46
+
+	26chapter 2describing motion: kinematics in one dimension2–4 accelerationan object whose velocity is changing is said to be accelerating.
+	for instance, a carwhose velocity increases in magnitude from zero to is accelerating.acceleration specifies how rapidly the velocity of an object is changing.average acceleration is defined as the change in velocity divided by the time taken to make this change:in symbols, the average acceleration,, over a time intervalduringwhich the velocity changes byis defined as[average acceleration](2;4)we saw that velocity is a vector (it has magnitude and direction), so accelerationis a vector too.
+	but for one dimensional motion, we need only use a plus or minussign to indicate acceleration direction relative to a chosen coordinate axis.
+	)the instantaneous acceleration, a, can be defined in analogy to instantaneousvelocity as the average acceleration over an infinitesimally short time interval ata given instant:[instantaneous acceleration](2;5)here is the very small change in velocity during the very short time interval ¢t.¢va =lim¢t s 0¢v¢t.–±,a = v2 - v1t2 - t1=¢v¢t.¢v = v2 - v1 ,¢t = t2 - t1,aaverage acceleration = change of velocitytime elapsed.80 km�haccelerationa =  15 km/hsv1 =  0t1 =  0at t =  2.0 s    v =  30 km/hat t =  1.0 s    v =  15 km/hat t = t2 =  5.0 s    v = v2 =  75 km/hfigure 2;10 example 2–4.
+	the acceleration vector is the orangearrow, whose magnitude is constantand equals or (see top of next page).
+	distances arenot to scale.4.2 m�s215 km�h�st2 = 5.0 s.t = 2.0 s,t = 1.0 s,t1 = 0.v1 = 0average acceleration.
+	what is the magnitude of its average acceleration?approach average acceleration is the change in velocity divided by the elapsedtime, 5.0 s. the car starts from rest, so the final velocity is .solution from eq.
+	2–4, the average acceleration isthis is read as “fifteen kilometers per hour per second” and means that, onaverage, the velocity changed by 15 km h during each second.
+	that is, assumingthe acceleration was constant, during the first second the car’s velocity increasedfrom zero to 15 km h. during the next second its velocity increased by another15 km h, reaching a velocity of 30 km h atand so on.
+
+
+
+47
+
+	section 2–4acceleration27our result in example 2–4 contains two different time units: hours and seconds.we usually prefer to use only seconds.
+	to do so we can change km h to m s(see section 1–6, and example 1–5):thenwe almost always write the units for acceleration as (meters persecond squared) instead of this is possible because:note that acceleration tells us how quickly the velocity changes, whereasvelocity tells us how quickly the position changes.m�ss=ms�s = ms2 .m�s�s.m�s2a = 21 m�s - 0.0 m�s5.0 s= 4.2 m�ss= 4.2 ms2 .75 km�h =a 75 kmhb a 1000 m1 km b a 1 h3600 s b= 21 m�s.��velocity and acceleration.
+	(a) if the velocityof an object is zero, does it mean that the acceleration is zero?
+	(b) if theacceleration is zero, does it mean that the velocity is zero?
+	think of some examples.response a zero velocity does not necessarily mean that the accelerationis zero, nor does a zero acceleration mean that the velocity is zero.
+	(a) forexample, when you put your foot on the gas pedal of your car which is at rest,the velocity starts from zero but the acceleration is not zero since the velocityof the car changes.
+	(b) as you cruise along a straight highway ata constant velocity of , your acceleration is zero: a = 0,  v z 0.100 km�hconceptual example 2;5c a u t i o ndistinguish velocity fromaccelerationc a u t i o nif v or a is zero, is the other zero too?accelerationa = −2.0 m/s2v1 =  15.0 m/sat t1 =  0v2 =  5.0 m/sat t2 =  5.0 sfigure 2;11 example 2–6,showing the position of the car at times and as well as the car’s velocity represented by the green arrows.
+	the acceleration vector (orange) points to the left because the car slows down as it moves to the right.t2 ,t1v1 = −15.0 m/sv2 = −5.0 m/safigure 2;12 the car of example 2–6, now moving to the leftand decelerating.
+	the acceleration is, or= ±2.0 m�s2.= –5.0 m�s + 15.0 m�s5.0 sa =(–5.0 m�s) - (–15.0 m�s)5.0 sa = (v2 - v1)�¢tcar slowing down.
+	if the initial velocity (when the driver hits the brakes) isand it takes 5.0 s to slow down towhat was the car’s average acceleration?approach we put the given initial and final velocities, and the elapsedtime, into eq.
+	2–4, we call the initial timeand setthe negative sign appears because the final velocity is less than the initial velocity.in this case the direction of the acceleration is to the left (in the negative x direc-tion)—even though the velocity is always pointing to the right.
+	we say that theacceleration is to the left, and it is shown in fig.
+	but be careful:deceleration does not mean that the acceleration is necessarily negative.
+	2–11), the acceleration is negative.
+	butthe same car moving to the left (decreasing x), and slowing down, has positiveacceleration that points to the right, as shown in fig.
+	we have a decelera-tion whenever the magnitude of the velocity is decreasing; thus the velocityand acceleration point in opposite directions when there is deceleration.exercise c a car moves along the x axis.
+
+
+
+48
+
+	2–5 motion at constant accelerationwe now examine motion in a straight line when the magnitude of the accelerationis constant.
+	in this case, the instantaneous and average accelerations are equal.we use the definitions of average velocity and acceleration to derive a set ofvaluable equations that relate x,a, andwhen a is constant, allowing us todetermine any one of these variables if we know the others.
+	2–2)since we chosethe acceleration, assumed constant in time, is(eq.
+	2–4), soa common problem is to determine the velocity of an object after any elapsedtime when we are given the object’s constant acceleration.
+	we can solve suchproblems† by solving for in the last equation: first we multiply both sides by ,then, adding to both sides, we obtain[constant acceleration](2;6)if an object, such as a motorcycle (fig.
+	2–13), starts from restandaccelerates at after an elapsed timeits velocity will benext, let us see how to calculate the position x of an object after a time whenit undergoes constant acceleration.
+	2–2)iswhich we can rewrite by multiplying both sides by(2;7)because the velocity increases at a uniform rate, the average velocity,will bemidway between the initial and final velocities:[constant acceleration](2;8)(careful: equation 2–8 is not necessarily valid if the acceleration is not constant.
+	2–7,or[constant acceleration](2;9)equations 2–6, 2–8, and 2–9 are three of the four most useful equations formotion at constant acceleration.
+
+
+
+49
+
+	section 2–5motion at constant acceleration29in situations where the time is not known.
+	2–6 for obtaining (see appendix a–4 for a quick review)and substituting this into the previous equation we havewe solve this for and obtain[constant acceleration](2;10)which is the other useful equation we sought.we now have four equations relating position, velocity, acceleration, andtime, when the acceleration a is constant.
+	we collect these kinematic equationsfor constant acceleration here in one place for future reference (the tan backgroundscreen emphasizes their usefulness):(2;11a)(2;11b)(2;11c)(2;11d)these useful equations are not valid unless a is a constant.
+	[a = constant]v2 = v02 + 2aax - x0b[a = constant]x = x0 + v0t +12 at2[a = constant]v = v0 + atv2 = v02 + 2aax - x0b,v2x = x0 + ¢ v + v02≤ ¢ v - v0a≤= x0 + v2 - v022a.t = v - v0a,t,x = x0 + vt = x0 + ¢ v + v02≤t.tp r o b l e m  s o l v i n gequations 2–11 are valid only whenthe acceleration is constant, which weassume in this examplep h y s i c s  a p p l i e dairport designkinematic equationsfor constant acceleration (we’ll use them a lot)known wanteda = 2.00 m�s2x = 150 mv0 = 0vx0 = 0solution (a) of the above four equations, eq.
+	(b) if not, what minimum length must the runway have?approach assuming the plane’s acceleration is constant, we use the kinematicequations for constant acceleration.
+
+
+
+51
+
+	section 2–6solving problems31acceleration of a car.
+	the acceleration is constant, so we can use the kine-matic equations, eqs.
+	equations: we want to find the time, given the distance and acceleration;eq.
+
+
+
+52
+
+	for a dry road and good tires, good brakes can decelerate a car at a rate of about tocalculate the total stopping distance for an initial velocity of and assume the acceleration of the car is(the minus sign appears because the velocity is taken to be in the positive x direction and its magnitude is decreasing).
+
+
+
+53
+
+	for free fall, he postulated that all objects wouldfall with the same constant acceleration in the absence of air or other resistance.he showed that this postulate predicts that for an object falling from rest, thedistance traveled will be proportional to the square of the time (fig.
+	in a chamber from which the air has been removed, even lightobjects like a feather or a horizontally held piece of paper will fall with thesame acceleration as any other object (see fig.
+
+
+
+54
+
+	galileo’s specific contribution to our understanding of the motion of fallingobjects can be summarized as follows:at a given location on the earth and in the absence of air resistance, allobjects fall with the same constant acceleration.we call this acceleration the acceleration due to gravity at the surface of theearth, and we give it the symbol g. its magnitude is approximatelyin british units g is about actually, g varies slightly according to lati-tude and elevation on the earth’s surface, but these variations are so small thatwe will ignore them for most purposes.
+	(acceleration of gravity in space beyondthe earth’s surface is treated in chapter 5.)
+	however, air resistancewill be noticeable even on a reasonably heavy object if the velocity becomeslarge.† acceleration due to gravity is a vector, as is any acceleration, and itsdirection is downward toward the center of the earth.when dealing with freely falling objects we can make use of eqs.
+	how far will it have fallen after a time  and  ignore air resistance.approach let us take y as positive downward, so the acceleration iswe set  and  we want to find the posi-tion y of the ball after three different time intervals.
+	if the object fallsfar enough, it will reach a maximum velocity called the terminal velocity due to air resistance.34chapter 2describing motion: kinematics in one dimension(a)(b)40302010y (m)2013t (s)y = 0y3 = 44.1 m(after 3.00 s)y2 = 19.6 m(after 2.00 s)y1 = 4.90 m(after 1.00 s)+yaccelerationdue togravity+yfigure 2;22 example 2–10.
+
+
+
+56
+
+	sometimes only onecorresponds to reality,sometimes bothc a u t i o n(1) velocity and acceleration are not always in the same direction;the acceleration (of gravity) alwayspoints down(2)even at the highest point of a trajectorya z 0two possible misconceptions.
+	giveexamples to show the error in these two common misconceptions: (1) thatacceleration and velocity are always in the same direction, and (2) that an object thrown upward has zero acceleration at the highest point (b in fig.
+	(1) velocity and acceleration are not necessarilyin the same direction.
+	2–23 is moving upward, itsvelocity is positive (upward), whereas the acceleration is negative (down-ward).
+	is the acceleration also zero at this point?
+	thinking thatat point b would leadto the conclusion that upon reaching point b, the ball would stay there: if theacceleration (of change of velocity) were zero, the velocity would stayzero at the highest point, and the ball would stay up there without falling.remember: the acceleration of gravity always points down toward the earth, evenwhen the object is moving up.= ratea = 0a = –g = –9.80 m�s2conceptual example 2;14we did not consider the throwing action in these examples.
+
+
+
+57
+
+	2–23), and (b) the velocity of the ball when it returns to the thrower’s hand(point c).approach again we assume the acceleration is constant, so we can use eqs.
+	again we take y as positive upward.solution (a) we consider the time interval between the throwand the top of the path  and we wantto find the acceleration is constant atboth eqs.
+	(y = ±11.5 m,  v = 0),v0 = 15.0 m�sbat = 0,15.0 m�sexample 2;15the acceleration of objects such as rockets and fast airplanes is often given asa multiple of  for example, a plane pulling out of a dive (see fig.
+	2–24) and undergoing 3.00 g’s would have an acceleration of.
+	(3.00)a9.80 m�s2b = 29.4 m�s2g = 9.80 m�s2.p r o b l e m  s o l v i n gacceleration in g’sfigure 2;24 several planes, information, are just coming out of adownward dive.
+
+
+
+58
+
+	2–11b withandto solve any quadratic equation of the form where a, b, and c are constants (a is not acceleration here), we use the quadraticformula (see appendix a–4):we rewrite our y equation just above in standard form,using the quadratic formula, we find as solutions  andthe first solution,is the answer we are seeking: the time it takesthe ball to rise to its highest point and then fall to the base of the cliff.
+
+
+
+60
+
+	figure 2–31shows the velocity as a function of time for two cars accelerating from 0 toin a time of 10.0 s. compare (a) the average acceleration; (b) the instantaneous acceleration; and (c) the total distance traveled for the two cars.response (a) average acceleration is both cars have the same over the same time interval10.0 s, so the average accelerationis the same for both cars.
+	(b) instantaneous acceleration is the slope of the tangentto the vs. curve.
+	for the first 4 s or so, the top curve (car a) is steeper than thebottom curve, so car a has a greater acceleration during this interval.
+	thebottom curve is steeper during the last 6 s, so car b has the larger accelerationfor this period.
+	(c) except atandcar a is always going faster than car b. since it is going faster, it will go farther in the same time.t = 10.0 s,t = 0tv¢t =(100 km�h)¢v¢v�¢t.100 km�hconceptual example 2;17p1p2slope of p1p2 is averageacceleration during δt = t2 − t1slope of tangentis instantaneousacceleration at t1δ =t20t1v2 v1v1v2vvt−δt = t2 − t11086420100t (s)v (km/h)car acar bfigure 2;31 (below) example 2–17.slope and accelerationwe can also draw a graph of the velocity,vs.
+	then theaverage acceleration over a time interval is represented by the slopeof the straight line connecting the two points and as shown.
+	the instantaneous acceleration at any time, say is the slope of the tangent to the vs.curve at that time, which is also shown infig.
+	2–30, as we go fromtime to time the velocity continually increases, but the acceleration (the rate atwhich the velocity changes) is decreasing since the slope of the curve is decreasing.t2t1tvt1 ,p2p1¢t = t2 - t1tv,figure 2;30 a graph of velocity vs. time .
+	the average accelerationover a time interval isthe slope of the straight line the instantaneousacceleration at time is the slope ofthe vs.curve at that instant.tvt1a = ¢v�¢t.p1p2 :¢t = t2 - t1tv
+
+
+
+61
+
+	questions41acceleration is the change of velocity per unit time.
+	anobject’s average acceleration over a time interval is(2;4)where is the change of velocity during the time interval instantaneous acceleration is the average acceleration takenover an infinitesimally short time interval.if an object has position and velocity at timeandmoves in a straight line with constant acceleration, the velocity and position x at a later time are related to the acceleration a,the initial position and the initial velocity by eqs.
+	can an object have a northward velocity and a southwardacceleration?
+	give an example where both the velocity and accelerationare negative.8.
+	can an object have zero acceleration and nonzerovelocity at the same time?
+	which of these motions is not at constant acceleration:a rock falling from a cliff, an elevator moving from thesecond floor to the fifth floor making stops along the way,a dish resting on a table?
+	2–32 interms of velocity, acceleration, etc.
+	]questionsobjects that move vertically near the surface of the earth,either falling or having been projected vertically up or down,move with the constant downward acceleration due to gravity,whose magnitude isif air resistance can beignored.
+	2–11 for constant acceleration toobjects that move up or down freely near the earth’s surface.the slope of a curve at any point on a graph is the slopeof the tangent to the curve at that point.
+	on a graph of posi-tion vs. time, the slope is equal to the instantaneous velocity.on a graph of velocity vs. time, the slope is the acceleration.g = 9.80 m�s22010001020304050t (s)x (m)figure 2;32 question 16.
+
+
+
+62
+
+	in which of the following cases does a car have a negativevelocity and a positive acceleration?
+	(b) the object cannot have a negative acceleration andbe moving to the right.
+	what are the velocity andacceleration of the ball at the highest point in its path?(a)(b)(c)(d)(e)5.
+	when the two balls pass one another, one onthe way up, the other on the way down, compare the magni-tudes of their acceleration:(a) the acceleration of the dropped ball is greater.
+	(b) the acceleration of the ball thrown upward is greater.
+	(c) the acceleration of both balls is the same.
+	(e) the accelerations are in opposite directions.8.
+	theacceleration due to gravity isdownward.
+
+
+
+63
+
+	)155 km�h� 95 km/h� 75 km/h1.30 kmvvfigure 2;36 problem 16.2;4 acceleration17.
+	(ii) a sports car moving at constant velocity travels 120 min 5.0 s. if it then brakes and comes to a stop in 4.0 s, whatis the magnitude of its acceleration (assumed constant) inand in g’s ag = 9.80 m�s2b?m�s2,km�h2?m�s2;9.00 m�sm�s2?95 km�hfor assigned homework and other learning materials, go to the masteringphysics website.
+
+
+
+64
+
+	the front endof the car compresses and the driver comes to rest aftertraveling 0.80 m. what was the magnitude of the averageacceleration of the driver during the collision?
+	(ii) a car moving in a straight line starts atatit passes the point with a speed of atit passes the pointwith a speedof atfind (a) the average velocity,and (b) the average acceleration, betweenand2;5 and 2;6 motion at constant acceleration22.
+	(i) a car slows down from to rest in a distance of88 m. what was its acceleration, assumed constant?23.
+	how far did it travel in this time?assume constant acceleration.24.
+	(ii) a 75-m-long train begins uniform acceleration fromrest.
+	what constant acceleration doesmary now need during the remaining portion of the race, ifshe wishes to cross the finish line side-by-side with sally?0.40 m�s25.0 m�s.4.0 m�s6.0 m�s,a = 1.4 m�s25.0 m�s.0.20 m�s2t = 6.0 s?t = 2.0 st = 10.0 s.162 m�st = 085 m�s38.
+
+
+
+65
+
+	(ii) a rocket rises vertically, from rest, with an accelera-tion of until it runs out of fuel at an altitude of775 m. after this point, its acceleration is that of gravity,downward.
+	estimate the car’saverage acceleration in (a) second gear and (b) fourth gear.52.
+	(c) duringwhat periods, if any, was the acceleration constant?
+	(d) when was the magnitude of the acceleration greatest?340 m�s, (m/s)vt (s)4030201000102030405060708090100 110 120figure 2;42 problem 55.
+
+
+
+66
+
+	the acceleration due to gravity on the moon is about one-sixth what it is on earth.
+
+
+
+67
+
+	(b) which bicycle has thelarger acceleration?
+
+
+
+68
+
+	discuss two conditions given in section 2–7 for being ableto use a constant acceleration of magnitude.give an example in which one of these conditions wouldnot be met and would not even be a reasonable approxima-tion of motion.2.
+	the police officer takes off in hot pursuitand catches up to the speeder in 850 m, maintaining aconstant acceleration.
+	(c) is the acceleration of the object positive or negative?
+	(f) is the acceleration of the objectpositive or negative?
+
+
+
+69
+
+	in the absence of air resistance, thepath would be a perfect parabola.the gold arrow represents the downward acceleration of gravity,galileo analyzed themotion of objects in 2 dimensionsunder the action of gravity near the earth’s surface (now called “projectile motion”) into its horizontal and vertical components.we will discuss vectors and how to add them.
+
+
+
+78
+
+	3–5 projectile motionin chapter 2, we studied the one-dimensional motion of an object in terms of dis-placement, velocity, and acceleration, including purely vertical motion of a fallingobject undergoing acceleration due to gravity.
+	following galileo’s ideas, we treat the horizontal and vertical compo-nents of velocity and acceleration separately, and we can apply the kinematicequations (eqs.
+	at the instant the ball leaves the table’s topit has only an x component of velocity.once the ball leaves the table (at), it experiences a vertically downwardacceleration g, the acceleration due to gravity.
+	then the acceleration due to gravityis in the direction, so from eq.
+
+
+
+79
+
+	in the horizontal direction, on the other hand, there is no acceleration (we areignoring air resistance).
+	3–20, the analysis issimilar, except that now there is an initial vertical component of velocity,because of the downward acceleration of gravity, the upward component ofvelocity gradually decreases with time until the object reaches the highestpoint on its path, at which pointsubsequently the object moves down-ward (fig.
+
+
+
+80
+
+	the xand y motions are connected by the common time, .ttable 3;1 general kinematic equations for constant acceleration in two dimensionsx component (horizontal) y component (vertical)(eq.
+	these equations are shown separately forthe x and y components of the motion in table 3–1, for the general case of two-dimensional motion at constant acceleration.
+	note that x and y are the respectivedisplacements, that and are the components of the velocity, and that and are the components of the acceleration, each of which is constant.the subscript 0 means “at”t = 0.ayaxvyvxwe can simplify eqs.2–11 to use for projectile motion because we can setsee table 3–2, which assumes y is positive upward, so–9.80 m�s2.ay = –g =ax = 0.if the projection angle is chosen relative to the axis (fig.
+
+
+
+81
+
+	in the horizontal (x) direction, the accelerationso the velocity is constant.
+	the value of x when the motorcyclereaches the ground isin the vertical direction, the accelera-tion is the acceleration due to gravity,the value ofy when the motorcycle reaches the ground isthe initial veloc-ity is horizontal and is our unknown,the initial vertical velocity is zero,6.
+	2–11b, but this time forthe horizontal (x) direction, withandorthenwhich is about (roughly ).note in the time interval of the projectile motion, the only acceleration is g inthe negative y direction.
+	the acceleration in the x direction is zero.60 mi�h100 km�hvx 0 = xt= 90.0 m3.19 s= 28.2 m�s,x = vx 0t.=0 + vx 0t +  0x = x0 + vx 0t + 12 axt2x0 = 0:ax = 0vx0 ,t = b2y–g = b2(–50.0 m)–9.80 m�s2= 3.19 s.y = –50.0 m:ty =– 12 gt2.=0 +    0  + 12 (–g)t2y = y0 + vy 0t + 12 ayt2vy 0 = 0:y0 = 0vxtvx 0vy 0 = 0.vx 0 ;y = –50.0 m.ay = –g = –9.80 m�s2.x = ±90.0 m.ax = 0,x0 = 0, y0 = 0.
+
+
+
+82
+
+	3–23):(a) to find the maximum height, we consider a time interval that begins just afterthe football loses contact with the foot until the ball reaches its maximum height.during this time interval, the acceleration is g downward.
+
+
+
+83
+
+	y = 0v0ydfigure 3;24 example 3–7.section 3–6solving projectile motion problems63exercise f in example 3–6, what is (a) the velocity vector at the maximum height, and(b) the acceleration vector at maximum height?the wrong strategy.
+
+
+
+86
+
+	given the river’s widthwe can use the velocity component in thedirection of d,solving for we get  the boat will have been carried downstream, in this time, a distancenote there is no acceleration in this example, so the motion involves onlyconstant velocities (of the boat or of the river).d = vwst = (1.20 m�s)(59.5 s) = 71.4 m l 71 m.59.5 s.t = 110 m�1.85 m�s =t,vbw = d�t.d = 110 m,= 33.0°.tan–1(0.6486)u =tan–1tan u = vws�vbw = (1.20 m�s)�(1.85 m�s) = 0.6486.uvbs = 3vbw2+ vws2= 3(1.85 m�s)2 + (1.20 m�s)2 = 2.21 m�s.vbsvbws,vbbwvbbs = vbbw + vbws.vbws :vbbw ,vbbs,1.20 m�s.avbw = 1.85 m�sbexample 3;1166chapter 3kinematics in two dimensions; vectorsbsbwwsvbvbvbθriver currentfigure 3;30 example 3–11.a boat heading directly across a river whose current moves at1.20 m�s.a quantity such as velocity, that has both a magnitude and adirection, is called a vector.
+	the hori-zontal component of motion is at constant velocity, whereas thevertical component is at constant acceleration,just as for anobject falling vertically under the action of gravity.the velocity of an object relative to one frame of refer-ence can be found by vector addition if its velocity relative to asecond frame of reference, and the relative velocity of the tworeference frames, are known.gb,v = 3vx2 + vy2 ,  tan u =vyvx.summaryheading upstream.
+
+
+
+87
+
+	3–31), what is the direction ofacceleration?
+
+
+
+88
+
+	(b) the acceleration of the projectile is positive anddecreasing when the projectile is moving upwards,zero at the top, and increasingly negative as the projectile descends.
+	(c) the acceleration of the projectile is a constant negativevalue.
+	at the highest point,(a) the magnitude of the acceleration is zero.
+
+
+
+89
+
+	the acceleration due to gravity onthe moon is one-sixth what it is on earth.20.
+
+
+
+92
+
+	assuming a constant upward slope of 26°, calcu-late the horizontal and vertical components of the accelerationof a truck that slowed from to rest in 7.0 s. seefig.
+
+
+
+96
+
+	we have discussed how motion is described in terms of velocity andacceleration.
+
+
+
+98
+
+	the more mass an object has,the greater the force needed to give it a particular acceleration.
+	that change in the direction of the velocity is also an acceleration.
+	if you triple the force, the acceleration is tripled,and so on.
+	thus, the acceleration of an object is directly proportional† to the netapplied force.
+
+
+
+99
+
+	the greater the mass, the less the acceleration for the same net force.
+	the mathe-matical relation, as newton argued, is that the acceleration of an object is inverselyproportional to its mass.
+	these relationships are found to hold in general and canbe summarized as follows:the acceleration of an object is directly proportional to the net force actingon it, and is inversely proportional to the object’s mass.
+	)in si units, with the mass in kilograms, the unit of force is called the newton (n).one newton is the force required to impart an acceleration of to a mass of 1 kg.
+	the unit of force is the dyne, whichis defined as the net force needed to impart an acceleration of to a massof 1 g. thus  because  and  then  in the british system, which we rarely use, the unit of force is the pound(abbreviated lb), where  the unit of mass is the slug,which is defined as that mass which will undergo an acceleration of when a force of 1 lb is applied to it.
+	1 lb l 4.45 n; 1 dyne = 10–5 n;a= g�cm�s2ba= kg�m�s2b†be careful not to confuse g for gram with g for the acceleration due to gravity.
+
+
+
+100
+
+	this is an estimate (theisnot said to be precise) so we round off to one significant figure.solution (a) the car’s acceleration isweuse newton’s second law to get the net force needed to achieve this acceleration:(if you are used to british units, to get an idea of what a 5000-n force is, you candivide by and get a force of about 1000 lb.
+	2–11c, wehavesothe net force required is thenor the force must be exerted in the direction opposite to the initialvelocity, which is what the negative sign means.note if the acceleration is not precisely constant, then we are determining an“average” acceleration and we obtain an “average” net force.newton’s second law, like the first law, is valid only in inertial reference frames(section 4–2).
+
+
+
+103
+
+	to determine if the assistant moves or not, we must consider only the forces on the assistant and then apply  where is the net forceon the assistant,is the acceleration of the assistant, and m is the assistant’s mass.there are two forces on the assistant that affect his forward motion; they areshown as bright red (magenta) arrows in figs.4–12 and 4–13: they are (1) the hori-zontal force exerted on the assistant by the ground (the harder he pushesbackward against the ground, the harder the ground pushes forward on him—newton’s third law), and (2) the force exerted on the assistant by the sled,pulling backward on him; see fig.
+	(ii) which experiences the greater accelerationduring the impact?
+
+
+
+104
+
+	for the acceleration,we use the downward acceleration due togravity,thus, the gravitational force on an object,can be written as(4;3)the direction of this force is down toward the center of the earth.
+	for exam-ple, on the moon the acceleration due to gravity is about one-sixth what it is onearth, and a 1.0-kg mass weighs only 1.6 n. although we will not use britishunits, we note that for practical purposes on the earth, a mass of 1.0 kg weighsabout 2.2 lb.
+
+
+
+106
+
+	4–15c.approach we can start just as in example 4–6, but be ready for a surprise.solution the net force on the box isand if we set this equal to zero (thinking the acceleration might be zero), wewould get  this is nonsense, since the negative sign implies points downward, and the table surely cannot pull down on the box (unlessthere’s glue on the table).
+	we apply newton’s second law and see that the boxmoves upward with an acceleration= 0.20 m�s2 .ay =©fym=2.0 n10.0 kg= 2.0 n©fy = fp - mg = 100.0 n - 98.0 nfn = 0a z 0fnfnfn = –2.0 n.= fn - 98.0 n + 100.0 n,©fy = fn - mg + fpfp = 100.0 nexample 4;786chapter 4dynamics: newton’s laws of motion(100.0 n)(98.0 n)mpfbgbabfigure 4;16 example 4–7.
+	theacceleration vector is shown in goldto distinguish it from the red forcevectors.apparent weight loss.
+	(a) during this acceleration, what is her weight and what does the scale read?
+
+
+
+108
+
+	4–20a would give rise toan acceleration by newton’s second law.
+	for example, it often saves work if youchoose one coordinate axis to be in the direction ofthe acceleration (if known).4. for each object, apply newton’s second law to the x and y components separately.
+	that is, the x compo-nent of the net force on that object is related to the x component of that object’s acceleration:and similarly for the y direction.5.
+
+
+
+109
+
+	calculate (a) the acceleration of thebox, and (b) the magnitude of the upward force exerted by the table on the box.
+	(a) apply newton’s second law to get the x component of the acceleration:5.
+	(a) solve:the acceleration of the box is to the right.
+
+
+
+110
+
+	find (a) the acceleration ofeach box, and (b) the tension in the cord connecting the boxes.approach we streamline our approach by not listing each step.
+	we take the positive x axis to the right.solution (a) we apply  to box a:[box a]for box b, the only horizontal force is so[box b]the boxes are connected, and if the cord remains taut and doesn’t stretch, thenthe two boxes will have the same acceleration a. thuswe aregivenandwe can add the two equations above to eliminate an unknown and obtainorthis is what we sought.
+
+
+
+111
+
+	let themass of the counterweight be  assume the mass of the emptyelevator is 850 kg, and its mass when carrying four passengers isfor the latter casecalculate (a) the acceleration of the elevator and (b) the tension in the cable.approach again we have two objects, and we will need to apply newton’ssecond law to each of them separately.
+	thus our calculation must give between 9800 n and 11,300 n.solution (a) to find as well as the acceleration a, we apply newton’ssecond law,to each object.
+	as predicted, our result lies between 9800 n and 11,300 n.note we can check our equation for the acceleration a in this example bynoting that if the masses were equal  then our equation above for awould give  as we should expect.
+
+
+
+112
+
+	these forces do not add upto zero ifand since we have an acceleration a, we expectsolution (a) the acceleration  is horizontal  , and the onlyhorizontal force is the x component of (fig.4–25b).
+	then from newton’ssecond law,the vertical component of newton’s second law gives, since,sodividing these two equations, we obtainorso(b) the velocity is constant, so  and  hence the pendulum hangsverticallynote this simple device is an accelerometer—it can be used to determineacceleration, by mesuring the angle .uau = 0°b.tan u = 0.a = 0u = 7.0°.= 0.122, tan u = 1.20 m�s29.80 m�s2tan u =ft sin uft cos u =mamg =agmg = ft cos u.
+
+
+
+115
+
+	this is like example 4–11 except now there is friction, and we assume acoefficient of kinetic friction of 0.30. calculate the acceleration.approach the free-body diagram is shown in fig.
+
+
+
+116
+
+	we wish to find the acceleration, a, of the system, which will have the same magnitudefor both boxes assuming the cord doesn’t stretch.
+	4–32b):thetension in the cord (whose value we don’t know), and the force of frictionthe horizontal acceleration (box a) is what we wish to find; we use newton’ssecond law in the x direction,which becomes (taking the positivedirection to the right and setting):[box a]next consider box b. the force of gravitypulls downward; and the cord pulls upward with a force so we can writenewton’s second law for box b (taking the downward direction as positive):[box b][notice that ifthen is not equal to ]we have two unknowns, a and and we also have two equations.
+	we solvethe box a equation for and substitute this into the box b equation:now we solve for a and put in numerical values:which is the acceleration of box a to the right, and of box b down.if we wish, we can calculate using the third equation up from here:note box b is not in free fall.
+
+
+
+117
+
+	such problems are interesting because gravity is the acceleratingforce, yet the acceleration is not vertical.
+	if the coefficient of kinetic friction is 0.10, what is her acceleration?approach we choose the x axis along the slope, positive downslope in thedirection of the skier’s motion.
+	to calculate the skier’s acceleration downthe hill,we apply newton’s second law to the x direction:where the two forces are the x component of the gravity force (direction)and the friction force (direction).
+	thus (settingand):the skier’s acceleration is 0.41 times the acceleration of gravity, which in numbers†isnote the mass canceled out, so we have the useful conclusion that the accelera-tion doesn’t depend on the mass.
+
+
+
+118
+
+	mass is a measure of the inertia of an object.fbbafbab =–fbba©fb = mab.weight refers to the gravitational force on an object, and isequal to the product of the object’s mass m and the accelerationof gravity (4;3)force, which is a vector, can be considered as a push or pull;or, from newton’s second law, force can be defined as an actioncapable of giving rise to acceleration.
+	if the acceleration of an object is zero, are no forces actingon it?
+	can the object have zeroacceleration?
+
+
+
+119
+
+	if you nowpull the rope with the same force at an angle to the hori-zontal (with the box remaining flat on the table), does theacceleration of the box increase, decrease, or remain thesame?
+	afterthe block reaches its highest point, it slides back down, butthe magnitude of its acceleration is less on the descent thanon the ascent.
+
+
+
+121
+
+	what isthe acceleration of the bucket?
+	(ii) an elevator (mass 4850 kg) is to be designed so thatthe maximum acceleration is 0.0680g.
+	calculate the accelerationof a 1400-kg car if it can stop from on a dime().
+	calculate the acceler-ation of the elevator, and find the direction of acceleration.17.
+	(ii) (a) what is the acceleration of two falling sky divers(total including parachute) when the upwardforce of air resistance is equal to one-fourth of their weight?
+	(ii) the cable supporting a 2125-kg elevator has a maximumstrength of 21,750 n. what maximum upward accelerationcan it give the elevator without breaking?19.
+
+
+
+122
+
+	determine the ratio of the tension inthe coupling (think of it as a cord) between the locomotiveand the first car to that between the first car and thesecond car for any nonzero acceleration of the train.aft2b,aft1b,10.0°figure 4;47 problem 23.t2fbt1fbcar 2car 1figure 4;51 problem 27.90°xy120°xy(a)(b)1212fbfbfbfbfigure 4;52 problem 28.21.
+	ifandfind the netforce on the object and its acceleration for (a) and (b).f2 = 16.0 n,f1 = 10.2 nfb2fb1figure 4;46problem 21.24.
+	(b) if she increases this force by 15%,what will her acceleration be?
+	(b) if the two buckets are pulled upward with an acceleration of by the upper cord, calculate the tension in eachcord.1.25 m�s2figure 4;49problem 25.figure 4;48problem 24.32°48°ltop viewabfbfbfigure 4;50problem 26.4;7 newton’s laws and vectors [ignore friction.]20.
+
+
+
+123
+
+	(b) apply newton’s second lawto find formulas for the acceleration of the system and forthe tension in the cord.
+	4–53,determine the acceleration of each block.
+	(c) ifhow largemust be if the acceleration of the system is to be keptat34.
+	determine (b) the acceleration of thesystem (in terms of and ), (c) the net force oneach block, and (d) the force of contact that each blockexerts on its neighbor.
+	assuming aconstant acceleration and no slipping of tires, estimate the coefficient of static friction needed for a drag racer tocover 1.0 km in 12 s, starting from rest.46.
+
+
+
+124
+
+	if the coefficient of kineticfriction is 0.18, calculate (a) the acceleration of the sys-tem, and (b) the force that each crate exerts on the other.
+	(a) determine the acceleration of the block as it slides down the plane.
+	4–60 lies on a plane tilted at anangleto the horizontal, with(a) determine the accelerationof the crate as it slides down the plane.
+
+
+
+125
+
+	the coefficient of kinetic friction between eachmass and its incline isif moves up, and moves down, determine their acceleration.
+	4–62 isand thatas moves down, determine themagnitude of the acceleration of and given(b) what smallest value of will keep the system fromaccelerating?
+	4–63 moves for a fewseconds to the right with constant acceleration, and the870-kg load hangs on a light cable at a 5.0° angle to the vertical as shown.
+	what is the acceleration of the trolleyand load?27 m�s.
+
+
+
+126
+
+	within what range is the elevator’s acceleration?22.2 n  (= 5.00 lb).ab2.202.15 2.102.05 2.00 kgfigure 4;70problem 84.
+
+
+
+127
+
+	(b) calculate the acceleration of the system.
+	(a) what is the skier’s acceleration if the ropepulling the skier behind the boat applies a horizontal ten-sion force of magnitudeto the skier(b) what is the skier’s horizontal acceleration if the ropepulling the skier exerts a force ofon the skier at an upward angle(c) explain why theskier’s acceleration in part (b) is greater than that in part (a).u = 12°?ft = 240 n(u = 0°)?ft = 240 nmk = 0.2592. a 75-kg snowboarder has an initial velocity of at the top of a 28° incline (fig.
+	after sliding downthe 110-m-long incline (on which the coefficient of kineticfriction is), the snowboarder has attained avelocity v. the snowboarder then slides along a flat surface(on which) and comes to rest after a distance x.use newton’s second law to find the snowboarder’s accel-eration while on the incline and while on the flat surface.then use these accelerations to determine x.mk = 0.15mk = 0.185.0 m�sk � 0.15μk � 0.18μ5.0 m/svx110 m28°figure 4;75 problem 92.
+
+
+
+128
+
+	(b) whatis this distance for a 1200-kg car traveling if(c) what would it be if the car were on themoon (the acceleration of gravity on the moon is about g 6) but all else stayed the same?3.
+	(a) if the horizontal acceleration produced briefly by anearthquake is a, and if an object is going to “hold its place”on the ground, show that the coefficient of static frictionwith the ground must be at least(b) the famousloma prieta earthquake that stopped the 1989 worldseries produced ground accelerations of up to inthe san francisco bay area.
+	the massesof the blocks are and and the coefficients of fric-tion are and ifandanddetermine (a) the acceleration of the blocks and(b) the tension in the cord, for anangle u = 32°.mb = 0.30,ma = 0.20ma = mb = 5.0 kg,mb.mamb,mau4.0 m�s2ms = a�g.95.
+
+
+
+129
+
+	both themoon and the space shuttle move in nearly circular orbits, and each undergoes a centripetal acceleration.
+
+
+
+130
+
+	because acceleration is defined as the rate of changeof velocity, a change in direction of velocity is an acceleration, just as a change inits magnitude is.
+	we now investi-gate this acceleration quantitatively.acceleration is defined aswhere is the change in velocity during the short time interval we willeventually consider the situation in which approaches zero and thus obtainthe instantaneous acceleration.
+	therefore, this acceleration is called centripetalacceleration (“center-pointing” acceleration) or radial acceleration (since it isdirected along the radius, toward the center of the circle), and we denote it by now that we have determined the direction, next we find the magnitude of theradial (centripetal) acceleration,because the line ca in fig.
+	we want to find the instantaneous acceleration, so we let approach zero, write the above expression as an equality, and then solve for to get the centripetal acceleration,we divide by but is the linear speed, v, of the object, so the radial (centripetal)¢l�¢t[¢t s 0]ar =¢v¢t= vr¢l¢t.¢t:¢var,[¢t s 0]¢v = vr ¢l.¢v:¢t¢l¢t¢vvl ¢lr .v = v1 = v2¢t¢u¢vbvb2 ,vb1,vb2 .vb1¢uvb2 ,vb1,ar.abr.¢vbab,¢vb¢vbvb1 ,vb2¢u¢l¢tvb2 = vb1 + ¢vbvb2 - vb1 = ¢vb,¢u.¢l¢t,¢t¢t.¢vbab = vb2 - vb1¢t=¢vb¢t,v1 = v2 = v110chapter 5circular motion; gravitation†appendix a contains a review of geometry.aδlrrδθθδbc(a)rrlim δtδt→0c(c)(b)121122=δ−12δ=vbvbvbvbabvbvbvbvbvbvbfigure 5;2 determining thechange in velocity,for a particlemoving in a circle.
+
+
+
+131
+
+	acceleration is[radial (centripetal) acceleration](5;1)[equation 5–1 is valid at any instant in circular motion, and even when v is notconstant.
+	]to summarize, an object moving in a circle of radius r at constant speed v hasan acceleration whose direction is toward the center of the circle and whose magni-tude is it is not surprising that this acceleration depends on v and r.the greater the speed v, the faster the velocity changes direction; and the larger theradius, the less rapidly the velocity changes direction.the acceleration vector points toward the center of the circle when v is con-stant.
+	thus the velocity and acceleration vectors are perpen-dicular to each other at every point in the path for uniform circular motion (fig.
+	this is another example that illustrates the error in thinking that acceleration and velocity are always in the same direction.
+	period and frequency are related by(5;2)for example, if an object revolves at a frequency of then each revolutiontakesan object revolving in a circle (of circumference ) at constantspeed v travels a distance in one revolution which takes a time t. thusacceleration of a revolving ball.
+
+
+
+132
+
+	moon’s centripetal acceleration.
+	determine the acceleration of the moon toward the earth.approach again we need to find the velocity v in order to find solution in one orbit around the earth, the moon travels a distance where  is the radius of its circular path.
+	rather, it is the acceleration due to the earth’s gravity for any object(such as the moon) that is 384,000 km from the earth.
+	that is, a net force is necessary to give it centripetal acceleration.
+	themagnitude of the required force can be calculated using newton’s second law forthe radial component,where is the centripetal acceleration,and is the total (or net) force in the radial direction:[circular motion](5;3)for uniform circular motion the acceleration is which isdirected toward the center of the circle at all times.
+
+
+
+133
+
+	then will actnearly horizontally and, in any case, provides the force necessary to give the ballits centripetal acceleration.solution we apply newton’s second law to the radial direction, which weassume is horizontal:where  and  thusnote we keep only two significant figures in the answer because we ignored theball’s weight; it is  aboutof our result,which is small but maybe not so small as to justify stating a more precise answer for ft .110mg = (0.150 kg)a9.80 m�s2b = 1.5 n,= (0.150 kg) (7.54 m�s)2(0.600 m)l 14 n.ft = m v2rv = 2pr�t = 2p(0.600 m)�(0.500 s) = 7.54 m�s.ar = v2�r (©f)r = mar,fbtf l 0fbtmgb(t = 0.500 s),example 5;3estimatesection 5–2dynamics of uniform circular motion113c a u t i o nthere is no real “centrifugal force”force on handexerted bystringforce on ballexerted bystringfigure 5;5 swinging a ball on theend of a string (looking down fromabove).
+
+
+
+135
+
+	the force responsible for the acceleration may notbe obvious at first, since there seems to be no force pointing directly horizontally.but it is the net force (the sum of and here) that must point in the direction of the acceleration.
+	the sumof these forces (or components) provides the centrip-etal acceleration,3.
+	choose a convenient coordinate system, preferablywith one axis along the acceleration direction.4.
+
+
+
+136
+
+	5–13, which is the free-body diagram for the car.the car will follow the curve if the maximum static friction force is greater thanthe mass times the centripetal acceleration.solution in the vertical direction (y) there is no acceleration.
+	from the tire marks we see that most cars experienced asufficient friction force to give themthe needed centripetal accelerationfor rounding the curve safely.
+
+
+
+137
+
+	the centripetalacceleration is horizontal (notparallel to the sloping road).
+
+
+
+138
+
+	5–15a, the force has two components.the component directed toward the center of the circle,gives rise to the cen-tripetal acceleration,and keeps the object moving in a circle.
+	in athletics, a hammer throweraccelerates the hammer tangentially in a similar way so that it reaches a high speedbefore release.the tangential component of the acceleration,has magnitude equal tothe rate of change of the magnitude of the object’s velocity:the radial (centripetal) acceleration arises from the change in direction of thevelocity and, as we have seen (eq.
+	the total vector acceleration is the sum of the two components:since and are always perpendicular to each other, the magnitude of atany moment istwo components of acceleration.
+	a race car starts fromrest in the pit area and accelerates at a uniform rate to a speed of in moving on a circular track of radius 500 m. assuming constant tangential acceleration, find (a) the tangential acceleration, and (b) the radial acceler-ation, at the instant when the speed is  approach the tangential acceleration relates to the change in speed of the car,and can be calculated as  the centripetal acceleration relates to thechange in the direction of the velocity vector and is calculated usingsolution (a) during the 11-s time interval, we assume the tangential accel-eration is constant.
+
+
+
+139
+
+	the centripetal acceleration of the moon, as we calculatedin example 5–2, isin terms of the acceleration of gravity atthe earth’s surface,that is, the acceleration of the moon toward the earth is about as great as the acceleration of objects at the earth’s surface.
+
+
+
+141
+
+	5–4 is applied to the gravitational force between the earth and anobject at its surface,becomes the mass of the earth becomes the massof the object m, and r becomes the distance of the object from the earth’s center,which is the radius of the earth this force of gravity due to the earth is theweight of the object on earth, which we have been writing as mg. thus,we can solve this for g, the acceleration of gravity at the earth’s surface:(5;5)thus, the acceleration of gravity at the surface of the earth, g, is determined byand (don’t confuse g with g; they are very different quantities, but arerelated by eq.
+	that is, what is the acceleration due to gravity of objects allowed tofall freely at this altitude?
+	ignore the mass of the mountain itself.approach the force of gravity (and the acceleration due to gravity g) dependson the distance from the center of the earth, so there will be an effective valueon top of mt.
+
+
+
+144
+
+	thus,and since the scale indicatesthe force w exerted on it by the bag, it registers a force equal to the weight of thebag, as we expect.now let the elevator have an acceleration, a. applying newton’s second law,to the bag as seen from an inertial reference frame (the elevator itselfis not now an inertial frame) we havesolving for w, we havewe have chosen the positive direction up.
+	thus, if the acceleration a is up, a ispositive; and the scale, which measures w, will read more than mg. we call w theapparent weight of the bag, which in this case would be greater than its actualweight (mg).
+	only the direction of the acceleration (and its magnitude) influencesthe scale reading.suppose the elevator’s acceleration is upward; then we findthat is, the scale reads times the actual weight of the bag (fig.
+	we can say that she is experiencing g’s, just as astronauts experience so many g’s at a rocket’s launch.if, instead, the elevator’s acceleration is (downward), thenthat is, the scale reads half the actual weight.
+	true, the box would be falling with acceleration g. but sowould the floor of the elevator and the person.
+
+
+
+146
+
+	5–4) for the force between thesun and a planet of mass and for a the centripetal acceleration,wev2�r.m1 ,©f = ma.
+
+
+
+150
+
+	it has a radial accelerationthat is directed radially toward the center of the circle (alsocalled centripetal acceleration), and has magnitude(5;1)the velocity vector and the acceleration vector are continu-ally changing in direction, but are perpendicular to each otherat each moment.a force is needed to keep an object revolving in a circle,and the direction of this force is toward the center of the circle.this force could be due to gravity (as for the moon), to tensionin a cord, to a component of the normal force, or to anothertype of force or combination of forces.
+	a car rounds a curve at a steady if it rounds thesame curve at a steady will its acceleration be anydifferent?
+	which of these forces provides the centripetal acceleration of the child?5.
+
+
+
+151
+
+	is the centripetal acceleration of mars in its orbit aroundthe sun larger or smaller than the centripetal accelerationof the earth?
+	(a) acceleration.
+	(b) velocity, acceleration, net force.
+	(c) velocity, acceleration.
+	(e) acceleration, net force.3.
+	(a) the car’s acceleration is zero.
+	(c) both the acceleration and net force on the car pointoutward.
+	(d) both the acceleration and net force on the car pointinward.
+	(e) if there is no friction, the acceleration is outward.misconceptual questions131
+
+
+
+152
+
+	if the power to theturntable is turned off, which arrowbest represents the direction of theacceleration of the penny at point pwhile the turntable is still spinningbut slowing down?5;1 to 5;3 uniform circular motion1.
+	what is theplane’s acceleration in g’s?3.
+	(ii) what is the magnitude of the acceleration of a speck of clay on the edge of a potter’s wheel turning at 45 rpm(revolutions per minute) if the wheel’s diameter is 35 cm?5.
+
+
+
+153
+
+	(iii) a pilot performs an evasive maneuver by diving verti-cally at if he can withstand an acceleration of8.0 g’s without blacking out, at what altitude must he beginto pull his plane out of the dive to avoid crashing into the sea?22.
+	(ii) a car at the indianapolis 500 accelerates uniformly fromthe pit area, going from rest to in a semicirculararc with a radius of 220 m. determine the tangential andradial acceleration of the car when it is halfway through the arc, assuming constant tangential acceleration.
+	if thecurve were flat, what coefficient of static friction would benecessary between the tires and the road to provide thisacceleration with no slipping or skidding?*26.
+	(ii) for each of the cases described below, sketch and labelthe total acceleration vector, the radial acceleration vector,and the tangential acceleration vector.
+	(iii) a particle revolves in a horizontal circle of radius1.95 m. at a particular instant, its acceleration is in a direction that makes an angle of 25.0° to its direction of motion.
+	what is the acceleration dueto gravity near its surface?2.5 * 10–10 n12.0 m�s2.1.05 m�s2,65 km�h70 km�h55 km�h270 km�h15 m�s.85 km�h.95 km�h?65 km�h,270 m�s.50 km�h.figure 5;42problem 18.14.
+
+
+
+154
+
+	(ii) calculate the acceleration due to gravity on the moon,which has radiusand mass 34.
+	(ii) estimate the acceleration due to gravity at the surfaceof europa (one of the moons of jupiter) given that its mass isand making the assumption that its mass per unit volume is the same as earth’s.35.
+	(ii) given that the acceleration of gravity at the surface ofmars is 0.38 of what it is on earth, and that mars’ radius is3400 km, determine the mass of mars.36.
+	(ii) determine the distance from the earth’s center to apoint outside the earth where the gravitational accelerationdue to the earth is of its value at the earth’s surface.44.
+	(ii) you know your mass is 62 kg, but when you stand on abathroom scale in an elevator, it says your mass is 77 kg.what is the acceleration of the elevator, and in whichdirection?48.
+	what was the elevator’s minimum acceleration (magnitude anddirection)?49.
+	[hint: you maytake the acceleration due to gravity as essentially the same asthat on the surface.]
+	(ii) calculate the effective value of g, the acceleration ofgravity, at (a) 6400 m, and (b) 6400 km, above the earth’ssurface.40.
+
+
+
+155
+
+	calculate the centripetal acceleration of the earth in itsorbit around the sun, and the net force exerted on theearth.
+
+
+
+156
+
+	use dimensional analysis (section 1–8) to obtain the formfor the centripetal acceleration, ar = v2�r.figure 5;48problem 73.85. a satellite of mass 5500 kg orbits the earth and has a periodof 6600 s. determine (a) the radius of its circular orbit,(b) the magnitude of the earth’s gravitational force on thesatellite, and (c) the altitude of the satellite.86.
+	what radius must the sphere have sothat the acceleration due to gravity at the earth’s new surface would equal the acceleration due to gravity at thesurface of the sun?88.
+	how far above the earth’s surface will the acceleration ofgravity be half what it is at the surface?77.
+
+
+
+157
+
+	we often make measurements in a reference frame fixed on the earth,assuming earth is an inertial reference frame [section 4–2].but the earth rotates, so this assumption is not quite valid.show that this assumption is off by 3 parts in 1000 by calcu-lating the acceleration of an object at earth’s equator due toearth’s daily rotation, and compare to  theacceleration due to gravity.5.
+	(a) estimate the acceleration due to gravity on the surfaceof this star.
+	take the centripetal acceleration intoaccount.
+
+
+
+158
+
+	these two quantities are scalars and so have nodirection associated with them, which often makes them easier to work with thanvector quantities such as acceleration and force.
+
+
+
+159
+
+	when you start or stopwalking, there is a horizontal acceleration and you do briefly exert a horizontalforce, and thus do work on the bag.cos 90° = 0.u = 90°w = 0,fbpw = 0.1 j = 107 erg = 0.7376 ft�lb.1 erg = 1 dyne�cm.1 j = 1 n�m.
+
+
+
+161
+
+	for simplicity, assume the motion issmooth and at constant velocity (i.e., acceleration is zero).approach we explicitly follow the steps of the problem solving strategy above.solution1.
+	the acceleration is zero, so horizontalforces on the backpack are negligible.2.
+
+
+
+166
+
+	to lift the object without acceleration, the person exerts an “externalforce”if it is raised a vertical height h, from position to in fig.
+
+
+
+172
+
+	in example 6–7the motion is all vertical and could have been solved using force, acceleration,and the kinematic equations (eqs.2–11).
+
+
+
+184
+
+	(ii) how much work did the movers do (horizontally) push-ing a 46.0-kg crate 10.3 m across a rough floor withoutacceleration, if the effective coefficient of friction was0.50?4.
+
+
+
+186
+
+	if the elevator cable breakswhen the elevator is at a height h above the top of thespring, calculate the value that the spring constant k shouldhave so that passengers undergo an acceleration of no morethan 5.0 g when brought to rest.
+	the acceleration due to gravityat the surface of the moon is 1.62 m�s2.2.0 m�s2.0 m�s3.0 m�s165 m�s.11.0 m�s.11.0 m�s1.30 m�s.8.00 m�s,1.25 m�s.85 km�h(a)(c)15 my = 0(b)�y = ?ydfigure 6–42problem 41.
+
+
+
+218
+
+	but theseeffects are often very small, so the concept of an ideal rigid object is very useful asa good approximation.8chapteryou too can experience rapidrotation—if your stomach can take the high angular velocity and centripetal acceleration of some of the faster amusement park rides.
+	rotating carnival rides have rotational kinetic energy as well as angular momentum.angular acceleration is produced by a net torque, and rotating objects have rotational kinetic energy.contents8–1 angular quantities8–2 constant angular acceleration8–3 rolling motion (without slipping)8–4 torque8–5 rotational dynamics;torque and rotational inertia8–6 solving problems in rotational dynamics8–7 rotational kinetic energy8–8 angular momentum and its conservation*8–9 vector nature of angular quantities
+
+
+
+220
+
+	degrees (or revolutions) won’t work.to describe rotational motion, we make use of angular quantities, such asangular velocity and angular acceleration.
+	these are defined in analogy to thecorresponding quantities in linear motion, and are chosen to describe the rotat-ing object as a whole, so they are the same for each point in the rotating object.each point in a rotating object may also have translational velocity and acceleration,but they have different values for different points in the object.when an object such as the bicycle wheel in fig.
+
+
+
+221
+
+	angular acceleration (denoted by the greek lowercase letter alpha), in analogyto linear acceleration, is defined as the change in angular velocity divided by thetime required to make this change.
+	the average angular acceleration is defined as(8;3a)where is the angular velocity initially, and is the angular velocity after atime interval instantaneous angular acceleration is defined as the limit of thisratio as approaches zero:(8;3b)since is the same for all points of a rotating object, eq.
+	with measured in radians per second and in seconds,has units of radians per second squared each point or particle of a rotating object has, at any moment, a linear velocity vand a linear acceleration a. we can now relate the linear quantities at each point,v and a, to the angular quantities,and for a rigid object rotating about a fixed axis.
+	since andthen vb 7 va.rb 7 ra,v = rvuvrbraoprxωlθ��vbfigure 8;4 a point p on a rotating wheel has a linear velocity at any moment.vbif the angular velocity of a rotating object changes, the object as a whole—and each point in it—has an angular acceleration.
+	each point also has a linearacceleration whose direction is tangent to that point’s circular path.
+	8–4to see that the angular acceleration is related to the tan-gential linear acceleration of a point in the rotating object byor (using eq.
+
+
+
+222
+
+	the total linear acceleration of a point in the rotating object is the vector sumof two components:where the radial component,is the radial or “centripetal” acceleration and its direction is toward the center of the point’s circular path; see fig.
+	5–1) that a particle moving in a circle of radius r with linearspeed v has a radial accelerationwe can rewrite this in terms of using eq.
+	a carousel is initially at rest.at it is given a constant angular acceleration whichincreases its angular velocity for 8.0 s. at determine (a) the angularvelocity of the carousel, and (b) the linear velocity of a child (fig.
+	8–7b.approach the angular acceleration is constant, so we can use (eq.
+	8–1a.angular and linear accelerations.
+	for the child on therotating carousel of example 8–4, determine that child’s (a) tangential (linear)acceleration, (b) centripetal acceleration, (c) total acceleration.approach we use the relations discussed above, eqs.
+	8–5 and 8–6.solution (a) the child’s tangential acceleration is given by eq.
+	8–5:and it is the same throughout the 8.0-s acceleration period.
+	(b) the child’s centripetal acceleration at is given by eq.
+	8–6:ar = v2r= (1.2 m�s)2(2.5 m)= 0.58 m�s2.t = 8.0 satan = ra = (2.5 m)a0.060 rad�s2b = 0.15 m�s2,example 8;5v = rv = (2.5 m)(0.48 rad�s) = 1.2 m�s.t = 8.0 sr = 2.5 mv2 = 0.48 rad�sv1 = 0v2 = v1 + k ¢t = 0 + a0.060 rad�s2b(8.0 s) = 0.48 rad�s.v2,v1 = 0.0.060 rad�s2,k =¢t = 8.0 s,k = av2 - v1b�¢t,v = rvvt = 8.0 s.va = ¢v�¢tat = 8.0 s,a = 0.060 rad�s2,t = 0example 8;4abarbatanbop(b)θ(a)figure 8;7 examples 8–4 and 8–5.the total acceleration vector isat t = 8.0 s.ab = abtan + abr,
+
+
+
+223
+
+	(c) the two components of linear acceleration calculated in parts (a) and (b) areperpendicular to each other.
+	thus the total linear acceleration at hasmagnitudenote the linear acceleration at this chosen instant is mostly centripetal, andkeeps the child moving in a circle with the carousel.
+	that is,note that “revolution” is not really a unit, so we can also write the time required for one complete revolution is called the period t, and itis related to the frequency by(8;8)if a particle rotates at a frequency of three revolutions per second, then theperiod of each revolution is 13 s.t =1f.1 hz = 1 s–1.1 hz = 1 rev�s.�v = 2pf.f =v2pv1 rev�s = 2p rad�s.2pvu l 15°.u = tan–1 a atanarb= tan–1 a 0.15 m�s20.58 m�s2 b= 0.25 rad,u0.60 m�s2a = 3atan2+ ar2=3a0.15 m�s2b2 + a0.58 m�s2b2 = 0.60 m�s2.t = 8.0 ssection 8–2constant angular acceleration203exercise a in example 8–4 we found that the carousel, after 8.0 s, rotates at an angular velocity and continues to do so after because theacceleration ceased.
+	what are the frequency and period of the carousel when rotating at this constant angular velocity ?v = 0.48 rad�st = 8.0 sv = 0.48 rad�s,8–2 constant angular accelerationin chapter 2, we derived the useful kinematic equations (eqs.
+	2–11) that relateacceleration, velocity, distance, and time for the special case of uniform linearacceleration.
+	those equations were derived from the definitions of linear velocity and acceleration, assuming constant acceleration.
+	the definitions ofangular velocity and angular acceleration (eqs.
+	8–2 and 8–3) are just like thosefor their linear counterparts, except that replaces the linear displacement x,replaces v,and replaces a. therefore,the angular equations for constant angular acceleration will be analogous to eqs.
+
+
+
+224
+
+	since the angular accel-eration is constant, a = k.tvut0 = 0,v0a, av = v + v02j = v + v02a, av2 = v20 + 2axv2 = v20 + 2aua, ax = v0t + 12 at2u = v0t + 12 at2a, av = v0 + atv = v0 + att0 = 0x0 = 0u0 = 0204chapter 8rotational motionkinematic equationsfor constantangular accelerationu0 = 0][x0 = 0,p h y s i c s  a p p l i e dcentrifuge8–3 rolling motion (without slipping)the rolling motion of a ball or wheel is familiar in everyday life: a ball rollingacross the floor, or the wheels and tires of a car or bicycle rolling along the pave-ment.
+	there is a simplerelation between the linear speed v of the axle and the angular velocity of therotating wheel or sphere: namely,(where r is the radius) as we now show.v = rvvcentrifuge acceleration.
+	(a) what is its averageangular acceleration?
+	(b) through how many revolutions has the centrifuge rotorturned during its acceleration period, assuming constant angular acceleration?approach to determine we need the initial and final angularvelocities.
+
+
+
+225
+
+	determine (a) the angular velocity of the wheels at the initial instant (b) the total number of revolutions each wheel rotatesbefore coming to rest; (c) the angular acceleration of the wheel; and (d) the timeit took to come to a stop.approach we assume the bicycle wheels roll without slipping and the tire isin firm contact with the ground.
+	the circumferenceof the wheel is so each revolution of the wheel corresponds to a distancetraveled of thus the number of revolutions the wheelmakes in coming to a stop is(c) the angular acceleration of the wheel can be obtained from eq.
+
+
+
+226
+
+	8–4 torquewe have so far discussed rotational kinematics—the description of rotationalmotion in terms of angular position, angular velocity, and angular acceleration.now we discuss the dynamics, or causes, of rotational motion.
+	8–10is three times larger than then the angular acceleration of the door will bethree times as great, assuming that the magnitudes of the forces are the same.to say it another way, if then must be three times as large as togive the same angular acceleration.
+	)the angular acceleration, then, is proportional to the product of the forcetimes the lever arm.
+	thus, the angular acceleration of an object is directly proportional to the net applied torque and we see that it is torque that gives rise to angular acceleration.
+	thus is much smaller than .rarcrafbarcfbcfbcfbcfbcfbd,fbafbca r f.a r t,t:atfafbra = 3rb ,rb ,rarbrafbbfa ,fba206chapter 8rotational motionarbrabfbfbfigure 8;10 top view of a door.applying the same force with different lever arms,and ifthen to create the sameeffect (angular acceleration),needs to be three times fa.fbra = 3rb,rb.ra(a)(b)figure 8;11 (a) a plumber canexert greater torque using a wrenchwith a long lever arm.
+
+
+
+227
+
+	8–12 that the lineof action of the force passes through the hinge, and hence its lever arm is zero.consequently, zero torque is associated with and it gives rise to no angularacceleration, in accord with everyday experience (you can’t get a door to startmoving by pushing directly at the hinge).in general, then, we can write the magnitude of the torque about a given axis as(8;10a)where is the lever arm, and the perpendicular symbol reminds us that wemust use the distance from the axis of rotation that is perpendicular to the line ofaction of the force (fig.
+
+
+
+229
+
+	[it is also valid when the object is rotatingwhile translating with acceleration, as long as i and are calculated about thecenter of mass of the object, and the rotation axis through the cm doesn’t changedirection.
+
+
+
+230
+
+	8–20, weuse capital r to refer to the outer radius of an object (in (d) also the inner radius).when calculation is difficult, i can be determined experimentally by measuringthe angular acceleration about a fixed axis due to a known net torque,andapplying newton’s second law,eq.
+	8–14.8–6 solving problems in rotational dynamicswhen working with torque and angular acceleration (eq.
+
+
+
+231
+
+	the net torque isthe angular acceleration is found from the given data that it takes 3.00 s toaccelerate the pulley from rest tonewton’s second law,can be solved for i which is the unknown:6. other calculations: none needed.7.
+
+
+
+232
+
+	calculate the angular acceleration of the pulley and the linear accel-eration a of the bucket.
+	with and, from example 8–10,and , thenthe angular acceleration is somewhat less in this case than the ofexample 8–10.
+	the linear acceleration of the bucket isnote the tension in the cord is less than mg because the bucket accelerates.8–7 rotational kinetic energythe quantity is the kinetic energy of an object undergoing translationalmotion.
+
+
+
+235
+
+	if an object has angular velocity at time and angular velocity after a time interval then its angular acceleration (eq.
+
+
+
+239
+
+	lines drawn perpendicularlyfrom the rotation axis to various points in the object all sweepout the same angle in any given time interval.angles are conventionally measured in radians, where oneradian is the angle subtended by an arc whose length is equalto the radius, orangular velocity,is defined as the rate of change ofangular position:(8;2)all parts of a rigid object rotating about a fixed axis have thesame angular velocity at any instant.angular acceleration,is defined as the rate of change ofangular velocity:(8;3)the linear velocity v and acceleration a of a point locateda distance r from the axis of rotation are related to and by(8;4)(8;5)(8;6)where and are the tangential and radial (centripetal)components of the linear acceleration, respectively.the frequency f is related to by(8;7)and to the period t by(8;8)if a rigid object undergoes uniformly accelerated rotationalmotion equations analogous to those for linearmotion are valid:(8;9)the torque due to a force exerted on a rigid object isequal to(8;10)where called the lever arm, is the perpendicular distancefrom the axis of rotation to the line along which the force acts,and is the angle between and r.fbur⊥,t = r⊥f = rf⊥ = rf sin u,fbv2 = v02 + 2au,  j = v + v02.v = v0 + at,  u = v0t +12 at2,(a = constant),t = 1�f.v = 2pf,varatanar = v2r,atan = ra,v = rv,ava =¢v¢t.a,v =¢u¢t.v, 1 rad l  57.3°.
+	8–20).the rotational kinetic energy of an object rotating about afixed axis with angular velocity is(8;15)for an object both translating and rotating, the totalkinetic energy is the sum of the translational kinetic energy ofthe object’s center of mass plus the rotational kinetic energy of the object about its center of mass:(8;16)as long as the rotation axis is fixed in direction.the angular momentum l of an object rotating about afixed rotation axis is given by(8;18)newton’s second law, in terms of angular momentum, is(8;19)if the net torque on an object is zero,sothis is the law of conservation of angularmomentum for a rotating object.the following table summarizes angular (or rotational)quantities, comparing them to their translational analogs.translationrotationconnectionxvamif[*angular velocity, angular acceleration, and angularmomentum are vectors.
+
+
+
+240
+
+	if the angular accelerationpoints east, describe the tangential linear acceleration of thispoint at the top of the wheel.
+	(b) if the disk’s angular velocity increases uniformly,does the point have radial and or tangential acceleration?
+
+
+
+241
+
+	an object at rest begins to rotate with a constant angularacceleration.
+
+
+
+242
+
+	(i) the blades in a blender rotate at a rate of 6500 rpm.when the motor is turned off during operation, the bladesslow to rest in 4.0 s. what is the angular acceleration as theblades slow down?5.
+	calculate its angular velocity in rad s. (b) whatare the linear speed and acceleration of a point on theedge of the grinding wheel?8.
+	state in rad s.(d) what is the angular acceleration in each case?10.
+	(b) what is her acceleration (give components)?��0.50 mm(rad�s)= rev�min).
+	(ii) a 61-cm-diameter wheel accelerates uniformly about itscenter from 120 rpm to 280 rpm in 4.0 s. determine (a) itsangular acceleration, and (b) the radial and tangentialcomponents of the linear acceleration of a point on the edgeof the wheel 2.0 s after it has started accelerating.15.
+	think of the spacecraft as a cylinder with a diameter of 8.5 m rotating about its cylindrical axis.determine (a) the angular acceleration, and (b) the radialand tangential components of the linear acceleration of apoint on the skin of the ship 6.0 min after it started thisacceleration.16.
+	(ii) a turntable of radius is turned by a circular rubberroller of radius in contact with it at their outer edges.what is the ratio of their angular velocities,8;2 and 8;3 constant angular acceleration; rolling17.
+	(i) an automobile engine slows down from 3500 rpm to1200 rpm in 2.5 s. calculate (a) its angular acceleration,assumed constant, and (b) the total number of revolutionsthe engine makes in this time.18.
+	(a) what was its angular acceleration(assumed constant), and (b) what was its final angularspeed in rpm?20.
+	(a) what was the fan’s angular acceleration, assumedconstant?
+
+
+
+243
+
+	calcu-late (a) the angular acceleration of the pottery wheel, and(b) the time it takes the pottery wheel to reach its requiredspeed of 65 rpm.8;4 torque24.
+	calculate (a) the angular acceleration of the arm,and (b) the force required of the triceps muscle.
+
+
+
+244
+
+	(iii) two blocks are connected by a light string passingover a pulley of radius 0.15 m and moment of inertia i.the blocks move (towards the right) with an accelerationof along their frictionless inclines (see fig.
+	calculate the torque requiredto produce the acceleration, neglecting frictional torque.what force is required at the edge?40.
+
+
+
+246
+
+	a 1.6-kg grindstone in the shape of a uniform cylinder ofradius 0.20 m acquires a rotational rate of fromrest over a 6.0-s interval at constant angular acceleration.calculate the torque delivered by the motor.24 rev�s1.35 rad�s.1.70 rad�s.1260 kg�m277.
+
+
+
+248
+
+	at the moment of release, determine (a) the angularacceleration of the rod, and (b) the linear acceleration of the tip of the rod.
+
+
+
+249
+
+	supposesuch a car has a total mass of 1100 kg, uses a uniform cylin-drical flywheel of diameter 1.50 m and mass 270 kg, andshould be able to travel 350 km without needing a flywheel“spinup.” (a) make reasonable assumptions (average fric-tional retarding force on carthirty accelerationperiods from rest to equal uphill and downhill, andthat energy can be put back into the flywheel as the car goesdownhill), and estimate what total energy needs to bestored in the flywheel.
+
+
+
+250
+
+	in thiscase both the linear acceleration and the angular acceleration of the object orsystem are zero.
+
+
+
+252
+
+	in this case, the cord must be able to support a mass of more than 230 kg.note we didn’t insert the value of g, the acceleration due to gravity, until theend.
+
+
+
+276
+
+	if the maximumacceleration of the elevator is calculate the diam-eter of cable required.
+
+
+
+289
+
+	its volume ishow much force isneeded to lift it (without acceleration)?approach the force f needed to lift the statue is equal to the statue’s weight mg minus the buoyant force figure 10–12 is the free-body diagram.solution we apply newton’s second law,which givesorthe buoyant force on the statue due to the water is equal to the weight ofof water (for seawater,where we use the chemical symbol for water,, as a subscript.
+
+
+
+303
+
+	the density of a material is defined asits mass per unit volume:(10;1)specific gravity (sg) is the ratio of the density of the material tothe density of water (at 4°c).pressure is defined as force per unit area:(10;2)the pressure p at a depth h in a liquid of constant density , dueto the weight of the liquid, is given by(10;3a)where g is the acceleration due to gravity.pascal’s principle says that an external pressure applied toa confined fluid is transmitted throughout the fluid.pressure is measured using a manometer or other type ofgauge.
+
+
+
+313
+
+	11–1 is not a constant, but varies with position.therefore the acceleration of the mass m is not constant, so we cannot use theequations for constant acceleration developed in chapter 2.fext =±kx.
+	2–11 for constant accelerationdo not apply to a spring
+
+
+
+314
+
+	where, if anywhere, is the acceleration of the mass zero (see fig.
+
+
+
+316
+
+	what happens to (a) the energy of the system, (b) the maximum velocity of the oscillating mass,(c) the maximum acceleration of the mass?response (a) from eq.
+	(c) since the force is twice as great when we stretch the spring twice as far the acceleration is also twice as great:exercise c suppose the spring in fig.
+	11–5 is compressed tobut is given a push to the right so that the initial speed of the mass m is what effect does this push have on (a) the energy of the system, (b) the maximum velocity, (c) the maximumacceleration?v0 .x = –a,a r f r x.
+
+
+
+317
+
+	11–3b, we apply newton’ssecond law for the vertical forces:soforthe horizontal oscillations, the amplitude is given, the velocities are found usingconservation of energy, and the acceleration is found fromsolution (a) the spring stretches 0.150 m due to the 0.300-kg load, so(b) the spring is now horizontal (on a table).
+	11–5b derived from it, and find that(e) by newton’s second law,so the maximum acceleration occurswhere the force is greatest—that is, when thusnote we cannot use the kinematic equations, eqs.
+
+
+
+318
+
+	this makes sense since a larger mass meansmore inertia and therefore slower response (smaller acceleration).
+	and larger kmeans greater force and therefore quicker response (larger acceleration).
+
+
+
+319
+
+	estimate the maximumacceleration of the floor near the motor.approach assuming the motion of the floor is roughly shm, we can makean estimate for the maximum acceleration usingand eq.
+	11–6b.solution the maximum acceleration occurs when the forceislargest, which is whenthus,fromeq.
+
+
+
+320
+
+	11–7) is(e) the maximum acceleration, by newton’s second law, is becauseis greatest when x is greatest.
+
+
+
+321
+
+	thus simple harmonic motion† is said to be sinusoidalbecause the position varies as a sinusoidal function of time.velocity and acceleration as functions of timefigure 11–10a, like fig.
+	this definition is fully consistentwith our earlier definition in section 11–1.displacement xvelocity v(a)0acceleration a(c)(b)−a0−att−vmax0tttttvmaxamaxamax12t14tt1412t32t32t3434t12t14t32t34tfigure 11–10 graphs showing (a) displacement x as a function oftime(b) velocity as a function of time:where(c) acceleration as a function of time:whereamax = ak�m.a = –amax cos(2pt�t),vmax = a1k�m;v = –vmax sin(2pt�t),x = a cos(2pt�t);t:x(t)a0−att14343212ttttfigure 11–9 sinusoidal nature of shm,position as a function of time.
+
+
+
+322
+
+	the restoring force is the net force on the bob,which equals the component of the weight (mg) tangent to the arc:where g is the acceleration due to gravity.
+
+
+
+323
+
+	what is the acceleration due to gravity at this location?approach we can use the length and frequency f of the pendulum ineq.
+	11–17).figure 11–17 these huge dampers placed in a building look a lot like huge automobile shock absorbers,and they serve a similar purpose—toreduce the amplitude and the acceleration of movement when the shock of an earthquake hits.p h y s i c s  a p p l i e dshock absorbers and building dampers
+
+
+
+339
+
+	for small ampli-tudes, its period is given by(11;11a)where g is the acceleration of gravity.when friction is present (for all real springs and pendulums),the motion is said to be damped.
+
+
+
+340
+
+	is the acceleration of a simple harmonic oscillator everzero?
+	for a simple harmonic oscillator, when (if ever) are thedisplacement and velocity vectors in the same direction?when are the displacement and acceleration vectors in thesame direction?7.
+
+
+
+341
+
+	11–1) has amplitude aand period t. at what point in the motion is the velocityzero and the acceleration zero simultaneously?
+	(a) the object can have zero velocity and, simultaneously,nonzero acceleration.
+	(b) the object can have zero velocity and, simultaneously,zero acceleration.
+	(c) the object can have zero acceleration and,simultaneously, nonzero velocity.
+	(d) the object can have nonzero velocity and nonzeroacceleration simultaneously.3.
+
+
+
+343
+
+	it takes 3.6 j of work to compress the spring by0.13 m. if the spring is compressed, and the mass is releasedfrom rest, it experiences a maximum acceleration offind the value of (a) the spring constant and (b) themass.20.
+
+
+
+344
+
+	what is itsperiod on mars, where the acceleration of gravity is about0.37 that on earth?28.
+
+
+
+346
+
+	in awind, suppose the top of a 110-story buildingoscillates horizontally with an amplitude of 15 cm at itsnatural frequency, which corresponds to a period of 7.0 s. assuming shm, find the maximum horizontal velocityand acceleration experienced by an employee as she sitsworking at her desk located on the top floor.
+	compare themaximum acceleration (as a percentage) with the accelera-tion due to gravity.78.
+	at what dis-tance from equilibrium will it have (a) velocity equal to halfits maximum velocity, and (b) acceleration equal to half itsmaximum acceleration?75.
+	[hint: setthe acceleration]81. two strings on a musical instrument are tuned to play at392 hz (g) and 494 hz (b).
+
+
+
+475
+
+	(b) if an electronis placed at rest at pand then released, what will be its initial acceleration (direction and magnitude)?
+	in (b) weuse newton’s second lawto find the acceleration, wheresolution (a) each field is due to a point charge as given by eq.
+	therefore the acceleration(newton’ssecond law) will be to the right.
+	hence the magnitude of the electron’s initial acceleration isnote by considering the directions of each field (and ) before doing anycalculations, we made sure our calculation could be done simply and correctly.exercise g four charges of equal magnitude, but possibly different sign, are placed onthe corners of a square.
+
+
+
+478
+
+	at the earth’s surface, r is the radius of the earth and thegravitational field is equal to g, the acceleration due to gravity.
+
+
+
+487
+
+	isthe direction of the velocity and/or acceleration of the test charge along this line?
+
+
+
+489
+
+	(ii) determine the magnitude of the acceleration experi-enced by an electron in an electric field of howdoes the direction of the acceleration depend on thedirection of the field at that point?24.
+
+
+
+490
+
+	(ii) what is the electric field strength at a point in spacewhere a proton experiences an acceleration of 2.4 million“g’s”?27.
+
+
+
+491
+
+	(a) the electric field near the earth’s surface has magni-tude of about what is the acceleration experiencedby an electron near the surface of the earth?
+	(c) calculate the ratio of each acceleration to49.
+
+
+
+492
+
+	twoelectrically neutral carbon spheres, each containing 1 moleof carbon, are separated by 15.0 cm (center to center).what fraction of electrons would have to be transferredfrom one sphere to the other for the electric force and thegravitational force between the spheres to be equal?7.22 * 10244. what experimental observations mentioned in the text ruleout the possibility that the numerator in coulomb’s lawcontains the sum rather than the product 5. near the surface of the earth, there is a downward electricfield of and a downward gravitational field ofa charged 1.0-kg mass is observed to fall withacceleration what are the magnitude and sign ofits charge?6.
+
+
+
+495
+
+	the signs of and are oppositebecause of the negative charge of the electron.note a positive charge placed next to the negative plate at b would stay there,with no acceleration.
+
+
+
+587
+
+	we saw inchapter 5 that if the force on a particle is always perpendicular to its velocity the particle moves in a circle and has a centripetal acceleration of magnitude(eq.
+	thus a charged particle moves in a circular path with aconstant magnitude of centripetal acceleration in a uniform magnetic field (seefig.
+
+
+
+608
+
+	what acceleration (in g’s)does this interaction give the airplane?83.
+
+
+
+649
+
+	because they are fields, em waves can propagate in empty space.as we have seen, em waves are produced by electric charges that are oscil-lating, and hence are undergoing acceleration.
+
+
+
+650
+
+	em waves can beproduced by the acceleration of electrons or other charged particles, such as electrons in the antenna of fig.
+	eventhe visible light emitted by an ordinary incandescent bulb is due to electronsundergoing acceleration within the hot filament.exercise b return to the chapter-opening question, page 625, and answer it againnow.
+
+
+
+663
+
+	(b) suppose the sail materialhas a mass of what would be the acceleration ofthe sail due to solar radiation pressure?
+	22–23).estimate (a) the radiation pressure and force on the object,and (b) its acceleration, if its density equals that of waterand it absorbs all the radiation.
+
+
+
+766
+
+	the acceleration of the coin is the same in both referenceframes.
+	the acceleration of an object, however, is the same in any inertialreference frame according to classical mechanics.
+	with respect to the earth, the acceleration iswhich is the same.
+
+
+
+775
+
+	but during theaccelerations, the twin on the spacecraft is not in an inertial frame.
+
+
+
+792
+
+	in the absence of an electric field, therays are bent into a curved path, and applying newton’s second law withacceleration givesand thusthe radius of curvature r can be measured and so can b. the velocity v can befound by applying an electric field in addition to the magnetic field.
+
+
+
+810
+
+	27–27) would have a centripetalacceleration produced by the electrical force of attraction between the negative electron and the positive nucleus.
+
+
+
+901
+
+	what would bethe acceleration of an alpha particle subjected to this force?7.
+
+
+
+903
+
+	estimate, for a 10-km-diameter neutronstar, (a) its mass number, (b) its mass (kg), and (c) theacceleration of gravity at its surface.63.
+
+
+
+939
+
+	another way to describe the acceleration is to say the particles “surf” ona traveling electromagnetic wave within radiofrequency (rf) cavities.
+	since ions or electrons are acceleratedin an accelerator, we can expect considerable energy to be lost by radiation.the effect increases with energy and is especially important in circular machineswhere centripetal acceleration is present, such as synchrotrons, and hence is calledsynchrotron radiation.
+
+
+
+964
+
+	(b) in order to move in a circle, acceleration is required.
+	the acceleration was done once per turn.estimate the energy given to the protons on each turn.
+
+
+
+979
+
+	conversely, we might thinkwe are being pulled by gravity when in fact we are undergoing an accelerationhaving nothing to do with gravity.as a thought experiment, consider a person in a freely falling elevator nearthe earth’s surface.
+
+
+
+980
+
+	(forexample, in the absence of air resistance, all objects fall at the same acceleration, g,on earth.)
+
+
+
+993
+
+	this acceleration in the expansion of the universe is said to be due to“dark energy,” as we discuss in section 33–9.
+
+
+
+995
+
+	looking back in time, the bigbang occurs where each curvetouches the horizontal (time) axis.= h0 ,rrelative size of universe(or average intergalactic distance)big bang(lookback timedepends on model)“big crunch”billions of yearsdarkenergy (acceleration)positivecurvaturenegative curvatureflatr�rcr�rcr�rc012302010–10nowalso, the virtual exchange particles that carry the forces, as discussed in chapter 32,could leave their brief virtual states and actually become real as a result of themagnification of space (according to inflation) and the very short time overwhich it occurred inflation helps us too with the puzzle of why magnetic monopoles (section 20–1)have never been observed, yet isolated magnetic poles may well have been copiously produced at the start.
+	if the universe had positive curvature, it would be closed and finite; the effect ofgravity would be strong enough that the expansion would eventually stop and theuniverse would begin to contract, collapsing back onto itself in a big crunch.critical densityaccording to the above scenario (which does not include inflation or the recentlydiscovered acceleration of the universe), the fate of the universe would dependon the average mass–energy density in the universe.
+
+
+
+996
+
+	we are not sure about that either, but we havegiven it a name: “dark energy.”dark energy—cosmic accelerationin 1998, just before the turn of the millennium, two groups, one led by saulperlmutter and the other by brian schmidt and adam riess (fig.
+
+
+
+999
+
+	if the star is very massive, itmay contract even further and form a black hole, which is sodense that no matter or light can escape from it.in the general theory of relativity, the equivalence principlestates that an observer cannot distinguish acceleration from agravitational field.
+
+
+
+1001
+
+	acceleration of the universe’s expansion rate is due to(a) the repulsive effect of dark energy.
+
+
+
+1004
+
+	sometimes a givenquantity is affected by two or more quantities; for instance, the acceleration of anobject is related to both its mass and the applied force.
+
+
+
+1021
+
+	let us determine the magnitude of the coriolis acceleration for the simple casedescribed above.
+	c–2b).equation c–1 corresponds to motion at constant acceleration, because as wesaw in chapter 2 (eq.
+	2–11b),for a constant acceleration (with zero ini-tial velocity in the y direction).
+	c–1 in the formwe see that the coriolis accelerationis(c–2)this relation is valid for any velocity in the plane of rotation perpendicular to theaxis of rotation (in fig.
+
+
+
+1046
+
+	a (atomic mass number), 858aberration:chromatic, 725 fn, 728, 732of lenses, 727–28, 729, 731spherical, 650, 727, 728, 732absolute pressure, 264absolute space, 746, 748absolute temperature scale,362, 368absolute time, 746absolute zero, 368, 424kinetic energy near, 376absorbed dose, 900absorption lines, 692–93, 787,838absorption spectrum, 692–93,787, 838absorption wavelength, 793abundances, natural, 858ac (defn), 514ac circuits, 514–15, 526 fn,611–16ac generator, 597, 599ac motor, 577accademia del cimento, 361accelerating reference frames,77, 80, a-16–a-18acceleration, 26–38, 40, 58–63angular, 201–4, 208–12average, 26–27, 40centripetal, 110 ffconstant, 28–38constant angular, 203–4coriolis, a-17–a-18cosmic, 976–77of expansion of the universe,976–77as a function of time (shm),301in g’s, 37due to gravity, 33–38, 58–63,79 fn, 84, 121–22instantaneous (defn), 26, 40of the moon, 112, 119motion at constant, 28–38,58–64radial, 110 ff, 118related to force, 78–80of simple harmonic oscillator,301and slope, 40tangential, 118, 201–3uniform, 28–38, 58–64velocity vs., 27accelerators, particle, 916–21accelerometer, 92acceptor level, 845accommodation of eye, 719accuracy, 8precision vs., 8achromatic doublet, 728achromatic lens, 728actinides, 817action at a distance, 119action potential, 518–19action–reaction (newton’sthird law), 81–83activation, on an lcd screen,491activation energy, 377, 833,834active galactic nuclei (agn),951active matrix, 492active solar heating, 435activity, 870and half-life, 872source, 900adc, 488–89addition of vectors, 50–57, 87,450addition of velocities:classical, 65–66relativistic, 764addressing pixels, 491–92adenine, 460adhesion (defn), 281–82adiabatic processes, 415–16adp, 833af signal, 637afm, 786agn, 951air circulation, underground,278air columns, vibrations of,337–40air conditioners, 425–27air gap, 694air pollution, 434–35air resistance, 33airplane:noise, 333wing, 277airy disk, 729algebra, review of, a-3–a-6alkali metals, 817allowed transitions, 814,838–39alpenhorn, 358 pralpha decay, 864–66, 869and tunneling, 876alpha particle (or ray), 786–87,864–66alternating current (ac),514–15, 526 fn, 611–16alternators, 598am, 737am radio, 637amino acids, 836–37ammeter, 546–48, 576digital, 546, 548connecting, 547resistance, effect of, 547–48amorphous solids, 840ampère, andré, 504, 573ampere (a) (unit), 504, 572operational definition of,572ampere-hour (a·h) (unit),505ampère’s law, 573–75, 626–27amplifiers, 850–51amplitude, 294, 306, 319intensity related to, 333of vibration, 294of wave, 294, 306, 310, 319,333, 804–6amplitude modulation (am),637analog meters, 546–48, 576analog signals, 488–89, 604analog-to-digital converter(adc), 488–89analyzer (of polarized light),700anderson, carl, 924andromeda, 950, 983 praneroid barometer, 266aneroid gauge, 266angle, 11 fn, 199attack, 277brewster’s, 702, 710 prcritical, 659of dip, 562of incidence (defn), 313, 317,645, 657phase, 615polarizing, 702radian measure of, 199–200of reflection (defn), 313, 645of refraction, 317, 657solid, 11 fnangstrom (å) (unit), 20 pr,685 fnangular acceleration, 201–4,208–12average, 201constant, 203–4instantaneous, 201angular displacement, 200, 302angular magnification, 722angular momentum, 215–18,789, 795in atoms, 789, 812–14conservation, law of, 215–17,869quantized in atoms, 812–13quantized in molecules,837–38vector, 218angular position, 199angular quantities, 199 ffvector nature, 217–18angular velocity, 200–3average, 200instantaneous, 200animals, and sound waves, 309anisotropy of cmb, 968, 977annihilation of electrons, 781,925, 971–72anode, 490antenna, 627–28, 631, 638anthropic principle, 979antiatoms, 925anticodon, 836antilock brakes, 116antilogarithm, a-3,a-11antimatter, 925, 941, 943 pr(see also antiparticle)antineutrino, 867–68, 930antineutron, 925antinodes, 315, 337, 338, 339antiparticle, 868, 924–26,930–31 (see alsoantimatter)antiproton, 924–25, 934antiquark, 930–31, 934–35, 936apparent brightness, 951–52,958apparent weight, 124–25, 270apparent weightlessness,124–25approximations, 8, 13–15arago, f., 687archeological dating, 875arches, 246–49a-43indexnote: the abbreviation defn means the page cited gives the definition of the term;fn means the reference is in a footnote; pr means it is found in a problem or question;ff means “also the following pages.”
+
+
+
+1047
+
+	archimedes, 268–70archimedes’ principle, 268–72and geology, 272area, 12, a-1, inside back coverunder a curve or graph, 142,176–77arecibo radiotelescope, 643 pr,731aristotle, 2, 76armature, 577, 597arteriosclerosis, 280artificial radioactivity, 863asa number, 715 fnasteroids, 135 pr, 136 pr,196 pr, 228 prastigmatism, 720, 727astronomical telescope, 650,724–25, 743 prastrophysics, 916, 947 ffasymptotic freedom, 937atlas, 921, 939atmosphere (atm) (unit), 264atmosphere, scattering of lightby, 704atmospheric pressure, 264,266–67decrease with altitude, 264atom, model of, 445atom trap, 802 pratomic bomb, 893–94, 897atomic density, 859atomic emission spectra,692–93, 787–89atomic force microscope(afm), 786atomic mass, 360atomic mass number (a), 858atomic mass unit, unified, 10,360, 860atomic number (z), 815,817–19, 858atomic spectra, 787–89, 792–94atomic structure:bohr model of, 789–95,803–4, 811–12of complex atoms, 816–17early models of, 786–87of hydrogen atoms, 812–14of multielectron atoms,816–17nuclear model of, 787planetary model of, 787quantum mechanics of,803–24shells and subshells in,816–17atomic theory of matter,359–61, 443atomic weight, 360atomizer, 277atoms, 359–61, 372–77, 786–96,916 fnangular momentum in, 789,812–14binding energy in, 791bohr model of, 789–95as cloud, 811complex, 815–17crystal lattice of, 840and de broglie’s hypothesis,795–96distance between, 361electric charge in, 445energy levels in, 789–95,812–13, 815–16, 818hydrogen, 787–96, 812–14ionization energy in, 791–94multielectron, 815–17neutral, 860probability distributions in,805, 811quantum mechanics of,803–24shells and subshells in,816–17(see also atomic structure;kinetic theory)atp, 833attack angle, 277attractive forces, 832–33, 922atwood machine, 91, 225 praudible range, 329audible sound, frequency of,329, 334–35audiofrequency (af) signal, 637aurora borealis, 569autofocusing camera, 330autoradiography, 904average acceleration (defn),26–27, 40average angular acceleration,201average angular velocity, 200average speed (defn), 23–24, 376average velocity (defn), 23–25,28, 39avogadro, amedeo, 372avogadro’s hypothesis, 372avogadro’s number, 372–73axis of lens, 661axis of rotation (defn), 199forces tilting, 208 axon, 517–19back, forces in, 238–39back emf, 599–600background radiation, cosmicmicrowave, 967–70, 973,974, 977–78backlight, 491bacterium, 785bainbridge-type massspectrometer, 578balance, human, 240ballistic galvanometer, 624 prballistic pendulum, 181balloons:helium, 272, 371hot-air, 43 pr, 359, 389 prbalmer, j. j., 788balmer formula, 789, 792balmer series, 788, 792–93band gap, 842–43band spectra, 837band theory of solids, 842–43and doped semiconductors,845bandwidth, 489banking of curves, 115–17bar (unit), 264, 267bar codes, 822barometer, 266–67barrel distortion, 728barrier, coulomb, 876, 954–55barrier tunneling, 876–77baryon, 930–31, 935, 936–38,976–78decay, 931and quark theory, 934–35baryon number, 926–27,930–31, 933–35, 940, 971conservation of, 927base, of transistor, 850base bias voltage, 850base quantities, 10base semiconductor, 850base units (defn), 10baseball, 68 pr, 70 pr, 74 pr,102 pr, 138, 220 pr, 278position uncertainty, 809baseball curve, and bernoulli’sprinciple, 278bases, nucleotide, 460–61,834–36basketball, 73 pr, 102 prbattery, 476, 502–3, 505, 507, 527automobile, charging,536–37, 604chargers, inductive, 604electric, 502–3jump starting, 536–37lithium-ion, 504rechargeable, 604symbol, 504, 526voltaic, 502bayer mosaic, 714, 717beam splitter, 698beams, 235–36, 245–47bear sling, 105, 252beat frequency, 343beats, 342–43becquerel, henri, 863becquerel (bq) (unit), 900bel (unit), 331bell, alexander graham, 331benzene ring, 849bernoulli, daniel, 274–75bernoulli’s equation, 274–79bernoulli’s principle, 274–78beta decay, 863–64, 866–68,869, 873, 938inverse, 956beta particle (or ray), 864, 866(see also electron)bethe, hans, 896biasing and bias voltage,845–46, 850–51biceps, and torque, 238, 255 prbicycle, 205, 218, 227 pr, 229 prbicycle gears, 227 prbig bang theory, 801 pr, 941,947, 964, 966–79big crunch, 975bimetallic strip, 362bimetallic-strip thermometer,362binary code, 604binary numbers, 488binary system, 956–57, 963binding energy:in atoms, 791for iron, 862in molecules, 830, 832–33,834–35of nuclei, 860–62in solids, 840total, 769 pr, 861binding energy per nucleon(defn), 861, 894binoculars, 660, 725binomial expansion, 753, 755,763, a-1, a-6–a-7, insideback coverbiochemical analysis byspectroscopy, 693biological damage byradiation, 899biological development, andentropy, 430–31bipolar junction transistor,850–51birth and death of stars, 954–57bismuth-strontium-calcium-copper oxide (bscco),517bit depth, 488–89bit-line, 605bits, 604black holes, 136 pr, 951, 956,962–63, 975blackbody, 774blackbody radiation, 774, 952,968blinking flashers, 542blood flow, 274, 280, 282–83,288 prconvection by, 402rate, 584 prtias and, 278blood-flow measurement,electromagnetic, 596blood-flow meter, doppler,347, 358 prblood pressure, measuring,280, 283, 288 pr, 289 pr,290 prblood transfusion, 288 pr,289 prblue sky, 704blueshift, 965a-44index
+
+
+
+1049
+
+	charging by conduction,446–47charging by induction, 446–47,604charles, jacques, 368charles’s law, 368charm, 931 fn, 933–35charm quark, 934chart of the nuclides, 857chemical analysis byspectroscopy, 693chemical bonds, 829–37chemical lasers, 822chemical reactions, rate of, 377chemical shift, 907chernobyl, 892, 912 pr, 913 prchimney, and bernoulli effect,278chip, computer, 19 pr, 829,845, 851cholesterol, 280chord, 39, 200 fnchromatic aberration, 725 fn,728, 732chromodynamics, quantum(qcd), 923, 937–39chromosomes, 460circle of confusion, 716circle of least confusion, 727circuit, digital, 851circuit, electric (see electriccircuits)circuit breaker, 512–13,544–45, 573, 607circular apertures, 728–30circular motion, 110–18nonuniform, 118and simple harmonic motion,299–300uniform, 110–15circular standing wave, aselectron wave, 795–96circulating pump, 282classical physics (defn), 2, 745,804clausius, r. j. e., 420, 428clausius statement of secondlaw of thermodynamics,420, 423 pr, 425clock, pendulum, 302cloning, 462closed system (defn), 394closed tube, 338clothing:dark vs. light, 403insulating properties of, 401cloud, electron, 811, 814,830–32cloud chamber, 182, 878cloud color, 704clusters, of galaxies, 950, 974,977of stars, 950cm, 184–89 (see also center ofmass)cmb, 967–70, 973, 974, 977–78cmb anisotropy, 968, 977cmb uniformity, 974cmos, 714, 921cno cycle, 896, 912 pr, 914 prco molecule, 838–39coal, energy in, vs. uranium,893coating of lenses, optical,697–98coaxial cable, 586 pr, 631cobe, 949, 968codon, 836coefficient:of kinetic friction, 93–94of linear expansion, 364–65of performance (cop), 426,427of static friction, 93–94of thermal expansion, 364of viscosity, 279of volume expansion, 364,366coherence, 685coherent light, 685, 820–23cohesion, 281–82coil (see inductor)cold dark matter (cdm)model of universe, 977–78collector (of transistor), 850collider detector at fermilab(cdf), 878colliding beams, 920–21collimated beam, 735, 905 fncollimated gamma-raydetector, 905collision:completely inelastic, 180conservation of energy andmomentum in, 173–75,177–84elastic, 178–80, 183and impulse, 176–77inelastic, 178, 180–82nuclear, 180, 182–83in two dimensions, 182–83colloids, 261colonoscope, 660color:in digital camera, 714of light related to frequencyand wavelength, 682,685–87, 696–97of quarks, 936–37of star, 774, 952–53in thin soap film, 696–97in visible spectrum, 686color charge, 936–37color-corrected lens, 728color force, 937, 939–40color screens, 490–91coma, 727comets, 135 prcommon logarithms,a-10–a-11commutative property, 51commutator, 577, 597–98compact disc (or disk) (cd),20 pr, 43 pr, 48 pr, 226 pr,489, 822compact disc (cd) player, 822compass, magnetic, 560–63,570complementarity, principle of,782complementary metal oxidesemiconductor (cmos),714, 921complete circuit, 504completely inelastic collisions,180complex atoms, 815–17complex wave, 341components of vector, 53–57composite particles, 930–31,937 fncomposite wave, 340composition resistor, 506compound lenses, 728compound microscope, 726–27compound nucleus, 889compound semiconductors,847compounds, 360organic, 849compressed, digital data, 489compression (longitudinalwave), 307, 309compressive strength, 245compressive stress, 243–44compton, a. h., 780, 890compton effect, 780, 781, 899compton shift, 780compton wavelength, 780,800 prcomputed tomography (ct),735–36, 905–6computer:and digital information, 604disks, 604–5hard drive, 19 pr, 222 prkeyboard, 484memory, 500 prmonitor, 490–92, 703–4printers, 462–63computer chips, 19 pr, 829,845, 851computer-assisted tomography(cat), 735–36, 905–6computerized axialtomography (cat),735–36, 905–6concave mirror, 649, 653–54,725concentration gradient, 382,400 fnconcrete, prestressed andreinforced, 246condensation, 379condensed-matter physics, 840condenser, 482condenser microphone, 484conductance, 523 prconduction:charging by, 446–47electrical, 445, 501–48of heat, 400–2in nervous system, 517–19to skin, 410 prconduction band, 842–43conduction current (defn), 627conduction electrons, 445conductive layer, 849conductivity:electrical, 508, 517thermal, 400–1conductors:charge of, 845electric, 445, 459, 501–2,504 ffheat, 401quantum theory of, 842–43cones, 719configuration, electron, 816–17in fusion, 897–98of quarks, 937, 971conservation of energy,150–58, 394–96, 413–19,776, 865, 867, 869, 926–28in collisions, 173–75in an isolated system, 394–96conservation laws, 138, 150–51of angular momentum,215–17, 869apparent violation of, in betadecay, 867of baryon number, 927, 940,971and collisions, 173–75,177–84of electric charge, 444, 869,926in elementary particleinteractions, 923, 926–28of energy, 150–58, 394–96,413–19, 776, 865, 867, 869,926–28in isolated systems, 394–96of lepton number, 927, 940,971of linear momentum, 173–84,869of mechanical energy, 150–55of momentum, 173–84,926–28in nuclear and particlephysics, 869, 926–27in nuclear processes, 867of nucleon number, 869,926–28, 931of strangeness, 933conservative forces, 149–51conserved quantity, 138, 150constant acceleration, 28–38,58–64a-46index
+
+
+
+1055
+
+	gate electrode, in a tft, 492gate terminal, 605gauge bosons, 916, 930–31, 935gauge pressure, 264gauge theory, 938gauges, pressure, 266–67gauss, k. f., 463gauss (g) (unit), 565gauss’s law, 463–66, 626gay-lussac, joseph, 368gay-lussac’s law, 368, 369, 372geiger counter, 877gell-mann, m., 934general motion, 184general theory of relativity,948, 959–63generator, 434–35ac, 597dc, 597, 599electric, 597–98emf of, 597–99van de graaff, 459generator equation, deriving,598–99genes, 460genetic code, 836genetic information, 461geocentric, 3, 125, 128geodesic, 961geographic poles, 562geological dating, 876geology, and archimedes’principle, 272geometric optics, 645–70geometry (review), a-7–a-8geometry, plane, a-7–a-8,inside back covergeosynchronous satellite, 123geothermal energy, 435germanium, 844germer, l. h., 783gfci, 545, 607gianotti, fabiola, 939giants, red, 951, 953–55giraffe, 289 prglaser, d. a., 878glashow, s., 938glass, testing for flatness, 695glasses, eye, 719–21global positioning satellite(gps), 19 pr, 136 pr,642 pr, 755global system for mobilecommunication (gsm),639global warming, 434glueballs, 937 fngluino, 942gluons, 923, 930–31, 935, 936,938golf putt, 47 prgps, 19 pr, 136 pr, 642 pr, 755gradient:concentration, 382, 400 fnpressure, 280, 400 fntemperature, 400–1velocity, 279gram (g) (unit), 10, 79grand unified era, 971grand unified theories (gut),129, 939–41graphical analysis:of linear motion, 39–40for work, 142graphite, 891grating, 690–93gravitation, universal law of,119–21, 448, 959gravitational collapse, 963gravitational constant (g), 120gravitational field (defn), 458,959–63gravitational force, 76, 84–86,119–29, 465, 924, 941, 942,948, 955–56, 959–63,975–77gravitational lensing, 961gravitational mass, 960gravitational potential, 476,478gravitational potential energy,145–47, 151–55gravitational redshift, 965gravitational slingshot effect,197 prgravitino, 942graviton, 924, 935, 942gravity, 33–38, 76, 84–86,119–29, 465, 924, 941, 942,948, 955–56, 959–63,975–77acceleration of, 33–38, 79 fn,84, 121–22center of, 186, 240and curvature of space,959–63on earth, 33 ff, 119, 121–22effect on light, 960–61, 963force of, 76, 84–86, 119 ff,924, 941, 942, 948, 955–56,959–63, 975, 975–77free fall under, 33–38, 124specific, 262, 271gravity waves, 978gray (gy) (unit), 900greek alphabet: inside frontcovergrid, in cathode ray tube, 490grimaldi, f., 680, 685ground fault, 607ground fault circuit interrupter(gfci), 545, 607ground state, of atom, 791ground wire, 544–45grounding, electrical, 446, 505and shocks, 544symbol, 526groves, leslie, 893g’s, acceleration in, 37gsm, 639guanine, 460guest compound, 850gut, 129, 939–41guth, alan, 971, 973h-bar ( ), 808, 814hadron era, 970–71hadrons, 930–31, 933–37, 971hahn, otto, 889hair dryer, 515hale-bopp comet, 135 prhale telescope, 725half-life, 870–73calculations involving, 872–73formula, derivation of, 871half-wave rectification, 846hall, e. h., 569hall effect, hall emf, hall field,hall probe, 569, 584 pr,844 fnhalley’s comet, 135 prhalogen bulb, 501, 503halogens, 817hard drive, 19 pr, 222 pr, 604harmonic motion:damped, 303simple (shm), 295–303harmonic oscillator, 295–303harmonics, 316, 336–40hazards of electricity, 512–13,543–45headlights, 476, 511, 526heads, magnetic, 604headsets, 577hearing, 328–49 (see sound)range of human, 331threshold of, 335heart, 282–83, 289 pr, 290 prdefibrillator, 487, 498 pr,543 fnpacemaker, 543, 608heart disease, and blood flow,280heartbeat, 290 prheat, 155 fn, 156, 390 ff, 412–19calorimetry, 394–400compared to work, 412conduction, 400–2convection, 402distinguished from internalenergy and temperature,392as energy transfer, 391–92in first law ofthermodynamics, 413–19of fusion, 397–98and human metabolism, 418latent, 397–98, 400lost by human body, 402mechanical equivalent of, 391radiation, 403–6of vaporization, 397–98heat capacity, 409 pr (see alsospecific heat)heat conduction to skin, 410 prheat death not for stars, 431heat engine, 420–25, 434, 891carnot, 422–24efficiency of, 422internal combustion, 420–21,22operating temperatures, 420steam, 420–21temperature difference, 421and thermal pollution, 434heat of fusion, 397–98heat of vaporization, 397–98heat pump, 425–27heat reservoir, 414, 423heat transfer, 400–6conduction, 400–2convection, 402radiation, 403–6heating duct, 274heating element, 510, 515heavy elements, 955–56heavy water, 891heisenberg, w., 771, 804heisenberg uncertaintyprinciple, 806–9, 830and particle resonance, 932and tunneling, 877helicopter drop, 49heliocentric, 3, 125, 128helium, 815, 860–61, 864,886–87, 894i and ii, 378balloons, 272, 371ionization energy, 794primordial production of,972, 973 fnspectrum of, 787and stellar evolution, 954–56helium–neon laser, 822henry, joseph, 590, 608henry (h) (unit), 608hertz, heinrich, 629–30hertz (hz) (unit of frequency),203, 294hertzsprung–russell diagram,952–55, 958higgs, peter, 939higgs boson, 915, 916, 935, 939higgs field, 939high definition (hd)television, 491, 492high-energy accelerators,916–21high-energy particles, 916–21high-energy physics, 916–42high mass stars, 955–56high-pass filter, 613high heels, 286 prhigh jump, 165 pr, 187highest occupied molecularorbitals (homo), 849–50highway:curves, banked andunbanked, 115–17mirages, 682ua-52index
+
+
+
+1056
+
+	(unit), 9incidence, angle of, 313, 317,645, 657incident waves, 313, 317inclines, motion on, 97–98,213–14incoherent source of light,685indeterminacy principle, 807(see uncertainty principle)index of refraction, 656dependence on wavelength(dispersion), 686in snell’s law, 657–58indium–tin oxide (ito), 849induced current, 590 ffinduced electric charge,446–47, 486induced emf, 590–97counter, 599–600in electric generator, 597–99in transformer, 601–3inductance, 608–9in ac circuits, 610–16mutual, 608self-, 608–9induction:applications, 606–7charging by, 446–47electromagnetic, 590 fffaraday’s law of, 590, 592–93,626induction stove, 594inductive battery charger, 604inductive reactance, 612inductor, 608, 851in circuits, 610–16energy stored in, 610reactance of, 612symbol, 608inelastic collisions, 178,180–82inertia, 77moment of (rotational),208–10inertial confinement, 897–98inertial confinement fusion(icf), 898inertial forces, a-16–a-17inertial mass, 960inertial reference frame, 77, 80,137 pr, 745 ff, a-16earth as, 77, 137 prequivalence of all, 746–47,748inflationary scenario, 971,973–75information storage:magnetic, 604–5semiconductor, 605–6infrared (ir) radiation, 403,405 fn, 630, 686, 693infrasonic waves, 330initial conditions, 300inkjet printer, 463in-phase waves, 683, 690,694–98insertions (muscle attachmentpoints), 238instantaneous acceleration(defn), 26, 40instantaneous angularacceleration, 201instantaneous angular velocity,200instantaneous speed, 25instantaneous velocity (defn),25, 39–40instruments, musical, 335–40instruments, optical, 713–37insulators:electrical, 445, 508, 842–43thermal, 401–2, 842–43integrated circuits, 851integration by parts, a-6, a-7intensity, 310–11, 331 fffor em waves, 634in interference anddiffraction patterns,688–90of light, 685, 700–1, 804–5of sound, 331–33of waves, 310–11, 331–33interference, 313–14, 341–43beats, 342–43 constructive, 313–14, 341–42,683, 697, 698, 830destructive, 313–14, 341–42,683, 697, 698, 830of electrons, 805–6, 830of light waves, 682–85of sound waves, 341–43by thin films, 693–98of water waves, 314wave-phenomenon, 682of waves on a cord, 313interference fringes, 683–85interference microscope, 733interference pattern:double-slit, 682–85, 690,805–6including diffraction,690multiple slit, 690–93interferometers, 698, 747interlaced, 490intermittent windshield wipers,543internal combustion engine,420–22internal conversion, 869internal energy, 392–93, 413–14distinguished from heat andtemperature, 392of an ideal gas, 392–93internal reflection, total,327 pr, 659–60internal resistance, 527–28international linear collider(ilc), 921indexa-53
+
+
+
+1059
+
+	matter waves, 782–84, 795–96,804 ffmatter–antimatter problem,941matter-dominated universe,972, 973maxwell, james clerk, 376,625, 627, 629–30, 635,747maxwell distribution ofmolecular speeds, 376–77,433, 897maxwell’s equations, 626–27,744, 747, 747 fn, 748maxwell’s preferred referenceframe, 747mean life, 871, 930of proton, 941measurements, 3, 5–8of astronomical distances,948, 953, 957–59of blood flow, 358 prof calorie content, 396of charge on electron,772–73electromagnetic, of bloodflow, 596of , 772–73of force, 76precision of, 5–8, 806–8of pressure, 266–67of radiation, 899–903of speed of light, 632–33uncertainty in, 5–8, 806–9units of, 8–10mechanical advantage, 92, 233,265mechanical energy, 150–55total (defn), 150, 295–96mechanical equivalent of heat,391mechanical oscillations, 293mechanical waves, 305–19mechanics, 21–445 (see alsomotion)definition, 21mediate, forces, 922medical imaging, 350–51, 405,905–8techniques, 908medical instruments, 660–61medical uses of lasers, 823meitner, lise, 804, 889melting point, 397–400 (seealso phase, changes of)memory:dynamic random access(dram), 500 pr, 605–6flash, 606magnetoresistive randomaccess (mram), 606random access (ram), 482,500 pr, 605–6volatile and nonvolatile, 606mendeleev, dmitri, 816mercury (planet), 3, 126, 128mercury, surface tension of,281mercury barometer, 267mercury-in-glass thermometer,361–62merry-go-round, 198, 201,202meson exchange, 923meson lifetime, 809mesons, 816, 916, 923, 926–27,930–31, 935, 936–38messenger rna (m-rna),836–37metabolic pathway, 820metabolism, human, 418–19metal detector, 601metal-oxide semiconductorfield-effect transistor(mosfet), 605, 851metallic bond, 840metals:alkali, 817free-electron theory of, 841metastable state, 820, 821–22,869meter (m) (unit), 9meters, electric, 546–48, 576correction for resistance of,547–48metric (si) multipliers: insidefront covermetric (si) system, 10mho (unit), 523 prmichelson, a. a., 632–33, 698,747, 748michelson interferometer, 698,747michelson–morley experiment,747, 748, 748 fnmicroampere ( a) (unit), 504micrometer (measuringdevice), 14micron ( m) (unit), 10, 484microphones, magnetic, 606microscope, 726–27, 730–32atomic force, 786compound, 726–27electron, 771, 785–86, 807interference, 733magnification of, 726–27,731–32, 785phase-contrast, 733resolving power of, 731scanning tunneling electron(stm), 786specialty, 733useful magnification, 732,785microscopic description, 360,373 ffmicroscopic properties, 360,373 ffmicrostate of a system,432–33microwave backgroundradiation, cosmic, 967–70,973, 974, 977–78microwaves, 630, 639, 967–68milky way, 136 pr, 948–50milliampere (ma) (unit), 504millikan, r. a., 773, 777millikan oil-drop experiment,773millimeter (mm) (unit), 10mirage, 682mirror equation, 652–56mirrors, 645–56aberrations of, 725 fn, 727–28concave, 649, 653–54, 725convex, 649, 655–56focal length of, 649–50, 655magnifying, 649, 654plane, 645–49sign conventions, 653used in telescope, 725mks (meter-kilogram-second)system (defn), 10mm-hg (unit), 266model of solar system:geocentric, 3, 125heliocentric, 3, 125models, 5, 22moderator, 891–92modern physics (defn), 2, 745modulation:amplitude, 637frequency, 637, 638 fnmoduli of elasticity, 241–42,308–9molar specific heats,a-19–a-21mole (mol) (unit), 369volume of, for ideal gas, 369molecular biology, electricforce in, 460–62, 482,834–37molecular kinetic energy,374–75, 392–93, a-20–a-21molecular mass, 360, 369molecular oscillation, 326 pr,393, 839molecular rotation, 838–39molecular spectra, 837–39molecular speeds, 376–77, 433molecular vibration, 326 pr,393, 839molecular weight, 360molecules, 360, 372–77, 829–39bonding in, 829–32in a breath, 373diatomic, a-20–a-21polar, 445, 461, 482, 486,831–32potential-energy diagramsfor, 832–34spectra of, 837–39weak bonds between, 834–37molybdenum, 818moment arm, 206moment of a force about anaxis, 206moment of inertia, 208–10momentum, 138, 170–89angular, 215–18, 789, 795center of mass (cm),184–86in collisions, 173–75conservation of angular,215–17conservation of linear,173–76, 177–84, 188,926–28linear, 170–89of photon, 779relation of force to, 171–72,174, 176–77, 760relativistic, 759–60, 763uncertainty in measurementof, 807units of, 171momentum transfer, 635monochromatic aberration,728monochromatic light (defn),682moon, 3, 129, 948acceleration due to gravityon, 46 pr, 134 pracceleration toward theearth, 119centripetal acceleration of,112, 119force on, 119full moon, 129, 137 prnew moon, 129orbit of, 129phases of, 129rising of, 129, 137 prsidereal period, 129, 137 prsynodic period, 129, 137 prwireless communicationfrom, 639work on, 142moonrise, 129moons of jupiter, 125, 128,134 pr, 135 prmorley, e. w., 747, 748moseley, h. g. j., 818moseley plot, 818mosfet, 605, 851most probable speed, 376motion, 21–229, 744–65brownian, 360circular, 110–18at constant acceleration,28–38, 58–64damped, 303description of (kinematics),21–40, 49–66, 110–12of electric charge in magneticfield, 566–69and frames of reference, 22in free fall, 33–38, 124general, 184mme�ma-56index
+
+
+
+1063
+
+	qcd, 923, 937–39qed, 922qsos, 951, 961quadratic equation, 36, 38quadratic formula, 38, a-6,inside back coverquality factor (q-value) of aresonant system, 624 prquality of sound, 340–41quantities, base and derived,10–11quantization:of angular momentum, 789,812–13of electric charge, 448of energy, 775, 789–95quantization error, 488quantum chromodynamics(qcd), 923, 937–39quantum condition, bohr’s,789, 795–96quantum electrodynamics(qed), 922quantum (quanta) of energy,775quantum fluctuations, 974quantum hypothesis, planck’s,771, 775quantum mechanics, 796,804–51of atoms, 796, 803–24copenhagen interpretationof, 811of molecules and solids,829–51quantum numbers, 775,789–91, 812–14, 815–16,837–39ground state, 815principal, 789 ffquantum theory, 745, 771–96,804–51of atoms, 789–96, 803–24of blackbody radiation, 774of light, 774–82of specific heat, a-21quarks, 448 fn, 916, 922–24,930–31, 933–38, 971–72combinations, 936confinement, 937, 971quasars (quasistellar objects,qsos), 951, 961quintessence, 977q-value (disintegrationenergy), 865q-value (quality factor) of aresonant system, 624 prq-value (reaction energy), 886rad (unit), 900rad equivalent man (rem), 901radar, 348, 349, 630, 639radial acceleration, 110 ff, 118radian (rad), measure forangles, 199–200radiation, electromagnetic:blackbody, 774, 952, 968cosmic microwavebackground, 967–70, 973,974, 977–78emissivity of, 403gamma, 863–64, 868–69,898–99from human body, 404infrared (ir), 630, 686, 693microwave, 630, 639seasons and, 405solar constant and, 405synchrotron, 919thermal, 403–6ultraviolet (uv), 630, 686,693x-ray, 630, 733–35, 819 (seealso x-rays)radiation, nuclear:activity of, 870, 872, 900alpha, 863–66, 869beta, 863–64, 866–68, 869,956damage by, 899detection of, 877–78, 901dosimetry for, 899–903gamma, 863–64, 868–69,898–99human exposure to, 901–3ionizing (defn), 898measurement of, 899–903medical uses of, 903–8types of, 863–64, 869radiation biology, 903–8radiation damage, 899radiation-dominated universe,972–73radiation dosimetry,899–903radiation era, 972–73radiation field, 628radiation film badge, 878,901radiation pressure, 635–36radiation sickness, 901radiation therapy, 903–4radiation worker exposure,901radio, 636–39radio receiver, 638radio transmitter, 637radio waves, 630, 639, 731radioactive background,natural, 866, 901radioactive dating, 874–76radioactive decay, 863–78radioactive decay constant,869–70radioactive decay law, 870radioactive decay series,873–74radioactive fallout, 894radioactive tracers, 904–5radioactive waste, 892–94radioactivity, 857–78artificial (defn), 863natural (defn), 863radiofrequency (rf) signal,637, 907–8radioisotope (defn), 863radionuclide (defn), 863, 900radiotelescope, 731radium, 863, 864radius, of nuclei, 859radius of curvature (defn), 117radius of earth, estimate of,15, 19 prradon, 864, 901, 902–3, 912 prexposure, 902–3rae lakes, 13rainbow, 686ram (random accessmemory), 482, 500 pr,605–6ramp vs. stair analogy, 775random access memory(ram), 482, 500 pr, 605–6range of projectile, 63–64raphael, 2rapid estimating, 13–15rapid transit system, 47 prrare-earth solid-state lasers,822rarefactions, in waves, 307rate of nuclear decay, 869–73ray, 312, 645 ff, 661 ffparaxial (defn), 650ray diagram, 651, 655, 666ray model of light, 645 ff, 661 ffray tracing, 645 ff, 661 ffrayleigh, lord, 729rayleigh criterion, 729rbe, 901rc circuits, 539–43applications, 542–43reactance, 612, 613capacitive, 613inductive, 612(see also impedance)reaction energy, 886reaction time, 32, 610reactions:chain, 890–91, 893–94chemical, rate of, 377endoergic, 886endothermic, 886nuclear, 885–89slow-neutron, 886–87subcritical, 891, 894supercritical, 891, 894reactors, nuclear, 890–93,896–98reading data, 605read/write head, 604real gases, 377–78real image, 647, 651, 663rearview mirror, convex, 656receivers, radio and television,638recoil, 176recombination epoch, 973rectangular coordinates, 22rectifiers, 846–47, 853 prrectilinear motion, 21–40recurrent novae, 956red giants, 951, 953–55redshift, 348, 959, 964–65, 969doppler, 965origins, 965redshift parameter, 947, 965reducing friction, 95reference frames, 22, 65,77–78, 218, 745 ff,a-16–a-18accelerating, 77, 80earth’s, 128inertial, 77, 80, 745 ff, a-16noninertial, 78, 80, 137 pr,745, a-16rotating, 218, a-16–a-18sun’s, 128reflecting telescope, 725reflection:angle of (defn), 313, 645diffuse, 646law of, 313, 645and lens coating, 697–98of light, 644–49phase changes during, 693–98polarization by, 701–2specular, 646from thin films, 693–98total internal, 327 pr, 659–61of waves on a cord, 312–13reflection grating, 690refracting telescope, 724refraction, 317–18, 656–70,681–82angle of, 317, 657of earthquake waves, 318index of, 656law of, 317, 657, 681–82of light, 656–58, 681–82and snell’s law, 657–58by thin lenses, 661–64of water waves, 317refresh rate, 492refrigerators, 425–27coefficient of performance(cop) of, 426regelation, 384 prreheating, 971reines, frederick, 928 fnreinforced concrete, 246relative biologicaleffectiveness (rbe), 901relative humidity (defn), 380relative motion, 65–66, 591,744–65relative velocity, 65–66,178–79, 749 ff, 764relativistic addition ofvelocities, 764relativistic energy, 760–64a-60index
+
+
+
+1065
+
+	second law of thermodynamics(continued)and irreversible processes,423kelvin-planck statement of,424refrigerators, airconditioners, and heatpumps, 425–27reversible processes, 423and statistical interpretationof entropy, 432–33and time’s arrow, 431secondary coil, 600seeds, of galaxies, 968, 974seer (seasonal energyefficiency ratio) rating,427seesaw, 234–35segrè, emilio, 925seismograph, 607selection rules, 814, 838, 839self-inductance, 608–9self-sustaining chain reaction,890–94sem, 771, 785–86semiconductor detector, 878semiconductor diode lasers,822semiconductor diodes, 845–50semiconductor doping, 844–45semiconductor informationstorage, 605–6semiconductors, 445, 508,843–50compound, 847intrinsic, 843, 844n and p types, 844–46resistivity of, 508silicon wafer, 878sensitivity, full-scale current,546sensitivity of meters, 547–48series capacitors, 538–39series electric circuits, 503, 528series emf, 536–37series resistors, 528–32sharing of electrons, 460sharpness, picture, 717–18shear modulus, 242, 244shear strength, 245shear stress, 244shear wave, 309shells, atomic, 816–17shielded cable, 617 prshielding, electrical, 459shm, see simple harmonicmotionsho, see simple harmonicoscillatorshock absorbers, 292, 295, 303shock waves, 348–49shocks, 487and grounding, 544short circuit, 512–13short-range forces, 862–63, 959shunt resistor, 546, 548shutter speed, 715, 717si (système international)units, 10si derived units: inside frontcoversicily, 243sidereal period, 129, 137 prsiemens (s) (unit), 523 prsievert (sv) (unit), 901sigma (particle), 931sign conventions (geometricoptics), 653, 655, 665signal voltage, 488–89signals, analog and digital,488–89significant figures, 6–7, a-3percent uncertainty vs., 8silicon, 843 ffsilicon wafer semiconductor,878simple harmonic motion(shm), 295–303applied to pendulums, 301–3energy in, 295–97period of, 298–99related to uniform circularmotion, 299–300sinusoidal nature of, 300–1simple harmonic oscillator(sho), 295–303acceleration of, 301energy in, 295–97molecular vibration as, 839velocity and acceleration of,301simple machines:lever, 164 pr, 233pulley, 91–92, 211, 212simple magnifier, 722–23simple pendulum, 16, 301–3simultaneity, 749–50sine, 54, a-8single-lens reflex (slr)camera, 718single photon emissioncomputed tomography(spect), 905–6single photon emissiontomography (spet),905–6single-slit diffraction, 687–89singularity, 963sinusoidal curve, 300 ffsinusoidal traveling wave, 319siphon, 284 pr, 290 prsize of star, 952skater, 81, 108 pr, 216skidding car, 116skier, 97, 125, 138, 168 prsky color, 704sky diver, 69 pr, 101 prslac, 920slepton, 942slingshot effect, gravitational,197 prsloan digital sky survey(sdss), 978slope, of a curve, 39–40slow-neutron reaction, 886–87slr camera, 718slug (unit), 79sm (standard model):cosmological, 970–73elementary particles, 448 fn,915, 916, 930, 935–39small sports palace, dome of,249smoke, and bernoulli effect,278smoke detector, 866smoot, george, 968snell, w., 657snell’s law, 657–58, 681snia (type ia) supernovae,956, 957, 958, 976sn1987a, 929, 956snowboarder, 49, 107 prsoap bubble, 679, 693, 696–97soaps, 281society of automotiveengineers (sae), 279 fnsodium, 815sodium chloride, bonding in,831, 833, 840sodium pump, 518 fnsolar absorption spectrum,692–93, 787solar (photovoltaic) cell, 435,556 pr, 847solar constant, 405solar eclipse, 129, 229 prsolar energy, 405, 434–35,643 prsolar neutrino problem, 928solar pressure, 635solar sail, 636solar system, models, 3, 125solenoid, 572–73, 579–80, 609solid angle, 11 fnsolid-state lighting, 848solid-state physics, 840solids, 241 ff, 261, 360, 840–43,a-21 (see also phase,changes of)amorphous, 840band theory of, 842–43bonding in, 840–41energy levels in, 842–43equipartition of energy for,a-21molar specific heats of, a-21solving for unknowns, a-4–a-5sonar, 349–50sonic boom, 349sonogram, 350sound, 328–51audible range of, 329, 334–35and beats, 342–43dbs of, 331–33doppler effect of, 344–47ear’s response to, 334–35infrasonic, 330intensity of, 331–33interference of, 341–43level, 331–33loudness of, 329, 331, 332loudness level of, 334pitch of, 329pressure amplitude of, 330,333quality of, 340–41shock waves of, 348–49and sonic boom, 349sources of, 335–40spectrum, 341speed of, 329supersonic, 329, 348–49timbre of, 340tone color of, 340ultrasonic, 329, 350sound barrier, 349sound level, 331–33sound spectrum, 341sound track, optical, 778sound waves, 307, 309, 328–51(see also sound)sounding board, 337sounding box, 337soundings, 349source (in mosfet), 851source activity, 900source terminal, 605sources of emf, 527, 590–97sources of ferromagnetism,579south pole, of earth, 562south pole, of magnet, 561space:absolute, 746, 748curvature of, 961–63, 974–75euclidean and non-euclidean, 961–62relativity of, 756–59telescope, 730, 961space perception, using soundwaves, 309space quantization, 812space shuttle, 21, 75, 109space station, 122, 125, 130 prspace–time (4-d), 758–59curvature of, 961–63, 974–75space–time interval, 759space travel, 754spatial interference, of sound,341–42speaker wires, 509special theory of relativity,744–65, 959 (see alsorelativity, special theoryof)specialty microscopes, 733specific gravity (defn), 262,271a-62index
+
+
+
+1067
+
+	superconductivity, 517supercritical reactions, 891, 894superdome (new orleans, la),248superfluidity, 378supernovae, 929–30, 951,955–58as source of elements onearth, 956type ia, 956, 957, 958, 976superposition, principle of,313–14, 340–41, 450–53, 455supersaturated air, 381supersonic speed, 329, 348–49superstring theory, 942supersymmetry, 939, 942supply voltage, 488surface area formulas, insideback coversurface of last scattering, 969surface tension, 280–82surface waves, 309–10surfactants, 281surgery, laser, 823susy, 942swing, children’s, 304symmetry, 14, 37, 62, 119, 183,186, 218, 233, 447 fn, 449,456, 457, 464, 465, 539,574, 626, 627, 653, 670,782, 934, 940, 942, 971symmetry breaking, 940, 971synapse, 517synchrocyclotron, 919synchrotron, 919synchrotron radiation, 919synodic period, 129, 137 prsystème international (si), 10,inside front coversystems, 90, 174, 394–96, 413closed, 394isolated, 174, 394–96open, 394overdamped, 303of particles, 187–89as set of objects, 90, 413underdamped, 303of units, 10systolic pressure, 283tacoma narrows bridge, 304tail-to-tip method of addingvectors, 51–52tangent, 39, 54, a-8tangential acceleration, 118,201–3tape recorder, 604tau lepton, 927, 930–31, 935tau lepton number, 927,930–31tau neutrino, 930–31technetium-99, 905technology generation, 851teeth, braces and forces on,231telephone, cell, 318, 602, 604,631, 639telephoto lens, 718telescope(s), 723–25, 730–32arecibo, 731astronomical, 650, 724–25,743 prgalilean, 723, 723 fn, 725hale, 725hubble space (hst), 136 pr,730, 743 pr, 961keck, 725keplerian, 723 fn, 724magnification of, 724reflecting, 725refracting, 724resolution of, 730–32space, 730, 950, 961terrestrial, 725television, 490–92, 636–39,703–4high definition, 491–92television receiver, 638tem, 785temperature, 361–63, 368absolute, 362, 368celsius (or centigrade), 362critical, 377, 517curie, 579distinguished from heat andinternal energy, 392fahrenheit, 362gradient, 400–1human body, 363, 400kelvin, 362, 368molecular interpretation of,373–76operating (of heat engine), 420relation to chemicalreactions, 377relation to molecular kineticenergy, 374–75, 392–93relation to molecularvelocities, 373–77scales of, 362–63, 368standard scale, 363of star, 952transition, 517of the universe, 941temperature coefficient ofresistivity, 508, 509–10temperature dependence ofresistivity, 509–10tennis serve, 73 pr, 172, 176,193 prtensile strength, 245tensile stress, 243–44tension (stress), 243–44tension, surface, 280–82tension in flexible cord, 89terminal, of battery, 503, 505terminal velocity, 34 fnterminal voltage, 527–28terrestrial telescope, 725tesla (t) (unit), 565test charge, 453testing, of ideas/theories, 3tevatron, 762, 919, 920tft, 492tftr, 898theories (general), 3–5theories of everything, 942therm (unit), 391thermal conductivity, 400–1thermal conductor, 401thermal contact, 363thermal energy, 156–57, 392distinguished from heat andtemperature, 392transformation of electric to,510(see also internal energy)thermal equilibrium, 363,394–95thermal expansion, 364–67anomalous behavior of waterbelow 4ºc, 366–67coefficients of, 364linear expansion, 364–65volume expansion, 366thermal insulator, 401thermal pollution, 434–35thermal radiation, 403–6thermal resistance, 402thermal stress, 367thermal windows, 401thermionic emission, 490thermistor, 510thermodynamic processes,414–18adiabatic, 415–16isobaric, 415isothermal, 414–15isovolumetric, 415work done in volumechanges, 415–17thermodynamics, 363, 412–36first law of, 413–19second law of, 419–33third law of, 424zeroth law of, 363thermography, 405thermoluminescent dosimeter(tld), 901thermometers, 361–63bimetallic-strip, 362constant-volume gas, 363liquid-in-glass, 362mercury-in-glass, 361–62resistance, 510thermonuclear devices, 897thermonuclear runaway, 957thermostat, 384 pr, 411 prthin lens equation, 664–67thin lenses, 661–70thin-film interference, 693–98thin-film transistor (tft), 492third law of motion, 81–83third law of thermodynamics,424thomson, g. p., 783thomson, j. j., 772–73, 783, 784thought experiment, 749 and ff, 807definition, 749three mile island, 892three-dimensional waves, 310three-way lightbulb, 556 prthreshold energy, 887threshold of hearing, 335threshold of pain, 335thymine, 460tia, 278tidal wave, 306timbre, 340time:absolute, 746characteristic expansion, 967lookback, 951, 969planck, 941, 970proper, 753, 945 prrelativity of, 749–55, 758–59standard of, 9time constant, 540, 610, 871time dilation, 750–55, a-25time-of-flight, 906time intervals, 9, 24time’s arrow, 431tire pressure, 372tire pressure gauge, 266tld, 901tokamak, 898tokamak fusion test reactor(tftr), 898tomography, 735–37image formation, 736image reconstruction, 736–37tone color, 340toner, 462toothbrush, electric, 604top quark, 934topographic map, 478toroid, 580, 586 pr, 898toroidal field, 898torque, 206–8 ffcounter, 600on current loop, 575–76work done by, 214torr (unit), 266torricelli, evangelista, 266–67,276torricelli’s theorem, 276torsion balance, 447torus, 580, 586, 898total binding energy, 769 pr,861total internal reflection,327 pr, 659–61total magnifying power, 724total mechanical energy (defn),150, 295–97townsend, j. s., 773tracers, 904–5traffic light, led, 848transfer-rna (t-rna), 836–37a-64index
+
+
+
+1075
+
+	fundamental constantsquantitysymbolapproximate valuecurrent best value†speed of light in vacuumcgravitational constantgavogadro’s numbergas constantrboltzmann’s constantkcharge on electronestefan-boltzmann constantpermittivity of free spacepermeability of free spaceplanck’s constanthelectron rest massproton rest massneutron rest massatomic mass unit (1 u)† numbers in parentheses indicate one-standard-deviation experimental uncertainties in final digits (2010).values without parentheses are exact (i.e., defined quantities).= 931.494061(21) mev�c21.660538921(73) * 10–27 kg1.6605 * 10–27 kg = 931.49 mev�c2= 1.008664916(45) u= 939.57 mev�c21.674927351(74) * 10–27 kg1.6749 * 10–27 kg = 1.008665 umn= 1.007276467(45) u= 938.27 mev�c21.672621777(74) * 10–27 kg1.6726 * 10–27 kg = 1.00728 ump= 5.48579909(25) * 10–4 u= 0.511 mev�c29.10938291(40) * 10–31 kg9.11 * 10–31 kg = 0.000549 ume6.62606957(29) * 10–34 j�s6.63 * 10–34 j�s1.2566370614 p * 10–6 t�m�a4p * 10–7 t�m�am08.854187817 p * 10–12 c2�n�m28.85 * 10–12 c2�n�m2�0 = a1�c2m0b5.670373(21) * 10–8 w�m2�k45.67 * 10–8 w�m2�k4s1.602176565(35) * 10–19 c1.60 * 10–19 c1.3806488(13) * 10–23 j�k1.38 * 10–23 j�k= 0.0821 l�atm�mol�k8.3144621(75) j�mol�k8.314 j�mol�k = 1.99 cal�mol�k6.02214129(27) * 1023 mol–16.02 * 1023 mol–1na6.67384(80) * 10–11 n�m2�kg26.67 * 10–11 n�m2�kg22.99792458 * 108 m�s3.00 * 108 m�sother useful datajoule equivalent (1 cal)4.186 jabsolute zero (0 k)acceleration due to gravityat earth’s surface (avg.
+
+
+

@@ -1,0 +1,435 @@
+4
+
+	ivcontents6 work and energy138work done by a constant force139*work done by a varying force142kinetic energy, and the work-energyprinciple142potential energy145conservative and nonconservative forces149mechanical energy and its conservation150problem solving using conservation of mechanical energy151other forms of energy and energytransformations; the law of conservation of energy155energy conservation with dissipativeforces: solving problems156power159questions, misconceptual questions 161–63problems, search and learn 164–697 linear momentum170momentum and its relation to force171conservation of momentum173collisions and impulse176conservation of energy and momentum in collisions177elastic collisions in one dimension178inelastic collisions180*collisions in two dimensions182center of mass (cm)184*cm for the human body186*cm and translational motion187questions, misconceptual questions 190–91problems, search and learn 192–977–107 – 97 – 87 – 77 – 67 – 57 – 47 – 37 – 27 – 16–106 – 96 – 86 – 76 – 66 – 56 – 46 – 36 – 26 – 18 rotational motion198angular quantities199constant angular acceleration203rolling motion (without slipping)204torque206rotational dynamics; torque and rotational inertia208solving problems in rotational dynamics210rotational kinetic energy212angular momentum and its conservation215*vector nature of angular quantities217questions, misconceptual questions 220–21problems, search and learn 222–299static equilibrium;elasticity and fracture230the conditions for equilibrium231solving statics problems233applications to muscles and joints238stability and balance240elasticity; stress and strain241fracture245*spanning a space: arches and domes246questions, misconceptual questions 250–51problems, search and learn 252–5910 fluids260phases of matter261density and specific gravity261pressure in fluids 262atmospheric pressure and gauge pressure264pascal’s principle265measurement of pressure;gauges and the barometer266buoyancy and archimedes’ principle268fluids in motion; flow rate and the equation of continuity272bernoulli’s equation274applications of bernoulli’s principle:torricelli, airplanes, baseballs,blood flow276*viscosity279*flow in tubes: poiseuille’s equation,blood flow279*surface tension and capillarity280*pumps, and the heart282questions, misconceptual questions 283–85problems, search and learn 285–9110–1410–1310–1210–1110–1010–910–810–710–610–510–410–310–210–19 – 79 – 69 – 59 – 49 – 39 – 29 – 18 – 98 – 88 – 78 – 68 – 58 – 48 – 38 – 28 – 1displacementforce
+
+
+
+10
+
+	xchapter 4how we walk82chapter 5weightlessness 124–25chapter 6cardiac treadmill168chapter 7body parts, center of mass186–87impulse, don’t break a leg193chapter 8bird of prey200centrifuge204, 222torque with muscles207, 223chapter 9teeth straightening231forces in muscles and joints 238–39, 255human body stability240leg stress in fall259chapter 10pressure in cells264blood flow274, 278, 280blood loss to brain, tia278underground animals, air circulation 278blood flow and heart disease280walking on water (insect)281heart as a pump282blood pressure283blood transfusion288chapter 11spider web298echolocation by animals309chapter 12ear and hearing range331, 334–35doppler, blood speed; bat position347, 358ultrasound medical imaging350–51chapter 13life under ice366–67molecules in a breath373evaporation cools379, 400humidity and comfort380diffusion in living organisms383chapter 14working off calories392convection by blood402human radiative heat loss404room comfort and metabolism404medical thermography405chapter 15energy in the human body418–19biological evolution, development 430–31trees offset co2 emission442chapter 16cells: electric forces, kinetic theory460–62dna structure, replication460–61chapter 17heart-beat scan (ecg or ekg)473dipoles in molecular biology482capacitor burn or shock487heart defibrillator487, 559electrocardiogram (ecg)493chapter 18electrical conduction in the humannervous system517–19chapter 19blood sugar phone app526pacemaker, ventricular fibrillation543electric shock, grounding544–45chapter 20blood flow rate 584electromagnetic pump 589chapter 21em blood-flow measurement596ground fault interrupter (gfci)607pacemaker608chapter 22optical tweezers636chapter 23medical endoscopes660chapter 24spectroscopic analysis693chapter 25human eye719corrective lenses719–21contact lenses721seeing under water721light microscopes726resolution of eye730, 732x-ray diffraction in biology735medical imaging: x-rays, ct 735–37cones in fovea 740chapter 27electron microscope images:blood vessel, blood clot,retina, viruses771, 785–86photosynthesis779measuring bone density780chapter 28laser surgery823chapter 29cell energy—atp833–34weak bonds in cells, dna834–35protein synthesis836–37pulse oximeter848chapter 31biological radiation damage899radiation dosimetry899–903radon901radiation exposure; film badge901radiation sickness901radon exposure calculation902–3radiation therapy903proton therapy904tracers in medicine and biology904–5medical imaging: pet, spect905–6nmr and mri906–8radiation and thyroid 912chapter 32linacs and tumor irradiation920applications to biology and medicine (selected)applications to other fields and everyday life (selected)chapter 1the 8000-m peaks11estimating volume of a lake13height by triangulation14measuring earth’s radius15chapter 2braking distances32rapid transit47chapter 3sports49, 58, 67, 68, 69, 73, 74kicked football62, 64chapter 4rocket acceleration82what force accelerates car?82elevator and counterweight91mechanical advantage of pulley92skiing97, 100, 138bear sling 100, 252city planning, cars on hills105chapter 5not skidding on a curve116antilock brakes116banked highways117artificial earth satellites122–23, 134free fall in athletics125planets125–28, 134, 137, 189, 197, 228determining the sun’s mass127moon’s orbit, phases, periods, diagram 129simulated gravity130, 132near-earth orbit134comets 135asteroids, moons135, 136, 196, 228rings of saturn, galaxy136gps, milky way136chapter 6work done on a baseball, skiing138car stopping distance145roller coaster152, 158pole vault, high jump153, 165stair-climbing power output159horsepower, car needs159–61lever164spiderman167chapter 7billiards170, 179, 183tennis serve172, 176rocket propulsion175, 188–89rifle recoil176nuclear collisions180, 182ballistic pendulum181high jump187distant planets discovered189chapter 8rotating carnival rides198, 201, 202bicycle205, 227, 229rotating skaters, divers216neutron star collapse217strange spinning bike wheel218tightrope walker220hard drive222total solar eclipses 229chapter 9tragic collapse231, 246lever’s mechanical advantage233cantilever235architecture: columns, arches,domes243, 246–49fracture245–46concrete, prestressed246tower crane252chapter 10glaciers260hydraulic lift, brakes, press265, 286hydrometer271continental drift, plate tectonics272helium balloon lift272airplane wings, dynamic lift277sailing against the wind277baseball curve278r v2
+
+
+
+64
+
+	the front endof the car compresses and the driver comes to rest aftertraveling 0.80 m. what was the magnitude of the averageacceleration of the driver during the collision?
+
+
+
+66
+
+	(a) show that the speed justbefore a car hits the ground, after falling from rest avertical distance h, is given by what heightcorresponds to a collision at (b) (c)68. a stone is dropped from the roof of a high building.
+
+
+
+186
+
+	how much thermal energy is produced in this collision?47.
+
+
+
+193
+
+	although the momentum of each of the two balls changes as a result of the collision, the sum of their momenta is found to be the samebefore as after the collision.
+
+
+
+194
+
+	however, when the bat or racket hits the ball, during the brief time of the colli-sion those external forces are insignificant compared to the collision force the bator racket exerts on the ball.
+	if the cars lock together as a result of the collision, what is their commonspeed just afterward?
+
+
+
+195
+
+	because we are examiningspeeds just before and just after the very brief time interval of the collision, andduring that brief time friction can’t do much—it is ignorable (but not for long:the cars will slow down because of friction).v¿ =mama + mbva =a10,000 kg10,000 kg + 10,000 kg b (24.0 m�s) = 12.0 m�s,v¿,mava = ama + mbb v¿.pinitial = pfinalpfinal = ama + mbb v¿.v¿.±xavb = 0b.pinitial = mava + mbvb = mavasection 7–2conservation of momentum175exercise c in example 7–3,so in the last equation,hence  what result do you get if (a)  (b) is much larger thanand (c) mb v ma?ma amb w mab,mbmb = 3ma,v¿ = 12 va.ma�ama + mbb = 12 .ma = mb,exercise d a 50-kg child runs off a dock at (horizontally) and lands in a waitingrowboat of mass 150 kg.
+
+
+
+196
+
+	f can become very large;is typically milliseconds for macroscopic collisions.¢t7–3 collisions and impulsecollisions are a common occurrence in everyday life: a tennis racket or a baseballbat striking a ball, billiard balls colliding, a hammer hitting a nail.
+	when the collisionoccurs, the force each exerts on the other usually jumps from zero at the momentof contact to a very large force within a very short time, and then rapidly returns to zero again.
+
+
+
+197
+
+	7–2, the net force on an object is equal to therate of change of its momentum:(we have written instead of for the net force, which we assume is entirelydue to the brief but large average force that acts during the collision.)
+	7–4) aboutf =¢p¢t= 10 kg�m�s2 * 10–3 sl 5000 n = 5 kn.a10–2 mb�(5 m�s) = 2 * 10–3 s¢t = ¢x� v l¢x�¢t.v = (10 m�s + 0)�2 = 5 m�s¢x l 1 cm.¢t.f ¢t = ¢p = m ¢v l (1 kg)(10 m�s - 0) = 10 kg�m�s.f¢tm l 1 kg.10 m�s10 m�sexample 7;6estimate7–4 conservation of energy andmomentum in collisionsduring most collisions, we usually don’t know how the collision force varies over time, and so analysis using newton’s second law becomes difficult or impos-sible.
+	but by making use of the conservation laws for momentum and energy,we can still determine a lot about the motion after a collision, given the motionbefore the collision.
+	if the two objects arevery hard and no heat or other energy is produced in the collision, then the total kinetic energy of the two objects is the same after the collision as before.for the brief moment during which the two objects are in contact, some (or all) of the energy is stored momentarily in the form of elastic potential energy.
+
+
+
+198
+
+	the col-lision of two hard elastic balls, such as billiard balls, however, is very close tobeing perfectly elastic, and we often treat it as such.we do need to remember that even when kinetic energy is not conserved,the total energy is always conserved.collisions in which kinetic energy is not conserved are said to be inelasticcollisions.
+	if we know the massesand velocities before the collision, then we can solve these two equations for thevelocities after the collision,and we derive a helpful result by rewriting themomentum equation as(i)and we rewrite the kinetic energy equation asnoting that algebraically  we write this last equation as(ii)we divide eq.
+
+
+
+199
+
+	section 7–5elastic collisions in one dimension179c a u t i o nrelative speeds (one dimension only)we can rewrite this equation asor[head-on (1-d) elastic collision] (7;7)this is an interesting result: it tells us that for any elastic head-on collision, therelative speed of the two objects after the collision  has the same magnitude(but opposite direction) as before the collision, no matter what the masses are.equation 7–7 was derived from conservation of kinetic energy for elastic collisions, and can be used in place of it.
+	conservation of kineticenergy applies as well because we are told the collision is elastic.solution (a) the masses are equal  so conservation ofmomentum giveswe need a second equation, because there are two unknowns.we could use theconservation of kinetic energy equation, or the simpler eq.
+	7–7 derived from it:we add these two equations and obtainand then subtract the two equations to obtainthat is, the balls exchange velocities as a result of the collision: ball b acquiresthe velocity that ball a had before the collision, and vice versa.
+	7–14.note our result in part (b) is often observed by billiard and pool players, andis valid only if the two balls have equal masses (and no spin is given to the balls).vaœ= 0.vbœ= vavb = 0,vaœ= vb.vbœ= vava - vb = vœb - vaœ .va + vb = vaœ + vbœ .ama = mb = mbvbœ ,vaœavb = 0b.vbvavaexample 7;7figure 7;14 in this multiflash photo of a head-oncollision between two balls of equal mass, the whitecue ball is accelerated from rest by the cue stick andthen strikes the red ball, initially at rest.
+
+
+
+200
+
+	assume the collision takes place in nearly empty space.approach like example 7–7, this is an elastic head-on collision, but now themasses of our two particles are not equal.
+	the only external force could be earth’s gravity, but it is insignificant compared to the powerful forces between the two particles at the moment of collision.
+	from conservation of momentum,because the collision is elastic, the kinetic energy of our system of two particles isconserved and we can use eq.
+	7–7, which becomesthusand substituting this into our momentum equation displayed above, we getsolving for we obtainthe other unknown is which we can now obtain fromthe minus sign for tells us that the proton reverses direction upon collision,and we see that its speed is less than its initial speed (see fig.
+	7–15).note this result makes sense: the lighter proton would be expected to “bounceback”from the more massive helium nucleus, but not with its full original velocityas from a rigid wall (which corresponds to extremely large, or infinite, mass).vpœ= –2.15 * 104 m�s.vpœ= vheœ- vp = a1.45 * 104 m�sb - a3.60 * 104 m�sbvpœ ,= 1.45 * 104 m�s.vheœ=2mpvpmp + mhe=2(1.01 u)a3.60 * 104 m�sb(4.00 u + 1.01 u)vheœ,mpvp = mpvheœ- mpvp + mhevheœ.vpœ= vheœ- vp,vp - 0 = vheœ- vpœ .mpvp + 0 = mpvpœ + mhevheœ.vheœvpœvp = 3.60 * 104 m�s.vhe = 01 u = 1.66 * 10–27 kg,amhe = 4.00 ub3.60 * 104 m�s1.01 uexample 7;8he(a)  ′(b)  ′hep  ppvbvbvbfigure 7;15 example 7–8:(a) before collision, (b) after collision.7–6 inelastic collisionscollisions in which kinetic energy is not conserved are called inelastic collisions.some of the initial kinetic energy is transformed into other types of energy, suchas thermal or potential energy, so the total kinetic energy after the collision is lessthan the total kinetic energy before the collision.
+	two colliding balls of putty that stick togetheror two railroad cars that couple together when they collide are examples of com-pletely inelastic collisions.
+	the kinetic energy in some cases is all transformed toother forms of energy in an inelastic collision, but in other cases only part of it is.in example 7–3, for instance, we saw that when a traveling railroad car collidedwith a stationary one, the coupled cars traveled off with some kinetic energy.
+	in acompletely inelastic collision, the maximum amount of kinetic energy is transformedto other forms consistent with conservation of momentum.
+	even though kineticenergy is not conserved in inelastic collisions, the total energy is always conserved,and the total vector momentum is also conserved.
+
+
+
+201
+
+	(usually, m is somewhat greater than m.) as a resultof the collision, the pendulum and projectile together swing up to a maximumheight h, fig.
+	thekinetic energy immediately after the collision is changed entirely to gravitationalpotential energy when the pendulum reaches its maximum height, h.solution in part (1) momentum is conserved:(i)where is the speed of the block and embedded projectile just after the colli-sion, before they have moved significantly.in part (2), mechanical energy is conserved.
+	but in part (1), because the collision is inelastic, theconservation of mechanical energy is not valid.
+	then in part (2), conservation of mechanical energy is valid, but not conservation of momentum.note, however, that if there had been significant motion of the pendulumduring the deceleration of the projectile in the block, then there would havebeen an external force (gravity) during the collision, so conservation of momen-tum would not have been valid in part (1).v = m + mmv¿ = m + mm22gh,v¿v¿ = 22gh.v¿:12 (m + m)v¿2+   0 = 0+   (m + m)gh.
+
+
+
+202
+
+	for the completely inelastic collisionof the two railroad cars that we considered in example 7–3, calculate how muchof the initial kinetic energy is transformed to thermal or other forms of energy.approach the railroad cars stick together after the collision, so this is a completely inelastic collision.
+	(¿)mava = ma vaœ cos uaœ + mbvbœ cos ubœ ,pbx = mb vbx = 0,pax + pbx = paxœ+ pbxœ7–7 collisions in two dimensionsconservation of momentum and energy can also be applied to collisions in two orthree dimensions, where the vector nature of momentum is especially important.one common type of non-head-on collision is that in which a moving object (calledthe “projectile”) strikes a second object initially at rest (the “target”).
+
+
+
+203
+
+	the x component equationgives [recall that  ]:solving for (which also equals ) givesvaœ=va2 cos(45°)=3.0 m�s2(0.707) = 2.1 m�s.vbœvaœva = vaœ cos(45°) + vbœ cos(45°) = 2vaœ cos(45°);cos(–u) = cos uvbœ=–vaœsin(45°)sin(–45°) =–vaœ a sin 45°–sin 45° b= vaœ .sin(–u) = –sin u 0 = mvaœ sin(45°) + mvbœ sin(–45°).mva = mvaœ cos(45°) + mvbœ cos(–45°)ma = mb a= mb,vbœ .vaœvbœ .vaœubœ = –45°uaœ = 45°±xva = 3.0 m�sexample 7;11if we know that a collision is elastic, we can also apply conservation ofkinetic energy and obtain a third equation in addition to eqs.
+
+
+
+204
+
+	if the collision is elastic, you can also write down aconservation of kinetic energy equation:[alternatively, you could use eq.
+
+
+
+209
+
+	but this may not be helpfulunless kinetic energy is conserved, in which case the collision iscalled an elastic collision and we can write(7;6)if kinetic energy is not conserved, the collision is calledinelastic.macroscopic collisions are generally inelastic.a completely inelastic collision is one in which the collidingobjects stick together after the collision.the center of mass (cm) of an extended object (or group ofobjects) is that point at which the net force can be consideredto act, for purposes of determining the translational motion ofthe object as a whole.
+
+
+
+210
+
+	in a collision between two cars, which would you expect tobe more damaging to the occupants: if the cars collide andremain together, or if the two cars collide and reboundbackward?
+	describe a collision in which all kinetic energy is lost.20.
+
+
+
+211
+
+	(c) neither the car nor the truck changes its momentum inthe collision because momentum is conserved.
+
+
+
+213
+
+	if the collision is perfectly elastic, what will bethe speed and direction of each ball after the collision?26.
+	assuming a perfectly elastic collision, what willbe the speed and direction of each puck after the collision?27.
+	if one ball’s initial speed wasand the other’s was in the oppositedirection, what will be their speeds and directions after thecollision?29.
+	(ii) determine the fraction of kinetic energy lost by a neutron when it collides head-on andelastically with a target particle at rest which is (a)(b) (heavy hydrogen,);(c) (d) (lead,).7;6 inelastic collisions33.
+	whatfraction of the initial kinetic energy is lost in the collision?40.
+	(b) find the total kinetic energy before and after the collision.1.10 m�s.28.0 m�s15 m�s38 m�s.190 m�sm = 380 g.m = 18.0 g¢ke�ke,h2 = 5.2 cm.m = 208 u 82208pb 612c (m = 12.00 u);m = 2.01 u12h(m = 1.01 u);11ham1 = 1.01 ub3.8 m�s.5.5 m�s
+
+
+
+214
+
+	(ii) billiard ball a of mass  moving withspeed  strikes ball b, initially at rest, ofmass  as a result of the collision, ball a is deflected off at an angle of 30.0° with a speed(a) taking the x axis to be the originaldirection of motion of ball a, write down the equationsexpressing the conservation of momentum for the compo-nents in the x and y directions separately.
+
+
+
+215
+
+	two asteroids strike head-on: before the collision, asteroid ahas velocity and asteroid bhas velocity in the oppositedirection.
+	if the asteroids stick together, what is the veloc-ity (magnitude and direction) of the new asteroid after thecollision?69.
+
+
+
+216
+
+	(c) by how much didthe earth’s kinetic energy change as a result of this collision?75.
+	(b) for comparison, a nuclear bomb could release abouthow many such bombs would have to explodesimultaneously to release the destructive energy of theasteroid collision with the earth?82.
+
+
+
+246
+
+	use angular momentum to estimatethe percent change in the angular speed of the earth as aresult of the collision.
+
+
+
+393
+
+	then we can ignore the potential energy associated withcollisions in comparison to the kinetic energy between collisions.71025�m3
+
+
+
+394
+
+	assumingthe collision is elastic, only the x component of the molecule’s momentum changes,and it changes from (it is moving in the negative x direction) to thusthe change in the molecule’s momentum,which is the final momentumminus the initial momentum, isfor one collision.
+	thus the average force—averaged over manycollisions—will be equal to the momentum change during one collision dividedby the time between collisions (newton’s second law, eq.
+
+
+
+429
+
+	assuming thatthe temperature of the bullet doesn’t change appreciably,how much ice is melted as a result of the collision?14;6 to 14;8 conduction, convection, radiation36.
+
+
+
+460
+
+	what is the total change inentropy of rock plus environment as a result of this collision?47.
+
+
+
+461
+
+	estimatethe change in entropy of the universe as a result of this collision.
+
+
+
+530
+
+	in each collision, part of the electron’s kinetic energy is transferred to theatom with which it collides.
+
+
+
+779
+
+	we might expectthat other physical quantities might need some modification according to thetheory of relativity, such as momentum and energy.the analysis of collisions between two particles shows that if we want topreserve the law of conservation of momentum in relativity, we must redefinemomentum as(26–4)here is shorthand for as before (eq.
+
+
+
+788
+
+	(ii) two identical particles of mass m approach each otherat equal and opposite speeds, v. the collision is completelyinelastic and results in a single particle at rest.
+	how much energy was lost in thecollision?
+	how much kinetic energy was lost in this collision?44.
+
+
+
+800
+
+	27–6 for momentum of a photon, compton appliedthe laws of conservation of momentum and energy to the collision of fig.
+	(c) forwhich means the photon is scattered backward, returning inthe direction from which it came (a direct “head-on” collision),andsonote the maximum shift in wavelength occurs for backward scattering, and itis twice the compton wavelength.the compton effect has been used to diagnose bone disease such as osteoporo-sis.
+	thescattered photon has less energy(some energy is given to theelectron) and hence has a longerwavelength (shown exaggerated).experiments found scattered x-raysof just the wavelengths predicted byconservation of energy andmomentum using the photon model.l¿lθφe−electronat restinitiallyincidentphoton (  )scatteredphoton ( ')λλxybeforecollisionaftercollision
+
+
+
+839
+
+	because energy is conserved, the energy of the emitted photon, hf,equals the loss of kinetic energy of the electron,soan electron may lose all or a part of its energy in such a collision.
+	28–11) is explained as being due to such bremsstrahlungcollisions in which varying amounts of energy are lost by the electrons.
+	theshortest-wavelength x-ray (the highest frequency) must be due to an electronthat gives up all its kinetic energy to produce one photon in a single collision.since the initial kinetic energy of an electron is equal to the energy given it by theaccelerating voltage, v, thenin a single collision in which the electronis brought to rest then andwe setwhere is the cutoff wavelength (fig.
+
+
+
+842
+
+	he is excited in theelectric discharge to the state.this energy is transferred to the level of the ne by collision.ismetastable and decays to bystimulated emission.eœ2eœ3eœ3e1e 3e 2e 020.66 ev1.96 evneone1e020.61 evheliumcollision18.70 ev���figure 28–21 (a) reading a cd (or dvd).
+
+
+
+855
+
+	on the other hand, strong bonds—those that holdmolecules together—are almost never broken simply by molecular collisionbecause their binding energies are much higher ().
+
+
+
+861
+
+	energy of thermal motion at is aboutthefermi level, on the other hand, is on the order of several ev: for copper it isan electron at may have 7 ev of energy, but it canacquire at most only a few times 0.1 ev of energy by a (thermal) collision withthe lattice.
+
+
+
+872
+
+	at room temperature, molecularkinetic energy (thermal energy) available due to collisions is onlyabout 0.04 ev, so almost no electrons can jump from the valenceto the conduction band in an insulator.
+
+
+
+888
+
+	it may occur because of a vio-lent collision with another particle.
+
+
+
+903
+
+	if the mass of the proton were just a little closer to themass of the neutron, the following reaction would be pos-sible even at low collision energies:(a) why would this situation be catastrophic?
+
+
+
+908
+
+	althoughthe size of a nucleus, like that of an atom, is not a clearly defined quantity sincethe edges are not distinct like those of a tennis ball or baseball, we can nonethe-less define a cross section for nuclei undergoing collisions by using an analogy.suppose that projectile particles strike a stationary target of total area a andthickness as shown in fig.
+	if is the rate at which the projectileparticles strike the target (number second), the rate at which collisions occur, r,issothus, by measuring the collision rate, r, we can determine the cross section is an “effective” target area.
+
+
+
+920
+
+	hence, ionizing collisions occur closer together,gbagbag1 gy = 1 j�kg = 100 rad.g1.00 * 10–2 j�kg0.878 * 10–2 jg1 r = 1.6 * 101212�410 = 0.029720�60 = 12a0.016 * 10–6ba3.7 * 1010b = 590.12 per(720�min)�(60 s�min) =b1532p1532pb1532p0.016 mciexample 31;10¢n¢t= ln = 0.693t12n.t12,¢n�¢t,1 bq = 1 decay�s.1 ci = 3.70 * 1010 decays per second.900chapter 31nuclear energy; effects and uses of radiationc a u t i o nin the lab, activity will be less than written on thebottle—note the date
+
+
+
+926
+
+	in this collision, thepositron and electron are annihilated, producing two rays each having an energy of 511 kev the two rays fly off in oppositedirections since they must have almost exactly equal and oppositemomenta to conserve momentum (the momenta of the initial and are essen-tially zero compared to the momenta afterward of the rays).
+
+
+
+931
+
+	(ii) if a 1.0-mev neutron emitted in a fission reactionloses one-half of its kinetic energy in each collision withmoderator nuclei, how many collisions must it make toreach thermal energy25.
+
+
+
+935
+
+	charm?towards a new model32–9 quarks32–10 the standard model: qcdand electroweak theory32–11 grand unified theories32–12 strings and supersymmetry32this photo is a computer reconstruction of particles produced due to a  7 tev proton–protoncollision at the large hadron collider (lhc).
+
+
+
+937
+
+	30–1).note the maximum possible resolution of this beam of electrons is far greaterthan for a light beam in a light microscope exercise a what is the wavelength of a proton witha major reason today for building high-energy accelerators is that new par-ticles of greater mass can be produced at higher collision energies, transformingthe kinetic energy of the colliding particles into massive particles by aswe will discuss shortly.
+
+
+
+940
+
+	but to obtain the maximum possiblecollision energy from a given accelerator, two beams of particles are now acceler-ated to very high energy and are steered so that they collide head-on.
+	32–15), the fermilab tevatron accelerated protons and antiprotons each to900 gev, so that the combined energy of head-on collisions was 1.8 tev.the largest collider is the large hadron collider (lhc) at cern, with acircumference of 26.7 km (fig.32–5).
+
+
+
+942
+
+	in such a collision orinteraction, energy and momentum are transferred from one charged particle tothe other, carried by the photon.
+
+
+
+954
+
+	other properties of quarks are shown in table 32–3.t– 13 e± 23 e12t934chapter 32elementary particles†gell-mann chose the word from a phrase in james joyce’s finnegans wake.table 32–3 properties of quarks (antiquarks have opposite sign q, b, s, c, b, t)quarksmass chargebaryon numberstrangenesscharmbottomtopnamesymbolqbscbtupu2.30000downd4.80000stranges95000charmc1275000bottomb4180000top†t173,500000†the top quark, with its extremely short lifetime of , does not live long enough to form hadrons.5 * 10–25 s±113± 23 e–113– 13 e±113± 23 e–113– 13 e13– 13 e13± 23 e(mev�c2)figure 32–15 this computer-generated reconstruction of aproton–antiproton collision at fermilab occurred at an energy of nearly 2 tev.
+
+
+
+962
+
+	what happens in thefuture is bound to be exciting.10–35 m942chapter 32elementary particlesparticle accelerators are used to accelerate charged particles,such as electrons and protons, so they can have very highenergy collisions with other particles.
+
+
+
+965
+
+	(ii) what would be the wavelengths of the two photonsproduced when an electron and a positron, each with420 kev of kinetic energy, annihilate in a head-on collision?22.
+
+
+
+976
+
+	at these extremely high temperatures, well above high-energycollisions can cause the breaking apart of iron and nickel nuclei into he nuclei,and eventually into protons and neutrons:these are energy-requiring (endothermic) reactions, which rob energy from thecore, allowing gravitational contraction to begin.
+
+
+
+991
+
+	when the average kinetic energy of particles was somewhat higher than1 gev, protons, neutrons, and their antiparticles were continually being createdout of the energies of collisions involving photons and other particles, such asbut just as quickly, particles and antiparticles would annihilate: for exampleso the processes of creation and annihilation of nucleons were in equilibrium.the numbers of nucleons and antinucleons were high—roughly as many as therewere electrons, positrons, or photons.
+	but as the universe expanded and cooled,and the average kinetic energy of particles dropped below about 1 gev, which isthe minimum energy needed in a typical collision to create nucleons and anti-nucleons (about 940 mev each), the process of nucleon creation could not continue.p + o s photons or leptons.s n + n. photons s p + o10–6l101232ke l kt la1.4 * 10–23 j�kba1015 kb1.6 * 10–19 j�evl 1011 ev = 100 gev.101510–12ke = 32 kt10–3210–35section 33–7971†it may be interesting to point out that this story of origins here bears some resemblance to ancientaccounts (nonscientific) that mention the “void,”“formless wasteland” (or “darkness over the deep”),“abyss,”“divide the waters” (phase transition?
+
+
+
+992
+
+	the temperature had dropped to about corresponding to an aver-age kinetic energy where nucleons could strike each other and beable to fuse (section 31–3), but now cool enough so newly formed nuclei wouldnot be immediately broken apart by subsequent collisions.
+
+
+
+993
+
+	sinceionization energies of atoms are on the order of ev, then as the temperaturedropped below this point, electrons could orbit the bare nuclei and remain there(without being ejected by collisions), thus forming atoms.
+
+
+
+1003
+
+	(b) how much kinetic energy must eachcarbon nucleus have (assume equal) in a head-on collisionif they are just to “touch” (use eq.
+
+
+
+1024
+
+	they aren’t,but rather they exert forces on eachother that are electrical in nature—ofa form that resembles a spring force.r2720501002005001000200010,00050004r2r3rrr25r0t (k)cvtranslational kinetic energyrotational kinetic energyvibrational energy23figure d;3 molar specific heat as a function of temperature for hydrogen molecules as the temperature is increased, some of the translational kinetic energy can be transferred in collisions into rotational kinetic energy and, at still higher temperature, into vibrational kinetic and potential energy.
+
+
+
+1049
+
+	charging by conduction,446–47charging by induction, 446–47,604charles, jacques, 368charles’s law, 368charm, 931 fn, 933–35charm quark, 934chart of the nuclides, 857chemical analysis byspectroscopy, 693chemical bonds, 829–37chemical lasers, 822chemical reactions, rate of, 377chemical shift, 907chernobyl, 892, 912 pr, 913 prchimney, and bernoulli effect,278chip, computer, 19 pr, 829,845, 851cholesterol, 280chord, 39, 200 fnchromatic aberration, 725 fn,728, 732chromodynamics, quantum(qcd), 923, 937–39chromosomes, 460circle of confusion, 716circle of least confusion, 727circuit, digital, 851circuit, electric (see electriccircuits)circuit breaker, 512–13,544–45, 573, 607circular apertures, 728–30circular motion, 110–18nonuniform, 118and simple harmonic motion,299–300uniform, 110–15circular standing wave, aselectron wave, 795–96circulating pump, 282classical physics (defn), 2, 745,804clausius, r. j. e., 420, 428clausius statement of secondlaw of thermodynamics,420, 423 pr, 425clock, pendulum, 302cloning, 462closed system (defn), 394closed tube, 338clothing:dark vs. light, 403insulating properties of, 401cloud, electron, 811, 814,830–32cloud chamber, 182, 878cloud color, 704clusters, of galaxies, 950, 974,977of stars, 950cm, 184–89 (see also center ofmass)cmb, 967–70, 973, 974, 977–78cmb anisotropy, 968, 977cmb uniformity, 974cmos, 714, 921cno cycle, 896, 912 pr, 914 prco molecule, 838–39coal, energy in, vs. uranium,893coating of lenses, optical,697–98coaxial cable, 586 pr, 631cobe, 949, 968codon, 836coefficient:of kinetic friction, 93–94of linear expansion, 364–65of performance (cop), 426,427of static friction, 93–94of thermal expansion, 364of viscosity, 279of volume expansion, 364,366coherence, 685coherent light, 685, 820–23cohesion, 281–82coil (see inductor)cold dark matter (cdm)model of universe, 977–78collector (of transistor), 850collider detector at fermilab(cdf), 878colliding beams, 920–21collimated beam, 735, 905 fncollimated gamma-raydetector, 905collision:completely inelastic, 180conservation of energy andmomentum in, 173–75,177–84elastic, 178–80, 183and impulse, 176–77inelastic, 178, 180–82nuclear, 180, 182–83in two dimensions, 182–83colloids, 261colonoscope, 660color:in digital camera, 714of light related to frequencyand wavelength, 682,685–87, 696–97of quarks, 936–37of star, 774, 952–53in thin soap film, 696–97in visible spectrum, 686color charge, 936–37color-corrected lens, 728color force, 937, 939–40color screens, 490–91coma, 727comets, 135 prcommon logarithms,a-10–a-11commutative property, 51commutator, 577, 597–98compact disc (or disk) (cd),20 pr, 43 pr, 48 pr, 226 pr,489, 822compact disc (cd) player, 822compass, magnetic, 560–63,570complementarity, principle of,782complementary metal oxidesemiconductor (cmos),714, 921complete circuit, 504completely inelastic collisions,180complex atoms, 815–17complex wave, 341components of vector, 53–57composite particles, 930–31,937 fncomposite wave, 340composition resistor, 506compound lenses, 728compound microscope, 726–27compound nucleus, 889compound semiconductors,847compounds, 360organic, 849compressed, digital data, 489compression (longitudinalwave), 307, 309compressive strength, 245compressive stress, 243–44compton, a. h., 780, 890compton effect, 780, 781, 899compton shift, 780compton wavelength, 780,800 prcomputed tomography (ct),735–36, 905–6computer:and digital information, 604disks, 604–5hard drive, 19 pr, 222 prkeyboard, 484memory, 500 prmonitor, 490–92, 703–4printers, 462–63computer chips, 19 pr, 829,845, 851computer-assisted tomography(cat), 735–36, 905–6computerized axialtomography (cat),735–36, 905–6concave mirror, 649, 653–54,725concentration gradient, 382,400 fnconcrete, prestressed andreinforced, 246condensation, 379condensed-matter physics, 840condenser, 482condenser microphone, 484conductance, 523 prconduction:charging by, 446–47electrical, 445, 501–48of heat, 400–2in nervous system, 517–19to skin, 410 prconduction band, 842–43conduction current (defn), 627conduction electrons, 445conductive layer, 849conductivity:electrical, 508, 517thermal, 400–1conductors:charge of, 845electric, 445, 459, 501–2,504 ffheat, 401quantum theory of, 842–43cones, 719configuration, electron, 816–17in fusion, 897–98of quarks, 937, 971conservation of energy,150–58, 394–96, 413–19,776, 865, 867, 869, 926–28in collisions, 173–75in an isolated system, 394–96conservation laws, 138, 150–51of angular momentum,215–17, 869apparent violation of, in betadecay, 867of baryon number, 927, 940,971and collisions, 173–75,177–84of electric charge, 444, 869,926in elementary particleinteractions, 923, 926–28of energy, 150–58, 394–96,413–19, 776, 865, 867, 869,926–28in isolated systems, 394–96of lepton number, 927, 940,971of linear momentum, 173–84,869of mechanical energy, 150–55of momentum, 173–84,926–28in nuclear and particlephysics, 869, 926–27in nuclear processes, 867of nucleon number, 869,926–28, 931of strangeness, 933conservative forces, 149–51conserved quantity, 138, 150constant acceleration, 28–38,58–64a-46index
+
+
+
+1051
+
+	: inside frontcovermass determination, 121not inertial frame, 77, 137 prradius, circumference of, 9,15, 19 prrocks and earliest life, 876varying density within, core,mantle, 285 prearth soundings, 349earthquake waves, 309,310–11, 318ecg, 476, 492, 493echo, 312echolocation, 309eclipse, 129, 229 preddy currents (electric), 600–1eddy currents (fluids), 273edison, thomas, 490effective dose, 901effective values, 515efficiency (defn), 161, 422carnot, 422–24einstein, albert, 4, 360, 745,747, 748–49, 752, 760–61,764, 775–76, 893, 938,959–63, 977einstein cross, 961einstein ring, 961ekg, 476, 492, 493el capitan, 69 pr, 285 prel (electroluminescent)device, 849elapsed time, 23–24elastic collisions, 178–80, 183elastic limit, 241elastic moduli, 241and speed of sound waves,308–9elastic potential energy, 148,154–55, 295elastic region, 241elasticity, 241–45electric battery, 476, 502–3,507, 527electric car, 504, 524 pr, 604electric cell, 505, 527electric charge, 444 ffin atom, 445conservation of, 444, 869, 926and coulomb’s law, 447–53of electron, 448, 579elementary, 448induced, 446–47, 486motion of, in magnetic field,566–69negative, 444, 475, 503, 505point (defn), 449positive, 444, 475, 503, 505quantization of, 448test, 453types of, 444electric circuits, 504–5, 512–15,526–48, 610–16ac, 514–15, 526 fn, 611–16complete, 504containing capacitors,538–43, 612 ffdc, 514, 526–48digital, 851induced, 590 ffintegrated, 851and kirchhoff’s rules, 532–35lc, 616lr, 610lrc, 614–16open, 504a-48index
+
+
+
+1056
+
+	(unit), 9incidence, angle of, 313, 317,645, 657incident waves, 313, 317inclines, motion on, 97–98,213–14incoherent source of light,685indeterminacy principle, 807(see uncertainty principle)index of refraction, 656dependence on wavelength(dispersion), 686in snell’s law, 657–58indium–tin oxide (ito), 849induced current, 590 ffinduced electric charge,446–47, 486induced emf, 590–97counter, 599–600in electric generator, 597–99in transformer, 601–3inductance, 608–9in ac circuits, 610–16mutual, 608self-, 608–9induction:applications, 606–7charging by, 446–47electromagnetic, 590 fffaraday’s law of, 590, 592–93,626induction stove, 594inductive battery charger, 604inductive reactance, 612inductor, 608, 851in circuits, 610–16energy stored in, 610reactance of, 612symbol, 608inelastic collisions, 178,180–82inertia, 77moment of (rotational),208–10inertial confinement, 897–98inertial confinement fusion(icf), 898inertial forces, a-16–a-17inertial mass, 960inertial reference frame, 77, 80,137 pr, 745 ff, a-16earth as, 77, 137 prequivalence of all, 746–47,748inflationary scenario, 971,973–75information storage:magnetic, 604–5semiconductor, 605–6infrared (ir) radiation, 403,405 fn, 630, 686, 693infrasonic waves, 330initial conditions, 300inkjet printer, 463in-phase waves, 683, 690,694–98insertions (muscle attachmentpoints), 238instantaneous acceleration(defn), 26, 40instantaneous angularacceleration, 201instantaneous angular velocity,200instantaneous speed, 25instantaneous velocity (defn),25, 39–40instruments, musical, 335–40instruments, optical, 713–37insulators:electrical, 445, 508, 842–43thermal, 401–2, 842–43integrated circuits, 851integration by parts, a-6, a-7intensity, 310–11, 331 fffor em waves, 634in interference anddiffraction patterns,688–90of light, 685, 700–1, 804–5of sound, 331–33of waves, 310–11, 331–33interference, 313–14, 341–43beats, 342–43 constructive, 313–14, 341–42,683, 697, 698, 830destructive, 313–14, 341–42,683, 697, 698, 830of electrons, 805–6, 830of light waves, 682–85of sound waves, 341–43by thin films, 693–98of water waves, 314wave-phenomenon, 682of waves on a cord, 313interference fringes, 683–85interference microscope, 733interference pattern:double-slit, 682–85, 690,805–6including diffraction,690multiple slit, 690–93interferometers, 698, 747interlaced, 490intermittent windshield wipers,543internal combustion engine,420–22internal conversion, 869internal energy, 392–93, 413–14distinguished from heat andtemperature, 392of an ideal gas, 392–93internal reflection, total,327 pr, 659–60internal resistance, 527–28international linear collider(ilc), 921indexa-53
+
+
+
+1057
+
+	international thermonuclearexperimental reactor(iter), 898interpolation, 6, a-11interstellar dust, 950intervertebral disc, 239intravenous transfusion,288 pr, 289 printrinsic luminosity, 951–53,958intrinsic semiconductor, 843,844invariant energy–momentum,763invariant quantity, 759, 763inverse proportion, a-1inverse square law, 120, 310,332, 448, 628inverted population, 821–22,848ion (defn), 445ionic bonds, 831, 833, 840ionization energy, 791–94ionizing radiation (defn), 898ir (infrared) radiation, 403,405 fn, 630, 686, 693iris, 719iron, binding energy for, 862irreversible process, 423iso number, 715 fnisobaric processes, 415isochoric processes, 415isolated system, 174, 394–96isomer, 869isotherm, 414isothermal processes, 414–15isotopes, 578, 858–59, 863–64half-life of, 870–71mean life of, 871in medicine, 904table of, a-14–a-17isotropic, 680, 966isovolumetric (isochoric)process, 415iter, 898iterative technique, 737ito, 849jparticle, 809, 935jars and lids, 365, 369jet, 898jet plane noise, 333jets (particle), 934, 935, 1164jeweler’s loupe, 723joint european torus (jet),898joints:expansion, 361human, forces in musclesand, 207, 223 pr, 238–39,255 pr, 256 pr, 259 prjoule, james prescott, 391joule (j) (unit), 139, 144,207 fn, 478–79, 511relation to calorie, 391joyce, james, 934 fnjump starting a car, 536–37junction diode, 850junction rule, kirchhoff’s, 533 ffjupiter, 3, 126, 128, 134 pr,135 pr, 137 prmoons of, 125, 128, 134 pr,135 pr, 632, 723k-capture, 868k lines, 818–19k particle (kaon), 931, 932–33k2, 11kant, immanuel, 950kaon, 931, 932–33karate blow, 177keck telescope, 725kelvin (k) (unit), 368kelvin-planck statement ofsecond law ofthermodynamics, 424kelvin temperature scale, 362,368kepler, johannes, 126, 723 fnkeplerian telescope, 723 fn, 724kepler’s laws, 125–28keyboard, computer, 484kilby, jack, 851kilo- (prefix), 10kilocalorie (kcal) (unit), 391kilogram (kg) (unit), 10, 78, 79kilometer (km) (unit), 10kilowatt-hour (kwh) (unit),168 pr, 511kinematic equations, 29kinematics, 21–40, 49–66,198–205for rotational motion,198–205translational motion, 21–40,49–66for uniform circular motion,110–12kinetic energy, 142–45, 150 ff,212–14, 460, 760–64in collisions, 178–81and electric potential energy,474of gas atoms and molecules,374–75, 392–93, a-20–a-21molecular, relation totemperature, 374–75,392–93, a-20–a-21of photon, 779relativistic, 760–64rotational, 212–14translational, 142–45kinetic friction, 93 ffcoefficient of, 93–94kinetic theory, 359, 373–83basic postulates, 373boiling, 380diffusion, 381–83evaporation, 379ideal gas, 373–77kinetic energy near absolutezero, 376of latent heat, 400molecular speeds,distribution of, 376–77and probability, 373–77of real gases, 377–78kirchhoff, g. r., 532kirchhoff’s rules, 532–35junction rule, 533 ffloop rule, 533 ffladder, forces on, 237, 259 prlag time, 610lambda (particle), 931, 932–33laminar flow, 272–73land, edwin, 699lanthanides, 817large-diameter objective lens,731large hadron collider (lhc),915, 919–21, 939, 942large-scale structure ofuniverse, 977–78laser printer, 463lasers, 707 pr, 820–23applications, 822–23chemical, 822diode, 848gas, 822helium–neon, 822medical uses, 823surgery, 823latent heats, 397–398, 400lattice structure, 360, 840, 844laue, max von, 734law (defn), 5 (see proper name)causal, 128law of inertia, 77lawrence, e. o., 917lawson, j. d., 898lawson criterion, 898lc circuit, 616lc oscillation, 616lcd, 490–92, 638, 703–4, 714leakage current, 545led, 491, 847–50applications, 847–48flashlight, 848white-light, 848lemaître, georges, 964length:focal, 649–50, 655, 662, 669,670, 718, 719planck, 19 pr, 970proper, 756relativity of, 756–59standard of, 9, 698length contraction, 756–59,a-25lens, 661–70achromatic, 728axis of, 661coating of, 697–98color-corrected, 728combinations of, 668–69compound, 728contact, 721converging, 661 ffcorrective, 719–21cylindrical, 720diverging, 661 ffof eye, 719eyeglass, 719–21eyepiece, 724focal length of, 662, 669, 670magnetic, 785magnification of, 665negative, 665normal, 718, 743 probjective, 724, 725, 726ocular, 726positive, 665power of (diopters), 662resolution of, 717, 728–32sign conventions, 665telephoto, 718thin (defn), 661wide-angle, 718, 728zoom, 718lens aberrations, 727–28, 729,731lens elements, 728lens opening, 715lensing, gravitational, 961lensmaker’s equation, 670lenz’s law, 593–95leonardo da vinci, 4lepton era, 970, 972lepton number, 927, 930–31,933, 940leptons, 916, 922, 927, 930–31,933–35, 937–39, 942, 970–71level:acceptor, 845donor, 845energy (see energy levels)fermi, 841loudness, 334–35sound, 331–33level horizontal range, 63level range formula, 63–64lever, 164 pr, 233lever arm, 206, 238lhc, 915, 919–21, 939, 942,983 prlids and jars, 365, 369life under ice, 367lifetime, 930 (see also meanlife)lift, dynamic, 277lift, hydraulic, 265light, 629–31, 632–33, 644–704coherent sources of, 685color of, and wavelength,682, 685–87, 696–97dispersion of, 686doppler shift for, 348, 964as electromagnetic wave,629–31�ca-54index
+
+
+
+1059
+
+	matter waves, 782–84, 795–96,804 ffmatter–antimatter problem,941matter-dominated universe,972, 973maxwell, james clerk, 376,625, 627, 629–30, 635,747maxwell distribution ofmolecular speeds, 376–77,433, 897maxwell’s equations, 626–27,744, 747, 747 fn, 748maxwell’s preferred referenceframe, 747mean life, 871, 930of proton, 941measurements, 3, 5–8of astronomical distances,948, 953, 957–59of blood flow, 358 prof calorie content, 396of charge on electron,772–73electromagnetic, of bloodflow, 596of , 772–73of force, 76precision of, 5–8, 806–8of pressure, 266–67of radiation, 899–903of speed of light, 632–33uncertainty in, 5–8, 806–9units of, 8–10mechanical advantage, 92, 233,265mechanical energy, 150–55total (defn), 150, 295–96mechanical equivalent of heat,391mechanical oscillations, 293mechanical waves, 305–19mechanics, 21–445 (see alsomotion)definition, 21mediate, forces, 922medical imaging, 350–51, 405,905–8techniques, 908medical instruments, 660–61medical uses of lasers, 823meitner, lise, 804, 889melting point, 397–400 (seealso phase, changes of)memory:dynamic random access(dram), 500 pr, 605–6flash, 606magnetoresistive randomaccess (mram), 606random access (ram), 482,500 pr, 605–6volatile and nonvolatile, 606mendeleev, dmitri, 816mercury (planet), 3, 126, 128mercury, surface tension of,281mercury barometer, 267mercury-in-glass thermometer,361–62merry-go-round, 198, 201,202meson exchange, 923meson lifetime, 809mesons, 816, 916, 923, 926–27,930–31, 935, 936–38messenger rna (m-rna),836–37metabolic pathway, 820metabolism, human, 418–19metal detector, 601metal-oxide semiconductorfield-effect transistor(mosfet), 605, 851metallic bond, 840metals:alkali, 817free-electron theory of, 841metastable state, 820, 821–22,869meter (m) (unit), 9meters, electric, 546–48, 576correction for resistance of,547–48metric (si) multipliers: insidefront covermetric (si) system, 10mho (unit), 523 prmichelson, a. a., 632–33, 698,747, 748michelson interferometer, 698,747michelson–morley experiment,747, 748, 748 fnmicroampere ( a) (unit), 504micrometer (measuringdevice), 14micron ( m) (unit), 10, 484microphones, magnetic, 606microscope, 726–27, 730–32atomic force, 786compound, 726–27electron, 771, 785–86, 807interference, 733magnification of, 726–27,731–32, 785phase-contrast, 733resolving power of, 731scanning tunneling electron(stm), 786specialty, 733useful magnification, 732,785microscopic description, 360,373 ffmicroscopic properties, 360,373 ffmicrostate of a system,432–33microwave backgroundradiation, cosmic, 967–70,973, 974, 977–78microwaves, 630, 639, 967–68milky way, 136 pr, 948–50milliampere (ma) (unit), 504millikan, r. a., 773, 777millikan oil-drop experiment,773millimeter (mm) (unit), 10mirage, 682mirror equation, 652–56mirrors, 645–56aberrations of, 725 fn, 727–28concave, 649, 653–54, 725convex, 649, 655–56focal length of, 649–50, 655magnifying, 649, 654plane, 645–49sign conventions, 653used in telescope, 725mks (meter-kilogram-second)system (defn), 10mm-hg (unit), 266model of solar system:geocentric, 3, 125heliocentric, 3, 125models, 5, 22moderator, 891–92modern physics (defn), 2, 745modulation:amplitude, 637frequency, 637, 638 fnmoduli of elasticity, 241–42,308–9molar specific heats,a-19–a-21mole (mol) (unit), 369volume of, for ideal gas, 369molecular biology, electricforce in, 460–62, 482,834–37molecular kinetic energy,374–75, 392–93, a-20–a-21molecular mass, 360, 369molecular oscillation, 326 pr,393, 839molecular rotation, 838–39molecular spectra, 837–39molecular speeds, 376–77, 433molecular vibration, 326 pr,393, 839molecular weight, 360molecules, 360, 372–77, 829–39bonding in, 829–32in a breath, 373diatomic, a-20–a-21polar, 445, 461, 482, 486,831–32potential-energy diagramsfor, 832–34spectra of, 837–39weak bonds between, 834–37molybdenum, 818moment arm, 206moment of a force about anaxis, 206moment of inertia, 208–10momentum, 138, 170–89angular, 215–18, 789, 795center of mass (cm),184–86in collisions, 173–75conservation of angular,215–17conservation of linear,173–76, 177–84, 188,926–28linear, 170–89of photon, 779relation of force to, 171–72,174, 176–77, 760relativistic, 759–60, 763uncertainty in measurementof, 807units of, 171momentum transfer, 635monochromatic aberration,728monochromatic light (defn),682moon, 3, 129, 948acceleration due to gravityon, 46 pr, 134 pracceleration toward theearth, 119centripetal acceleration of,112, 119force on, 119full moon, 129, 137 prnew moon, 129orbit of, 129phases of, 129rising of, 129, 137 prsidereal period, 129, 137 prsynodic period, 129, 137 prwireless communicationfrom, 639work on, 142moonrise, 129moons of jupiter, 125, 128,134 pr, 135 prmorley, e. w., 747, 748moseley, h. g. j., 818moseley plot, 818mosfet, 605, 851most probable speed, 376motion, 21–229, 744–65brownian, 360circular, 110–18at constant acceleration,28–38, 58–64damped, 303description of (kinematics),21–40, 49–66, 110–12of electric charge in magneticfield, 566–69and frames of reference, 22in free fall, 33–38, 124general, 184mme�ma-56index
+
+
+
+1060
+
+	everest, 9, 11, 121, 137 pr,380mt.wilson, 950muller, richard, 968multielectron atoms, 815–17multimeter, 548multiplication factor, 891–92multiplication of vectors,52–53multiwire chamber, 878, 934muon, 927, 930–31, 934decay, 927lifetime, 752, 770 prmuon lepton number, 927muon neutrino, 930–31muscle insertion, 238muscles and joints, forces in,207, 223 pr, 238–39, 255 pr,256 pr, 259 prmusical instruments, 335–40musical scale, 335mutation, 899mutual inductance, 608myopia, 719–20n-type semiconductor, 844–46nagasaki, 894nanometer, 845 fnnational ignition facility(nif), 898natural abundances, 858natural convection, 402natural frequency, 304, 315–16(see also resonantfrequency)natural logarithms, a-10natural radioactivebackground, 866, 901natural radioactivity, 863nautical mile, 20 prnavstar global positioningsystem (gps), 136 prnd:yag laser, 822near earth asteroidrendezvous (near),136 prnear-earth orbit, 134 prnear field, 628near point, of eye, 719nearsightedness, 719–20, 721nebulae, 950negative, photographic, 714 fnnegative, of a vector (defn),52negative curvature, 962, 975negative electric charge (defn),444, 475, 503, 505negative exponents, a-2negative lens, 665negative sea of electrons,925–26negative work, 140neon tubes, 803neptune, 126, 127neptunium, 888nerve pulse, 518, 567nervi, pier luigi, 249nervous system, electricalconduction in, 517–19net displacement, 50–52net force, 77–80, 87 ffnet resistance, 528neuron, 517–18neutral atom, 445, 860neutral equilibrium, 240neutral wire, 545neutrino, 190 pr, 866–68, 916,927, 928–30, 972mass of, 929–30, 931types of, 927–29neutrino flavor oscillation, 928neutrinoless double betadecay, 946 prneutron, 445, 858, 916, 930–31delayed, 891in nuclear reactions, 889–94role in fission, 889 ffneutron capture, 956neutron degeneracy, 956neutron multiplication factor,891neutron number, 858neutron physics, 888neutron star, 217, 951, 956–57new moon, 129newton, isaac, 21, 77–78, 81,119–20, 129, 453, 681, 694 fn,725 fn, 745–47, 959, 963 fnnewton (n) (unit), 79newton-meter (unit), 139newtonian focus, 725newtonian mechanics, 75–129,744newton’s first law of motion,76–78, 745newton’s law of universalgravitation, 109, 119–21,448, 959newton’s laws of motion,75–83, 87–98, 138, 141,157, 171, 174, 187–89,208–12, 804, 810newton’s rings, 694–95newton’s second law, 78–80,82, 87–89, 171, 174,187–89, 747, 760for rotation, 208–12, 215–17for a system of particles,187–89newton’s synthesis, 128newton’s third law of motion,81–83nif (national ignitionfacility), 898nmr, 906–8noble gases, 817, 840nodes, 315, 337, 338, 339, 340noise, 333, 340–41, 489nonconductors, 445nonconservative forces, 149–50non-euclidean space, 961–62noninertial reference frames,78, 80, a-16nonlinear device, 846nonohmic device, 506nonreflecting glass, 697–98nonuniform circular motion,118nonvolatile memory, 606nonvolatile memory (nvm)cell, 606normal eye (defn), 719normal force, 84–86normal lens, 718, 743 prnormal x-ray image, 735north pole, earth, 562north pole, of magnet, 561notre dame, paris, 247nova, 951, 956–57noyce, robert, 851npn transistors, 850n-type semiconductor, 844–46nuclear binding energy, 860–62nuclear collision, 180, 182–83nuclear decay, 762nuclear density, 859nuclear energy, 421 fn, 435,885–908nuclear fission, 435, 889–94nuclear forces, 129, 862–63,867, 922–42, 959nuclear fusion, 435, 894–98,954–55nuclear magnetic resonance(nmr), 906–8nuclear masses, 858 and ffnuclear medicine, 903–8nuclear physics, 857–908nuclear power, 891–94nuclear power plants, 435, 597,891–93nuclear radius, 859nuclear reactions, 885–89nuclear reactors, 890–93,896–98nuclear spin, 860nuclear structure, 858–60nuclear weapons testing, 894nucleon, 858, 916, 938, 971–72nucleon number, conservationof, 869, 926–28nucleosynthesis, 954–55, 972nucleotide bases, 460–61,834–36nucleus, 858 ffcompound, 889daughter and parent (defn),864half-lives of, 869–71liquid-drop model of, 889masses of, 858–60radioactive decay ofunstable, 863–77size of, 859structure and properties of,858–60nuclide (defn), 858null result, 747, 748null technique, 559 prnvm (nonvolatile memory)cell, 606object distance, 647, 652,664–65objective lens, 724, 725, 726,731–32large diameter, 731observable universe, 967,969–70, 974observations, 2, 745and uncertainty, 806–7indexa-57
+
+
+
+1062
+
+	plane:focal, 662mirror, 645–49polarization of light by,699–702plane geometry, a-7–a-8plane waves, 312–13, 628, 682plane-polarized light, 700planetary motion, 125–28planets, 3, 125–28, 134 pr,137 pr, 189, 197 pr, 228 prperiod of, 126–28plasma, 261, 897plastic region, 241plate tectonics, 272, 289 prplum-pudding model of atom,786plumb bob, 137 prpluto, 126, 127, 948plutonium, 888, 892, 894pm tube, 801 pr, 877–78pn diode laser, 848pn junction, 845–50pn junction diode, 845–50, 878pn junction laser, 822pnp transistor, 850point:boiling, 362, 380, 397breaking, 241critical, 377dew, 381far, 719focal, 649–50, 655, 661, 719freezing, 362, 397image, 647mathematical, 22melting, 397–400near, 719sublimation, 378triple, 378point charge (defn), 449potential, 479–81point particle, 22, 88poise (p) (unit), 279poiseuille, j. l., 280poiseuille’s equation, 280poisson, siméon, 687polar, 460polar ice caps, 405polar molecules, 445, 461, 482,486, 831–32polarization of light, 699–702,711 prby absorption, 699–701plane, 699–702by reflection, 701–2of skylight, 704polarizer, 700–4polarizing angle, 702polaroid, 699–701polaroid sheet, 699pole vault, 153poles, geographic, 562poles, magnetic, 560–62of earth, 562pollution:air, 434–35thermal, 434–35poloidal field, 898polonium, 863polymers, 849pontecorvo, bruno, 928 fnpool depth, apparent, 658pope, alexander, 963 fnpopulation, inverted, 821–22,848position, 22angular, 199equilibrium (vibrationalmotion), 293as a function of time (shm),299–300uncertainty in, 806–9positive curvature, 962, 975positive electric charge (defn),444, 475, 503, 505positive holes, 844positive lens, 665positron, 781, 868, 905–6, 916,924–26positron emission tomography(pet), 905–6post-and-beam construction,243potassium-40, 883 pr, 912, 913potential (see electric potential)potential difference, electric,474 ff, 527, 845 (see alsoelectric potential; voltage)potential drop, 507potential energy (defn), 145–48and ffdiagrams, 832–34elastic, 148, 154–55, 295–97electric, 474–76, 481, 486–87gravitational, 145–47, 154–55for molecules, 832–34, 839,840for nucleus, 876as stored energy, 148potentiometer, 559 prpound (lb) (unit), 79powell, c. f., 923power (defn), 159–61, 510–15,615energy vs., 159rating of an engine, 159–61wind, 435power, magnifying, 722total, 724(see also electric power)power backup, 484power factor (ac circuit), 615power generation, 434–35, 597power of a lens, 662power plants:fossil-fuel, 434–35nuclear, 435, 597, 891–93power reactor, 891–92power transmission, 601–4powers of ten, 7, a-3poynting vector, 634 fnprecision, 5–8accuracy vs., 8prefixes, metric, 10presbyopia, 720prescriptive laws, 5pressure (defn), 244, 262–64absolute, 264atmospheric, 264, 266–67blood, 283in fluids, 262–63in a gas, 264, 367–72, 374,377–81gauge, 264head, 263hydraulic, 265on living cells, 264measurement of, 266–67partial, 380–81and pascal’s principle, 265tire, 372units for and conversions,262, 264, 266–67vapor, 379volume changes under, 244,415–17pressure amplitude, 330, 333pressure cooker, 380, 388 prpressure gauges, 266–67pressure gradient, 280,400 fnpressure head, 263pressure waves, 309, 330 ffprestressed concrete, 246primary coil, 600principal axis (defn), 650principal quantum number,789 ff, 812–14principia (newton), 77principle, 5 (see proper name)principle of complementarity,782principle of correspondence,765, 795, 804principle of equipartition ofenergy, a-21principle of equivalence,959–60principle of superposition,313–14, 340–41, 450–53,455printers, inkjet and laser, 463prism, 660, 686prism binoculars, 660, 725probability:and entropy, 432–33in kinetic theory, 373–77in nuclear decay, 869in quantum mechanics, 805,806, 810–11, 830–32probability density (probabilitydistribution):in atoms, 805, 811, 814in molecules, 830–32problem-solving strategies, 30,57, 60, 88, 115, 141, 158,184, 211, 234, 399, 436,456, 534, 568, 594, 655,666, 697processes:adiabatic, 415–16isobaric, 415isochoric, 415isothermal, 414–15isovolumetric, 415reversible and irreversible(defn), 423projectile, horizontal range of,63–64projectile motion, 49, 58–64kinematic equations for(table), 60parabolic, 49, 58, 64proper length, 756proper time, 753, 945 prproportion, direct and inverse,a-1–a-2proportional limit, 241proteins, 460shape of, 837synthesis of, 836–37proton, 445, 762, 858 ff, 885,894–96, 904, 916, 930–31,934decay, 930, 940–41magnetic force on, 566mean life of, 941proton–antiproton collision,934, 1164proton centers, 904proton decay, 930, 940–41proton–proton chain, 895, 954proton therapy, 904protostar, 954protractor (for angles), 7proxima centauri, 948pseudoforce, a-16–a-17psi (pound per square inch),262p-type semiconductor, 844–46pt diagram, 378ptolemy, 2, 3, 125pulley, 91–92, 211, 212, 225 prpulse, wave, 306pulse-echo technique, 349–51,908pulsed laser, 822pulsed oximeter, 848pumps, 267, 282–83centrifugal, 282circulating, 282force, 267, 282heat, 425–27vacuum, 267, 282pupil, 719putting, in golf, 47 prpv diagrams, 377–78, 414pythagorean theorem, 51,55 fn, a-8indexa-59
+
+
+
+1068
+
+	transformation of energy,155–56, 159transformations:galilean, a-22–a-25galilean velocity, a-23–a-24lorentz, a-24–a-25transformer, 601–3, 608transformer equation, 601transfusion, blood, 288 pr,289 prtransient ischemic attack(tia), 278transistors, 845, 850–51bipolar junction, 850–51field-effect, 851metal-oxide semiconductorfield-effect, 605, 851transition elements, 817transition temperature, 517transitions, atoms andmolecules, allowed andforbidden, 814, 821 fn,837–39translational kinetic energy(defn), 142–45translational motion, 21–189and center of mass (cm),187–89kinematics for, 21–40, 49–66transmission axis, of polaroid,699–701transmission electronmicroscope (tem), 785transmission grating, 690 fftransmission lines, 603, 631transmission of electricity, 603transmission of power,wireless, 604transmission of waves, 312–13transmutation of elements,864, 885–89transparency, 843transuranic elements, 888transverse waves, 307 ffand earthquakes, 309em waves, 629speed of, 308traveling sinusoidal wave,319trees, offsetting co2 emissions,442 prtriangle, on a curved surface,961triangulation, 14, 957trigonometric functions andidentities, 54, 56, 63,a-8–a-9, inside back covertrigonometric table, a-9triple point, 378tritium, 858, 883 pr, 897,a-12tritium dating, 883 prtriton, 858, a-12t-rna, 836–37trough, wave, 306, 313–14true north, 562tsunami, 306, 327 prtubes:discharge, 772, 787flow in, 273–76, 278, 279–80open and closed, 338venturi, 278vibrating column of air in,335 fftunneling:through a barrier, 876–77in a microscope, 786quantum mechanical, 606,876–77and stability, 876–77turbine, 434–35, 597turbulent flow, 273, 27722-nm technology, 851twin paradox, 754–55two-dimensional collisions,182–83two-dimensional waves, 310tycho brahe, 125type ia supernovae (snia),956, 957, 958, 976tyrolean traverse, 258 prua1 detector, 924ultimate speed, 760ultimate strength, 241, 245ultracapacitors, 499 prultrasonic frequencies, 329,350ultrasonic waves, 329, 347,350ultrasound, 350ultrasound imaging, 350–51ultraviolet (uv) light, 630,686, 693unavailability of energy, 431unbanked curves, 115–17uncertainty (inmeasurements), 5–8,806–9estimated, 6percent, 6, 8uncertainty principle, 806–9,830and particle resonance, 932and tunneling, 877underdamped system, 303underexposure, 715underground air circulation,278undersea research chamber,287 prunderwater vision, 721unification distance, 946 prunification scale, 940unified (basis of forces), 938unified atomic mass units (u),10, 360, 860unified theories, grand (gut),129, 939–41uniform circular motion,110–15dynamics of, 112–15kinematics of, 110–12related to simple harmonicmotion, 299–300uniform magnetic field, 562uniformly accelerated motion,28 ff, 58 ffuniformly acceleratedrotational motion, 203–4unit conversion, 11–12, insidefront coverunits and standards, 8–11units of measurement, 8–10converting, 11–12, insidefront coverprefixes, 10in problem solving, 12, 30universal gas constant, 370universal law of gravitation,119–21, 448, 959universe:age of, 940 fn, 967big bang theory of, 941,966 ffcdm model of, 977–78critical density of, 975curvature of, 961–63, 974–75entire, 970expanding, 964–67, 975–77finite or infinite, 948, 962–63,967, 975future of, 975–77history of, 970–73homogeneous, 966inflationary scenario of, 971,973–75isotropic, 966large-scale structure, 977–78matter-dominated, 972, 973observable, 967, 969–70, 974origin of elements in,955–56radiation-dominated, 972–73standard model of, 970–73steady-state model of, 967temperature of, 941unknowns, solving for,a-4–a-5unphysical solution, 31, 36unpolarized light (defn), 699unstable equilibrium, 240unstable nucleus, 863 ffup quark, 934updated subpixel, 492uranium:in dating, 873–77decay, 865enriched, 891fission of, 889–94in reactors, 889–94uranus, 126, 127useful magnification, 732, 785uv light, 630, 686, 693vacuum energy, 977vacuum pump, 267, 282vacuum state, 925–26, 974valence, 817valence bands, 842–43van de graaff generator, 459van der waals bonds andforces, 834–37vapor (defn), 378 (see alsogases)vapor pressure, 379vaporization, latent heat of,397–98, 399, 400variable stars, 958varying force, 142vector, escape, 384 prvector displacement, 23, 50–52vector field, 457vector form of coulomb’s law,450–53vector quantities, 50vector sum, 50–57, 87, 173vectors, 23, 50–57addition of, 50–57, 87, 450components of, 53–57direction of, 23, 50displacement, 23, 50–52force, addition of, 87magnitude of, 23, 50multiplication, by a scalar,52–53multiplication of, 52–53negative of (defn), 52parallelogram method ofadding, 52resolution of, 53–57resultant, 50–52, 56–57subtraction of, 52–53sum, 50–57, 87tail-to-tip method of adding,51–52velocity, 23–25, 50acceleration vs., 27addition of, 65–66angular, 200–3average (defn), 23–25, 28, 39drift, 516, 569of em waves, 629as a function of time (shm),301gradient, 279instantaneous (defn), 25,39–40of light, 9, 629–33, 656, 681,747, 748molecular:and relation totemperature, 376–77and probability, 433relative, 65–66, 179relativistic addition of, 764relativistic transformations,a-24rms (root-mean-square), 376and slope, 39–40indexa-65
+
+
+

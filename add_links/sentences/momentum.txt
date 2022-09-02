@@ -1,0 +1,993 @@
+4
+
+	ivcontents6 work and energy138work done by a constant force139*work done by a varying force142kinetic energy, and the work-energyprinciple142potential energy145conservative and nonconservative forces149mechanical energy and its conservation150problem solving using conservation of mechanical energy151other forms of energy and energytransformations; the law of conservation of energy155energy conservation with dissipativeforces: solving problems156power159questions, misconceptual questions 161–63problems, search and learn 164–697 linear momentum170momentum and its relation to force171conservation of momentum173collisions and impulse176conservation of energy and momentum in collisions177elastic collisions in one dimension178inelastic collisions180*collisions in two dimensions182center of mass (cm)184*cm for the human body186*cm and translational motion187questions, misconceptual questions 190–91problems, search and learn 192–977–107 – 97 – 87 – 77 – 67 – 57 – 47 – 37 – 27 – 16–106 – 96 – 86 – 76 – 66 – 56 – 46 – 36 – 26 – 18 rotational motion198angular quantities199constant angular acceleration203rolling motion (without slipping)204torque206rotational dynamics; torque and rotational inertia208solving problems in rotational dynamics210rotational kinetic energy212angular momentum and its conservation215*vector nature of angular quantities217questions, misconceptual questions 220–21problems, search and learn 222–299static equilibrium;elasticity and fracture230the conditions for equilibrium231solving statics problems233applications to muscles and joints238stability and balance240elasticity; stress and strain241fracture245*spanning a space: arches and domes246questions, misconceptual questions 250–51problems, search and learn 252–5910 fluids260phases of matter261density and specific gravity261pressure in fluids 262atmospheric pressure and gauge pressure264pascal’s principle265measurement of pressure;gauges and the barometer266buoyancy and archimedes’ principle268fluids in motion; flow rate and the equation of continuity272bernoulli’s equation274applications of bernoulli’s principle:torricelli, airplanes, baseballs,blood flow276*viscosity279*flow in tubes: poiseuille’s equation,blood flow279*surface tension and capillarity280*pumps, and the heart282questions, misconceptual questions 283–85problems, search and learn 285–9110–1410–1310–1210–1110–1010–910–810–710–610–510–410–310–210–19 – 79 – 69 – 59 – 49 – 39 – 29 – 18 – 98 – 88 – 78 – 68 – 58 – 48 – 38 – 28 – 1displacementforce
+
+
+
+7
+
+	21electromagnetic inductionand faraday’s law590induced emf591faraday’s law of induction; lenz’s law592emf induced in a moving conductor596changing magnetic flux produces an electric field597electric generators597back emf and counter torque;eddy currents599transformers and transmission of power601*information storage: magnetic andsemiconductor; tape, hard drive, ram604*applications of induction: microphone,seismograph, gfci606*inductance608*energy stored in a magnetic field610*lr circuit610*ac circuits and reactance611*lrc series ac circuit614*resonance in ac circuits616questions, misconceptual questions 617–19problems, search and learn 620–2422 electromagnetic waves625changing electric fields produce magnetic fields; maxwell’s equations626production of electromagnetic waves627light as an electromagnetic wave and the electromagnetic spectrum629measuring the speed of light632energy in em waves633momentum transfer and radiation pressure635radio and television; wirelesscommunication636questions, misconceptual questions 640problems, search and learn 641–4323 light: geometric optics644the ray model of light645reflection; image formation by a plane mirror645formation of images by spherical mirrors649index of refraction656refraction: snell’s law657total internal reflection; fiber optics659thin lenses; ray tracing661the thin lens equation664*combinations of lenses668*lensmaker’s equation670questions, misconceptual questions 671–73problems, search and learn 673–7823–1023–923–823–723–623–523–423–323–223–122–722–622–522–422–322–222–121–1521–1421–1321–1221–1121–1021–921–821–721–621–521–421–321–221–124 the wave nature of light679waves vs. particles; huygens’ principle and diffraction680*huygens’ principle and the law of refraction681interference—young’s double-slitexperiment682the visible spectrum and dispersion685diffraction by a single slit or disk687diffraction grating690the spectrometer and spectroscopy692interference in thin films693*michelson interferometer698polarization699*liquid crystal displays (lcd)703*scattering of light by the atmosphere704questions, misconceptual questions 705–7problems, search and learn 707–1225 optical instruments713cameras: film and digital 713the human eye; corrective lenses719magnifying glass722telescopes723compound microscope726aberrations of lenses and mirrors727limits of resolution; circular apertures728resolution of telescopes and microscopes; the limit730resolution of the human eye and useful magnification732*specialty microscopes and contrast733x-rays and x-ray diffraction733*x-ray imaging and computed tomography (ct scan)735questions, misconceptual questions 738–39problems, search and learn 740–4325–1225–1125–1025–9l25–825–725–625–525–425–325–225–124–1224–1124–1024–924–824–724–624–524–424–324–224–1contentsvii
+
+
+
+8
+
+	26the special theory ofrelativity744galilean–newtonian relativity745postulates of the special theory of relativity748simultaneity749time dilation and the twin paradox750length contraction756four-dimensional space–time758relativistic momentum759the ultimate speed760; mass and energy760relativistic addition of velocities764the impact of special relativity765questions, misconceptual questions 766–67problems, search and learn 767–7026–1126–10e = mc226–926–826–726–626–526–426–326–226–128 quantum mechanics of atoms 803quantum mechanics—a new theory804the wave function and its interpretation;the double-slit experiment804the heisenberg uncertainty principle806philosophic implications;probability versus determinism810quantum-mechanical view of atoms811quantum mechanics of the hydrogen atom; quantum numbers 812multielectron atoms; the exclusion principle 815the periodic table of elements816*x-ray spectra and atomic number817*fluorescence and phosphorescence820lasers820*holography823questions, misconceptual questions 825–26problems, search and learn 826–2829 molecules and solids829*bonding in molecules829*potential-energy diagrams for molecules 832*weak (van der waals) bonds834*molecular spectra837*bonding in solids840*free-electron theory of metals;fermi energy841*band theory of solids842*semiconductors and doping844*semiconductor diodes, leds, oleds845*transistors: bipolar and mosfets850*integrated circuits, 22-nm technology851questions, misconceptual questions 852–53problems, search and learn 854–5630nuclear physics andradioactivity857structure and properties of the nucleus858binding energy and nuclear forces860radioactivity863alpha decay864beta decay866gamma decay868conservation of nucleon number andother conservation laws 869half-life and rate of decay869calculations involving decay rates and half-life872decay series873radioactive dating874*stability and tunneling876detection of particles877questions, misconceptual questions 879–81problems, search and learn 881–8430–1330–1230–1130–1030–930–830–730–630–530–430–330–230–129–1129–1029–929–829–729–629–529–429–329–229–128–1228–1128–1028–928–828–728–628–528–428–328–228–1viiicontents27early quantum theory andmodels of the atom771discovery and properties of the electron772blackbody radiation;planck’s quantum hypothesis774photon theory of light and thephotoelectric effect775energy, mass, and momentum of a photon779*compton effect780photon interactions; pair production781wave–particle duality; the principle of complementarity782wave nature of matter782electron microscopes785early models of the atom786atomic spectra: key to the structure of the atom787the bohr model789de broglie’s hypothesis applied to atoms795questions, misconceptual questions 797–98problems, search and learn 799–80227–1327–1227–1127–1027–927–827–727–627–527–427–327–227–1
+
+
+
+14
+
+	new section 29–6.• semiconductor devices—new details on diodes, leds, oleds, solar cells,compound semiconductors, diode lasers, mosfet transistors, chips, 22-nmtechnology (sections 29–9, 10, 11).• cross section (chapter 31).• length of an object is a script rather than normal l, which looks like 1 ori (moment of inertia, current), as in f = i b. capital l is for angularmomentum, latent heat, inductance, dimensions of length [l].6. new photographs taken by students and instructors (we asked).7. page layout: more than in previous editions, serious attention to how eachpage is formatted.
+
+
+
+19
+
+	)path of a movingobjectreal image(dashed)virtual image(dashed and paler)velocity (  )acceleration (  )momentum (   or      ) angular momentum (   )angular velocity (   )electric field (   )magnetic field (   )force on second objector third object in same figuredirection of motionor currentother++–lbfbebdbvbtbvbvbrbpbabbb
+
+
+
+158
+
+	in this chapterand the next, we discuss an alternative analysis of the translational motion ofobjects in terms of the quantities energy and momentum.
+	the significance ofenergy and momentum is that they are conserved.
+	that conserved quantities exist gives us not onlya deeper insight into the nature of the world, but also gives us another way toapproach solving practical problems.the conservation laws of energy and momentum are especially valuable indealing with systems of many objects, in which a detailed consideration of theforces involved would be difficult or impossible.
+
+
+
+190
+
+	m1v1b (before)   ′1m1vb (after)   ′2m2vb (after)170linear momentumchapter-opening questions—guess now!1.
+	among the other quan-tities found to be conserved are linear momentum, angular momentum, andelectric charge.
+	in this chapter we discuss linearmomentum and its conservation.
+	the law of conservation of momentum is essen-tially a reworking of newton’s laws that gives us tremendous physical insight andproblem-solving power.the law of conservation of momentum is particularly useful when dealing witha system of two or more objects that interact with each other, such as in collisionsof ordinary objects or nuclear particles.our focus up to now has been mainly on the motion of a single object, oftenthought of as a “particle” in the sense that we have ignored any rotation or internalmotion.
+	in this chapter we will deal with systems of two or more objects, and—towardthe end of the chapter—the concept of center of mass.contents7–1 momentum and its relation to force7–2 conservation of momentum7–3 collisions and impulse7–4 conservation of energy andmomentum in collisions7–5 elastic collisions in onedimension7–6 inelastic collisions*7–7 collisions in two dimensions7–8 center of mass (cm)*7–9 cm for the human body*7–10 cm and translational motion7chapterconservation of linear momentum is another great conservation law of physics.collisions, such as between billiard or pool balls, illustrate this law very nicely: the total vector momentum just before the collision equals the total vector momentum just after the collision.
+	after the collision, both balls move at angles, but the sum of their vector momenta equals the initial vector momentum of the incoming cue ball.we will consider both elastic collisions (where kinetic energy is also conserved) and inelastic collisions.
+
+
+
+191
+
+	7–1 momentum and its relation to forcethe linear momentum (or “momentum” for short) of an object is defined as theproduct of its mass and its velocity.
+	momentum (plural is momenta—from latin) isrepresented by the symbol if we let m represent the mass of an object and represent its velocity, then its momentum is defined as(7;1)velocity is a vector, so momentum too is a vector.
+	the direction of the momentumis the direction of the velocity, and the magnitude of the momentum is  because velocity depends on the reference frame, so does momentum; thus the ref-erence frame must be specified.
+	the unit of momentum is that of which in si units is there is no special name for this unit.everyday usage of the term momentum is in accord with the definition above.according to eq.
+	7–1, a fast-moving car has more momentum than a slow-movingcar of the same mass; a heavy truck has more momentum than a small car movingwith the same speed.
+	the more momentum an object has, the harder it is to stopit, and the greater effect it will have on another object if it is brought to rest bystriking that object.
+	a football player is more likely to be stunned if tackled by aheavy opponent running at top speed than by a lighter or slower-moving tackler.a heavy, fast-moving truck can do more damage than a slow-moving motorcycle.exercise a can a small sports car ever have the same momentum as a large sport-utility vehicle with three times the sports car’s mass?
+	newton origi-nally stated his second law in terms of momentum (although he called the productmv the “quantity of motion”).
+	a change in mass occurs in certain circumstances, such as for rocketswhich lose mass as they expel burnt fuel.a©fb = mabb©fb = mab.ab = ¢vb�¢t,= m ¢vb¢t.©fb =¢pb¢t= mvb2 - mvb1¢t=mavb2 - vb1b¢t¢tvb2vb1©fb = mab,¢t.¢pb©fb©fb =¢pb¢t,kg�m�s.mass * velocity,p = mv.pb= mvb.pbvbpb.section 7–1momentum and its relation to force171newton’s second lawc a u t i o nthe change in the momentum vectoris in the direction of the net forcenewton’s second law†normally we think of as being a small time interval.
+
+
+
+192
+
+	whatis the force exerted by the water on the car?approach the water leaving the hose has mass and velocity, so it has amomentum in the horizontal (x) direction, and we assume gravity doesn’tpull the water down significantly.
+
+
+
+193
+
+	section 7–2conservation of momentum173conservation of momentum (two objects colliding)ma amb babbbxaama �avbmb �bvbvbvbfigure 7;3 momentum is conserved in a collision of two balls,labeled a and b.7–2 conservation of momentumthe concept of momentum is particularly important because, if no net externalforce acts on a system, the total momentum of the system is a conserved quantity.this was expressed in eq.
+	although the momentum of each of the two balls changes as a result of the collision, the sum of their momenta is found to be the samebefore as after the collision.
+	if is the momentum of ball a and the momentum of ball b, both measured just before the collision, then the total momentum of the two balls before the collision is the vector sumimmediately after the collision, the balls each have a differentvelocity and momentum, which we designate by a “prime” on the velocity:and the total momentum after the collision is the vector sumno matter what the velocities and masses are, experimentsshow that the total momentum before the collision is the same as afterward,whether the collision is head-on or not, as long as no net external force acts:(7;3)that is, the total vector momentum of the system of two colliding balls is conserved:it stays constant.
+	)although the law of conservation of momentum was discovered experimen-tally, it can be derived from newton’s laws of motion, which we now show.let us consider two objects of mass and that have momentaandbefore they collide and and after theycollide, as in fig.
+	the total momentum is conserved.we have put this derivation in the context of a collision.
+	momentum before = momentum aftermavbaœ + mbvbbœ .mb vbbœ .mavbaœmavba + mbvbb.mbvbbma vbabeforecollisionatcollisionaftercollisionmamamambmbmb−fbfbpabpbbp�bbp�abfigure 7;4 collision of twoobjects.
+
+
+
+194
+
+	momentum is conserved (or very nearly so) as longas we measure and just before the collision and and immediatelyafter the collision (eq.
+	7–2,so the total momentum doesn’t change.
+	thegeneral statement of the law of conservation of momentum isthe total momentum of an isolated system of objects remains constant.by a system, we simply mean a set of objects that we choose, and which mayinteract with each other.
+	however, if we include the earth inthe system, the total momentum of rock plus earth is conserved.
+	)although the law of conservation of momentum follows from newton’ssecond law, as we have seen, it is in fact more general than newton’s laws.
+	in thetiny world of the atom, newton’s laws fail, but the great conservation laws—those of energy, momentum, angular momentum, and electric charge—have beenfound to hold in every experimental situation tested.
+	(©fb = ¢pb�¢t)pbpbbœ .pbaœpbbœpbaœpbbpba174chapter 7linear momentumlaw of conservation of momentumvb = 0(at rest)v′ = ?
+	then we apply conservation of momentum.24.0 m�sexample 7;3
+
+
+
+195
+
+	because we are examiningspeeds just before and just after the very brief time interval of the collision, andduring that brief time friction can’t do much—it is ignorable (but not for long:the cars will slow down because of friction).v¿ =mama + mbva =a10,000 kg10,000 kg + 10,000 kg b (24.0 m�s) = 12.0 m�s,v¿,mava = ama + mbb v¿.pinitial = pfinalpfinal = ama + mbb v¿.v¿.±xavb = 0b.pinitial = mava + mbvb = mavasection 7–2conservation of momentum175exercise c in example 7–3,so in the last equation,hence  what result do you get if (a)  (b) is much larger thanand (c) mb v ma?ma amb w mab,mbmb = 3ma,v¿ = 12 va.ma�ama + mbb = 12 .ma = mb,exercise d a 50-kg child runs off a dock at (horizontally) and lands in a waitingrowboat of mass 150 kg.
+	at what speed does the rowboat move away from the dock?2.0 m�sthe law of conservation of momentum is particularly useful when we aredealing with fairly simple systems such as colliding objects and certain types of“explosions.” for example, rocket propulsion, which we saw in chapter 4 can beunderstood on the basis of action and reaction, can also be explained on the basis of the conservation of momentum.
+	in the reference frameof the rocket before any fuel is ejected, the total momentum of rocket plus fuel is zero.
+	when the fuel burns, the total momentum remains unchanged: the back-ward momentum of the expelled gases is just balanced by the forward momentumgained by the rocket itself (see fig.
+	similar examples of (nearly) isolatedsystems where momentum is conserved are the recoil of a gun when a bullet is fired(example 7–5), and the movement of a rowboat just after a package is thrown from it.p h y s i c s  a p p l i e drocket propulsion  rocketgas(a)(b)   = 0pbpbpbfigure 7;6 (a) a rocket,containing fuel, at rest in some reference frame.
+	the total vector momentum,remains zero.pbgas + pbrocket ,falling on or off a sled.
+	when she drops off, does the sled speed up, slow down, or keep the same speed?response (a) because susan falls vertically onto the sled, she has no initialhorizontal momentum.
+	thus the total horizontal momentum afterward equals themomentum of the sled initially.
+	at the moment she leaves the sled, she has thesame momentum she had an instant before.
+	because her momentum does notchange, neither does the sled’s (total momentum conserved); the sled keeps thesame speed.
+
+
+
+196
+
+	try to explain why you may have answered differently the first time.176chapter 7linear momentum(b) after shooting  b   b   r(a) before shooting (at rest)x   rpbpbvbvbfigure 7;7 example 7–5.rifle recoil.
+	then momentum conservation in the x directiongiveswe solve for the unknown and findsince the rifle has a much larger mass, its (recoil) velocity is much less than thatof the bullet.
+	the minus sign indicates that the velocity (and momentum) of therifle is in the negative x direction, opposite to that of the bullet.vrœ=– mbvbœmr=– (0.020 kg)(620 m�s)(5.0 kg)=–2.5 m�s.vrœ ,mbvb + mrvr = mb vbœ + mrvrœ0+0= mb vbœ + mrvrœ .
+	momentum before = momentum after(±x),620 m�s,example 7;5figure 7;8 tennis racket strikinga ball.
+
+
+
+197
+
+	7–11).assume the hand moves at roughly when it hits the board.approach we use the momentum-impulse relation, eq.
+	but by making use of the conservation laws for momentum and energy,we can still determine a lot about the motion after a collision, given the motionbefore the collision.
+	we saw in section 7–2 that in the collision of two objectssuch as billiard balls, the total momentum is conserved.
+
+
+
+198
+
+	178chapter 7linear momentumaba b  a  bab   ′a   ′a ab    ′b(a) approach(b) collision(c) if elastic(d) if inelastic    ′bvbvbvbvbvbvbfigure 7;12 two equal-massobjects (a) approach each other with equal speeds, (b) collide, andthen (c) bounce off with equalspeeds in the opposite directions ifthe collision is elastic, or (d) bounceback much less or not at all if thecollision is inelastic (some of the keis transformed to other forms ofenergy such as sound and heat).xy  a  bxyma(a)mbmamb(b)   ′a   ′bvbvbvbvbfigure 7;13 two small objects ofmasses and (a) before thecollision and (b) after the collision.mb,ma†note that eqs.
+	(i) and (ii), which are the conservation laws for momentum and kinetic energy, areboth satisfied by the solution  and  this is a valid solution, but not very interesting.it corresponds to no collision at all—when the two objects miss each other.vbœ = vb.vaœ = vabut if we compare the total kinetic energy just before the collision with the total kinetic energy just after the collision, and they are found to be the same,then we say that the total kinetic energy is conserved.
+	7–3 for conservation of momentum.at the atomic level the collisions of atoms and molecules are often elastic.but in the “macroscopic” world of ordinary objects, an elastic collision is an idealthat is never quite reached, since at least a little thermal energy is always producedduring a collision (also perhaps sound and other forms of energy).
+	7–12, and the details in its caption.7–5 elastic collisions in one dimensionwe now apply the conservation laws for momentum and kinetic energy to an elasticcollision between two small objects that collide head-on, so all the motion is along aline.
+	for anythe object is moving to theright (increasing x), whereas forthe object is moving to the left (towarddecreasing values of x).from conservation of momentum, we havebecause the collision is assumed to be elastic, kinetic energy is also conserved:we have two equations, so we can solve for two unknowns.
+	if we know the massesand velocities before the collision, then we can solve these two equations for thevelocities after the collision,and we derive a helpful result by rewriting themomentum equation as(i)and we rewrite the kinetic energy equation asnoting that algebraically  we write this last equation as(ii)we divide eq.
+
+
+
+199
+
+	conservation of kineticenergy applies as well because we are told the collision is elastic.solution (a) the masses are equal  so conservation ofmomentum giveswe need a second equation, because there are two unknowns.we could use theconservation of kinetic energy equation, or the simpler eq.
+
+
+
+200
+
+	so again we use the conservation laws ofmomentum and of kinetic energy, and apply them to our system of two particles.solution we use the subscripts p for the proton and he for the heliumnucleus.
+	from conservation of momentum,because the collision is elastic, the kinetic energy of our system of two particles isconserved and we can use eq.
+	7–7, which becomesthusand substituting this into our momentum equation displayed above, we getsolving for we obtainthe other unknown is which we can now obtain fromthe minus sign for tells us that the proton reverses direction upon collision,and we see that its speed is less than its initial speed (see fig.
+	in acompletely inelastic collision, the maximum amount of kinetic energy is transformedto other forms consistent with conservation of momentum.
+	even though kineticenergy is not conserved in inelastic collisions, the total energy is always conserved,and the total vector momentum is also conserved.
+
+
+
+201
+
+	thekinetic energy immediately after the collision is changed entirely to gravitationalpotential energy when the pendulum reaches its maximum height, h.solution in part (1) momentum is conserved:(i)where is the speed of the block and embedded projectile just after the colli-sion, before they have moved significantly.in part (2), mechanical energy is conserved.
+	start a problemby asking yourself whether the conservation laws apply in the given situation.here, we determined that momentum is conserved only during the brief colli-sion, which we called part (1).
+
+
+
+202
+
+	afterthe collision, they move off withmomenta and at angles and ubœ .uaœpbbœpbaœlet us apply the law of conservation of momentum to a collision like that offig.
+	momentum is a vector, and because the total momentum is conserved, its components in the x and y directions also are conserved.
+	thex component of momentum conservation givesor, with  (7;8a)where primes refer to quantities after the collision.there is no motion in the y direc-tion initially, so the y component of the total momentum is zero before the collision.
+	(¿)mava = ma vaœ cos uaœ + mbvbœ cos ubœ ,pbx = mb vbx = 0,pax + pbx = paxœ+ pbxœ7–7 collisions in two dimensionsconservation of momentum and energy can also be applied to collisions in two orthree dimensions, where the vector nature of momentum is especially important.one common type of non-head-on collision is that in which a moving object (calledthe “projectile”) strikes a second object initially at rest (the “target”).
+
+
+
+203
+
+	′a = ?′b = −45°θvbvbvbyxfigure 7;19 example 7–11.c a u t i o nequation 7–7 applies only in 1-dthe y component equation of momentum conservation is thenor(7;8b)when we have two independent equations, we can solve for two unknowns at most.
+	thus momentum con-servation applies, and we apply it to both the x and y components using the xy coordinate system shown in fig.
+	even though we are nottold whether the collision is elastic or inelastic, we can still use conservation ofmomentum.solution we apply conservation of momentum for the x and y components,eqs.
+
+
+
+204
+
+	the black dotrepresents the diver’s cm at each moment.7–8 center of mass (cm)momentum is a powerful concept not only for analyzing collisions but also foranalyzing the translational motion of real extended objects.
+	this is the same parabolic path that a projected particle followswhen acted on only by the force of gravity (projectile motion, chapter 3).other points in the rotating diver’s body, such as her feet or head, follow morecomplicated paths.184chapter 7linear momentumonly an x axis.)
+	apply the momentum conservation equation(s):you have one equation for each component (x, y, z):only one equation for a head-on collision.
+	[don’t for-get that it is the total momentum of the system thatis conserved, not the momenta of individual objects.]6.
+	solve for the unknown(s).8. check your work, check the units, and ask yourselfwhether the results are reasonable.vbœ - vaœ ,va - vb =total initial ke = total final ke.total initial momentum = total final momentum.±xproblemsolvingmomentum conservation and collisions1.
+	consider whether a significant net external forceacts on your chosen system; if it does, be sure the timeinterval is so short that the effect on momentumis negligible.
+	[note: ifthis is valid for a portion of the problem, you canuse momentum conservation only for that portion.]3.
+	draw a diagram of the initial situation, just beforethe interaction (collision, explosion) takes place, andrepresent the momentum of each object with an arrowand a label.
+
+
+
+206
+
+	7–9, where the m’s are the masses of these objects and the x’s, y’s, and z’s are the coordinates of the cm of each of the objects.186chapter 7linear momentum†there would be a difference between the cm and cg only in the unusual case of an object so largethat the acceleration due to gravity, g, was different at different parts of the object.pivot pointmcggbfigure 7;24 the force of gravity,considered to act at the cg, causesthis object to rotate about the pivotpoint; if the cg were on a verticalline directly below the pivot, theobject would remain at rest.cgfigure 7;25 finding the cg.7–9 cm for the human bodyfor a group of extended objects, each of whose cm is known, we can find the cm of the group using eqs.
+
+
+
+208
+
+	188chapter 7linear momentumsuppose the three particles lie on the x axis and have masses and positions from eq.
+	if these particlesare in motion (say, along the x axis with velocities and respectively),then in a short time interval each particle and the cm will have traveled a dis-tance  so thatwe cancel and get(7;10)sinceis the sum of the momenta of the particles of the system, it represents the total momentum of the system.
+	7–10 that the total (linear) momentum of a system of particles is equal to theproduct of the total mass m and the velocity of the center of mass of the system.or, the linear momentum of an extended object is the product of the object’s massand the velocity of its cm.if forces are acting on the particles, then the particles may be accelerating.
+
+
+
+209
+
+	summary189p h y s i c s  a p p l i e ddistant planets discoveredthe linear momentum,of an object is defined as the productof its mass times its velocity,(7;1)in terms of momentum, newton’s second law can be writtenas(7;2)that is, the rate of change of momentum of an object equalsthe net force exerted on it.when the net external force on a system of objects is zero, the total momentum remains constant.
+	this is the law ofconservation of momentum.
+	stated another way, the totalmomentum of an isolated system of objects remains constant.the law of conservation of momentum is very useful indealing with collisions.
+	5–30 inchapter 5.and are their momenta after, then momentum conserva-tion tells us that (7;3)for this two-object system.total energy is also conserved.
+
+
+
+210
+
+	190chapter 7linear momentum1.
+	we claim that momentum is conserved.
+	which has the greater momentum?
+	when a person jumps from a tree to the ground, what happensto the momentum of the person upon striking the ground?4.
+	explain, on the basis of conservation of momentum, how afish propels itself forward by swishing its tail back and forth.6.
+	(a) is the momentum of theball conserved during any part of this process?
+	(b) if weconsider the ball and the earth as our system, during whatparts of the process is momentum conserved?
+	use conservation of momentum in twodimensions to explain why this implies the emission of atleast one other particle (it came to be called a “neutrino”).26. show on a diagram how your cm shifts when you movefrom a lying position to a sitting position.27.
+
+
+
+211
+
+	(a) the truck has the greater change of momentumbecause it has the greater mass.
+	(d) they both have the same change in magnitude ofmomentum because momentum is conserved.
+	for this collision,(a) only momentum is conserved.
+	(c) both momentum and kinetic energy are conserved.
+	(d) neither momentum nor kinetic energy is conserved.6.
+	a baseball is pitched horizontally toward home plate with avelocity of 110 km h. in which of the following scenariosdoes the baseball have the largest change in momentum?
+	(b) the ball is popped straight up at a speed of 110 km h.(c) the baseball is hit straight back to the pitcher at aspeed of 110 km h.(d) scenarios (a) and (b) have the same change inmomentum.
+	(e) scenarios (a), (b), and (c) have the same change inmomentum.9.
+	(a) they have the same momentum and the same ke.
+	(e) they have the same kinetic energy, but the truck hasmore momentum than the car.10.
+
+
+
+212
+
+	192chapter 7linear momentum7;1 and 7;2 momentum and its conservation1.
+	(i) what is the magnitude of the momentum of a 28-gsparrow flying with a speed of 2.
+
+
+
+214
+
+	194chapter 7linear momentummmvbl42.
+	(ii) billiard ball a of mass  moving withspeed  strikes ball b, initially at rest, ofmass  as a result of the collision, ball a is deflected off at an angle of 30.0° with a speed(a) taking the x axis to be the originaldirection of motion of ball a, write down the equationsexpressing the conservation of momentum for the compo-nents in the x and y directions separately.
+
+
+
+215
+
+	if car a approachesat and car b is moving at calculate (a) their velocities after the collision, and (b) the change in momentum of each.3.70 m�s,4.50 m�s
+
+
+
+216
+
+	196chapter 7linear momentum73.
+
+
+
+218
+
+	we also discussed the energy and momentum for translationalmotion.
+	we will discuss thekinematics of rotational motion and then its dynamics (involving torque), as well as rotational kinetic energy and angular momentum (the rotational analog of linear momentum).
+	rotating carnival rides have rotational kinetic energy as well as angular momentum.angular acceleration is produced by a net torque, and rotating objects have rotational kinetic energy.contents8–1 angular quantities8–2 constant angular acceleration8–3 rolling motion (without slipping)8–4 torque8–5 rotational dynamics;torque and rotational inertia8–6 solving problems in rotational dynamics8–7 rotational kinetic energy8–8 angular momentum and its conservation*8–9 vector nature of angular quantities
+
+
+
+235
+
+	8–8 angular momentum andits conservationthroughout this chapter we have seen that if we use the appropriate angularvariables, the kinematic and dynamic equations for rotational motion are anal-ogous to those for ordinary linear motion.
+	we saw in the previous section,for example, that rotational kinetic energy can be written as which isanalogous to the translational kinetic energy,in like manner, the linearmomentum,has a rotational analog.
+	it is called angular momentum, l.for a symmetrical object rotating about a fixed axis through the cm, the angularmomentum is(8;18)where i is the moment of inertia and is the angular velocity about the axis ofrotation.
+	the si units for l are which has no special name.we saw in chapter 7 (section 7–1) that newton’s second law can be writtennot only as but also more generally in terms of momentum (eq.
+	8–14 can be written as can also be written interms of angular momentum:(8;19)where is the net torque acting to rotate the object, and is the change inangular momentum in a time interval equation 8–14,is a specialcase of eq.
+	8–14.angular momentum is an important concept in physics because, under certain conditions, it is a conserved quantity.
+	this is the law of conservation of angular momentum fora rotating object:the total angular momentum of a rotating object remains constant if the nettorque acting on it is zero.the law of conservation of angular momentum is one of the great conservationlaws of physics, along with those for energy and linear momentum.when there is zero net torque acting on an object, and the object is rotatingabout a fixed axis or about an axis through its center of mass whose directiondoesn’t change, we can write(8;20)and are the moment of inertia and angular velocity, respectively, about thataxis at some initial time and i and are their values at some other time.the parts of the object may alter their positions relative to one another, so that ichanges.
+	but then changes as well, so that the product remains constant.ivvv(t = 0),v0i0iv = i0 v0 = constant.¢l = 0,¢l�¢t©t©t =¢l¢t= iv - iv0¢t=iav - v0b¢t= i ¢v¢t= ia,a =¢v¢t= v - v0¢t.¢t,vt = 0,v0©t = ia,¢t.¢l©t©t =¢l¢t,©t = ia,©f = ¢p�¢t.©f = makg�m2�s,vl = iv,p = mv,12 mv2.12 iv2,section 8–8angular momentum and its conservation215newton’s second law for rotationconservation of angular momentum
+
+
+
+236
+
+	many interesting phenomena can be understood on the basis of conservationof angular momentum.
+	since the angular momentum remains constant(we ignore the small torque due to friction), if i decreases, then the angularvelocity must increase.
+	if the skater reduces her moment of inertia by a factorof 2, she will then rotate with twice the angular velocity.vivi = ©mr2,216chapter 8rotational motion(a)(b)ωi large,   smallωi small,   largefigure 8;27 a skater spinning onice, illustrating conservation of angularmomentum: (a) i is large and issmall; (b) i is smaller so is larger.vvfigure 8;28 a diver rotates fasterwhen arms and legs are tucked inthan when they are outstretched.angular momentum is conserved.mbmav1figure 8;29 example 8–14.exercise d when a spinning figure skater pulls in her arms, her moment of inertiadecreases; to conserve angular momentum, her angular velocity increases.
+	the push as she leaves theboard gives her an initial angular momentum about her center of mass.
+	plate is accelerated from rest to an angular velocity in time calculate (a) the angular momentum of and (b) the torque required toaccelerate from rest to (c) next, plate initially at rest but free to rotate without friction, is placed in firm contact with freely rotating plate and the two plates then both rotate at a constant angular velocity which is considerably less than why does this happen, and what is approach we use angular momentum,(eq.
+	8–19.solution (a) the angular momentum of a cylinder, is(b) the plate started from rest so the torque, assumed constant, was(c) initially, before contact,is rotating at constant (we ignore friction).
+	but quantitatively,it’s easier to use conservation of angular momentum, eq.
+	angular momentum before = angular momentum afterv1mat =¢l¢t= 7.8 kg�m2�s - 02.0 s= 3.9 m�n.la = iav1 =12 mar2 v1 =12 (6.0 kg)(0.60 m)2(7.2 rad�s) = 7.8 kg�m2�s.ma,l = ivv2?v1 .v2 ,ma,mb,v1 .mama,¢t = 2.0 s.v1 = 7.2 rad�smar = 0.60 m.mb = 9.0 kg,ma = 6.0 kgexample 8;14
+
+
+
+238
+
+	what will happen if the teacher suddenly flipsthe bicycle wheel over so that it is spinning in the opposite direction?response we consider the system of turntable, teacher, and bicycle wheel.the total angular momentum initially is vertically upward.
+	that is also whatthe system’s angular momentum must be afterward, since is conserved when there is no net torque.
+	thus, if the wheel’s angular momentum after beingflipped over is downward, then the angular momentum of teacher plusturntable will have to be upward.
+	we can safely predict that the teacher(and turntable) will begin revolving in the same direction the wheel was spinning originally.±2lb–lblblbconceptual example 8;16angular momentum, like linear momentum, is a vector quantity.
+	for a sym-metrical object rotating about a symmetry axis (such as a wheel, cylinder, hoop,or sphere), we can write the vector angular momentum as(8;21)the angular velocity vector (and therefore also ) points along the axis of rota-tion in the direction given by the right-hand rule (fig.
+	8–30b).the vector nature of angular momentum can be used to explain a number of interesting (and sometimes surprising) phenomena.
+	another explanation (and this is the most useful analysis here) is that this is an example of the conservation ofangular momentum.
+	if the person starts walking counterclockwise, the person’sangular momentum will point upward along the axis of rotation (remember how we defined the direction of using the right-hand rule).
+	the magnitude ofthe person’s angular momentum will be where v is theperson’s speed (relative to the earth, not to the platform), r is his distance fromthe rotation axis, m is his mass, and is his moment of inertia if we considerhim a particle (mass concentrated at one point, eq.8–11).
+	the platform rotates in theopposite direction, so its angular momentum points downward.
+	if the total angular momentum of the system is initially zero (person and platform at rest),it will remain zero after the person starts walking.
+	that is, the upward angularmomentum of the person just balances the oppositely directed downward angular momentum of the platform (fig.
+	8–31b), so the total vector angularmomentum remains zero.
+	(b) right-handrule for obtaining the direction of vb .figure 8;31 (a) a person standing on a circular platform, initially at rest, begins walking along the edge atspeed v. the platform, mounted onnearly friction-free bearings, beginsrotating in the opposite direction,so that (b) the total angular momentumremains zero ().lbplatform = –lbperson
+
+
+
+239
+
+	8–20).the rotational kinetic energy of an object rotating about afixed axis with angular velocity is(8;15)for an object both translating and rotating, the totalkinetic energy is the sum of the translational kinetic energy ofthe object’s center of mass plus the rotational kinetic energy of the object about its center of mass:(8;16)as long as the rotation axis is fixed in direction.the angular momentum l of an object rotating about afixed rotation axis is given by(8;18)newton’s second law, in terms of angular momentum, is(8;19)if the net torque on an object is zero,sothis is the law of conservation of angularmomentum for a rotating object.the following table summarizes angular (or rotational)quantities, comparing them to their translational analogs.translationrotationconnectionxvamif[*angular velocity, angular acceleration, and angularmomentum are vectors.
+
+
+
+240
+
+	14. we claim that momentum and angular momentum areconserved.
+
+
+
+241
+
+	if there were a great migration of people toward the earth’sequator, the length of the day would(a) increase because of conservation of angular momentum.
+	(b) decrease because of conservation of angular momentum.
+
+
+
+245
+
+	assume the pulley bearingis frictionless.mbmbmar = 0.311 mmb = 38.0 kg,ma = 32.0 kgmamborrvvtatbfbfbfigure 8;52 problem 47.atwood machine.8;8 angular momentum60.
+	(i) what is the angular momentum of a 0.270-kg ball revolv-ing on the end of a thin string in a circle of radius 1.35 m atan angular speed of 61.
+	(i) (a) what is the angular momentum of a 2.8-kg uniformcylindrical grinding wheel of radius 28 cm when rotating at1300 rpm?
+
+
+
+246
+
+	(ii) (a) what is the angular momentum of a figure skaterspinning at with arms in close to her body,assuming her to be a uniform cylinder with a height of1.5 m, a radius of 15 cm, and a mass of 48 kg?
+	attached to each end of the rod is a small mass m.determine the angular momentum of the system about theaxis.71.
+	use angular momentum to estimatethe percent change in the angular speed of the earth as aresult of the collision.
+
+
+
+247
+
+	determine the angular momentum of the earth (a) aboutits rotation axis (assume the earth is a uniform sphere),and (b) in its orbit around the sun (treat the earth as aparticle orbiting the sun).85. a wheel of mass m has radius r. it is standing vertically onthe floor, and we want to exert a horizontal force f at its axleso that it will climb a step against which it rests (fig.
+
+
+
+248
+
+	assume also that the thrown-off mass carries off either (a) no angular momentum, or(b) its proportional share of the initial angular momentum.91.
+	most of our solar system’s mass is contained in the sun,and the planets possess almost all of the solar system’sangular momentum.
+	estimate the fraction of the solar system’s totalangular momentum that is possessed by planets using asimplified model which includes only the large outer plan-ets with the most angular momentum.
+	the water enters at a speedand exits from the waterwheel at a speed(a) if 85 kg of water passes through persecond, what is the rate at which the water delivers angu-lar momentum to the waterwheel?
+	determine the ratio of the moon’s spinangular momentum (about its own axis) to its orbital angu-lar momentum.
+
+
+
+394
+
+	assumingthe collision is elastic, only the x component of the molecule’s momentum changes,and it changes from (it is moving in the negative x direction) to thusthe change in the molecule’s momentum,which is the final momentumminus the initial momentum, isfor one collision.
+	thus the average force—averaged over manycollisions—will be equal to the momentum change during one collision dividedby the time between collisions (newton’s second law, eq.
+	7–2):[due to one molecule]during its passage back and forth across the container, the molecule may collidewith the tops and sides of the container, but this does not alter its x component ofmomentum and thus does not alter our result.
+	[it may also collide with othermolecules, which may change its however, any loss (or gain) of momentum isacquired by other molecules, and because we will eventually sum over all themolecules, this effect will be included.
+	(b) arrows indicate themomentum of one molecule as itrebounds from the end wall.
+
+
+
+449
+
+	it differs considerablyfrom other laws of physics, which are typically equalities (such as ) orconservation laws (such as for energy and momentum).
+
+
+
+464
+
+	noviolations have ever been found, and the law of conservation of electric charge isas firmly established as those for energy and momentum.
+
+
+
+604
+
+	(b) show that its angular momentum is around the center of the circle.17.
+
+
+
+607
+
+	a particle of charge q moves in a circular path of radius rperpendicular to a uniform magnetic field b. determine itslinear momentum in terms of the quantities given.69.
+	protons with momentum are magnet-ically steered clockwise in a circular path 2.2 m in diameter.determine the magnitude and direction of the field in themagnets surrounding the beam pipe.66.
+
+
+
+608
+
+	in whatdirection must the magnetic field point?28 m�sl = 28 cm,figure 20–71problem 87.85. a particle with charge q and momentum p, initially movingalong the x axis, enters a region where a uniform magneticfield extends over awidthas shown infig.
+	deter-mine (a) whether q ispositive or negative, and(b) the magnitude of itsmomentum p in terms ofand d.l,b0 ,q,±yx = lb00dyqxlbpbfigure 20–70problem 85.88. the cyclotron (fig.
+
+
+
+609
+
+	(a) a particle of charge q moves in a circular path of radius r in a uniform magnetic field if the magnitude ofthe magnetic field is double, and the kinetic energy of theparticle is the same, how does the angular momentum ofthe particle differ?
+	(b) show that the magnetic dipolemoment m (section 20–9) of an electron orbiting theproton nucleus of a hydrogen atom is related to the orbitalangular momentum l of the electron bym =e2m l.bb.5.5 * 104 m�s3.0 * 104 m�s?3.0 * 104 m�s,330 v�m,3.0 * 104 m�s.4.
+
+
+
+645
+
+	625chapterelectromagnetic wavescontents22–1 changing electric fields produce magnetic fields;maxwell’s equations22–2 production of electromagnetic waves22–3 light as an electromagnetic waveand the electromagnetic spectrum22–4 measuring the speed of light22–5 energy in em waves22–6 momentum transfer andradiation pressure22–7 radio and television;wireless communication22chapter-opening question—guess now!which of the following best describes the difference between radio waves andx-rays?
+
+
+
+655
+
+	he showed that if a beam of em radiation (light, forexample) is completely absorbed by an object, then the momentum transferred iscd(22;9a)where is the energy absorbed by the object in a time and c is the speed oflight.
+
+
+
+764
+
+	a few puzzles remained, but itwas felt that these would soon be explained using already known principles.contents26–1 galilean–newtonianrelativity26–2 postulates of the specialtheory of relativity26–3 simultaneity26–4 time dilation and the twinparadox26–5 length contraction26–6 four-dimensionalspace–time26–7 relativistic momentum26–8 the ultimate speed26–9mass and energy26–10 relativistic addition ofvelocities26–11 the impact of specialrelativitye = mc2;26
+
+
+
+779
+
+	section 26–7relativistic momentum759although the idea of four dimensions may seem strange, it refers to the ideathat any object or event is specified by four quantities—three to describe wherein space, and one to describe when in time.
+	but there is an invariantquantity in four-dimensional space–time, called the space–time interval, which is]26–7 relativistic momentumso far in this chapter, we have seen that two basic mechanical quantities, lengthand time intervals, need modification because they are relative—their valuedepends on the reference frame from which they are measured.
+	we might expectthat other physical quantities might need some modification according to thetheory of relativity, such as momentum and energy.the analysis of collisions between two particles shows that if we want topreserve the law of conservation of momentum in relativity, we must redefinemomentum as(26–4)here is shorthand for as before (eq.
+	26–4 gives the classical momentum,relativistic momentum has been tested many times on tiny elementary particles(such as muons), and it has been found to behave in accord with eq.
+	26–4.momentum of moving electron.
+	compare the momentumof an electron to its classical value when it has a speed of (a) inthe crt of an old tv set, and (b) 0.98c in an accelerator used for cancer therapy.approach we use eq.
+	26–4 for the momentum of a moving electron.solution (a) at the electron’s momentum isthe factor so the momentum is only about 1%greater than the classical value.
+	(if we put in the mass of an electron,the momentum is compared to classically.
+	)(b) with the momentum isan electron traveling at 98% the speed of light hasand a momentum5.0 times its classical value.g = 5.0p =mvc1 - v2c2=mvc1 -(0.98c)2c2=mv31 - (0.98)2 = 5.0mv.v = 0.98c,3.64 * 10–23 kg�m�sp = 1.01mv = 3.68 * 10–23 kg�m�s,m = 9.11 * 10–31 kg,g = 1�31 - v2�c2 l 1.01,p =mvc1 - v2c2=mvc1 -a4.00 * 107 m�sb2a3.00 * 108 m�sb2= 1.01mv.v = 4.00 * 107 m�s,4.00 * 107 m�sexample 26;8p = mv.1�31 - v2�c2gp =mv31 - v2�c2 = gmv.
+
+
+
+780
+
+	rest mass and relativistic massthe relativistic definition of momentum, eq.
+	it doesn’t.today, most physicists prefer not to use relativistic mass, so an object has onlyone mass (its rest mass), and it is only the momentum that increases with speed.whenever we talk about the mass of an object, we will always mean its restmass (a fixed value).
+	as an object is accelerated to greater andgreater speeds, its momentum becomes larger and larger.
+	indeed, if v were toequal c, the denominator in this equation would be zero, and the momentumwould be infinite.
+	to accelerate an object up towould thus require infiniteenergy, and so is not possible.26–9; mass and energyif momentum needs to be modified to fit with relativity as we just saw in eq.
+
+
+
+782
+
+	by we havesince(section 17–4), the energy released is 5.4 mev.in the tiny world of atoms and nuclei, it is common to quote energies in ev(electron volts) or multiples such as mev momentum (see eq.
+
+
+
+783
+
+	indeed, the other equations of special relativity also reduce to theirclassical equivalents at ordinary speeds: length contraction, time dilation, andmodifications to momentum as well as kinetic energy, all disappear forsincea useful relation between the total energy e of a particle and its momentum pcan also be derived.
+	the momentum of a particle of mass m and speed v is givenby eq.
+	26–4the total energy isorwe square this equation (and we insert “” which is zero, but will help us):or(26–9)thus, the total energy can be written in terms of the momentum p, or in terms ofthe kinetic energy (eq.26–6a), where we have assumed there is no potential energy.invariant energy–momentumwe can rewrite eq.
+	thus, at any given moment thetotal energy e and momentum p of a particle will be different in differentreference frames, but the quantity will have the same value in allinertial reference frames.
+
+
+
+785
+
+	thequantity is shorthand for(26–2)the theory of relativity has changed our notions of spaceand time, and of momentum, energy, and mass.
+	space and timeg =131 - v2�c2.g¢t0l0¢tll = l0 31 - v2�c2 = l0g¢t =¢t031 - v2�c2 = g ¢t0are seen to be intimately connected, with time being the fourthdimension in addition to the three dimensions of space.the momentum of an object is given by(26–4)mass and energy are interconvertible.
+	the total energy e, if thereis no potential energy, is(26–6)the momentum p of an object is related to its total energy e (assuming no potential energy) by(26–9)velocity addition also must be done in a special way.
+
+
+
+786
+
+	an electron is limited to travel at speeds less than c. doesthis put an upper limit on the momentum of an electron?if so, what is this upper limit?
+
+
+
+788
+
+	the average lifetime, at rest, is26–7 relativistic momentum16.
+	(i) what is the momentum of a proton traveling at17.
+	(ii) (a) a particle travels atby what percentagewill a calculation of its momentum be wrong if you use theclassical formula?
+	(ii) a particle of mass m travels at a speed atwhat speed will its momentum be doubled?19.
+	(ii) what is the percent change in momentum of a protonthat accelerates from (a) 0.45c to 0.85c, (b) 0.85c to 0.98c?26–9 e=mc2; mass and energy21.
+	(ii) calculate the kinetic energy and momentum of aproton traveling 27.
+	(ii) what is the momentum of a 950-mev proton (that is,its kinetic energy is 950 mev)?28.
+	(b) what would be themomentum of this proton?30.
+	(ii) determine the speed and the momentum of an electronwhose equals its rest energy.32.
+	(ii) suppose there was a process by which two photons,each with momentum could collide and makea single particle.
+	if themomentum is what is the particle’s mass?39.
+	(ii) calculate the kinetic energy and momentum of aproton traveling by what percentages would your calculations have been inerror if you had used classical formulas?41.
+	(iii) show that the kinetic energy ke of a particle of mass mis related to its momentum p by the equation*46.
+
+
+
+789
+
+	show analytically that a particle with momentum p andenergy e has a speed given by66.
+	determine (a) themomentum of each proton in the laboratory, (b) the totalmomentum of the two protons in the laboratory, and (c) the momentum of one proton as seen by the other proton.67.
+	make a graph of the kinetic energy versus momentum for(a) a particle of nonzero mass, and (b) a particle with zeromass.6 * 109 kg,(h2o),(o2)(h2)v = pc2e=pc3m2c2 + p2.24he4 * 1026 w.6.20 * 10–14 j.am = 9.11 * 10–31 kgbgeneral problems
+
+
+
+791
+
+	the discovery of the electron in the 1890s, with whichwe begin this chapter, might be said to mark the beginning of modern physics,and is a sort of precursor to the quantum theory.771contents27–1 discovery and properties of the electron27–2 blackbody radiation;planck’s quantum hypothesis27–3 photon theory of light and the photoelectric effect27–4 energy, mass, and momentum of a photon*27–5 compton effect27–6 photon interactions;pair production27–7 wave–particle duality; theprinciple of complementarity27–8 wave nature of matter27–9 electron microscopes27–10 early models of the atom27–11 atomic spectra: key to thestructure of the atom27–12 the bohr model27–13 de broglie’s hypothesisapplied to atoms27electron microscopes (em) produce images using electrons which have wave propertiesjust as light does.
+
+
+
+799
+
+	27–4 energy, mass, andmomentum of a photonwe have just seen (eq.
+	thus we must use relativistic formulas for dealing with its mass,energy, and momentum.
+	the momentum of any particle of mass m is given bysince for a photon, the denominator is zero.
+	toavoid having an infinite momentum, we conclude that the photon’s mass must bezero:this makes sense too because a photon can never be at rest (italways moves at the speed of light).
+	a photon’s kinetic energy is its total energy:[photon]the momentum of a photon can be obtained from the relativistic formula(eq.
+	27–6,next, each absorbed photon’s momentum changes fromto zero.
+	(4.9 ev�17 ev) = 29%(9)a6.63 * 10–34 j�sba3.00 * 108 m�sb�a6.7 * 10–7 mb = 2.7 * 10–18 jhf = hc�lco2 ,4.9 ev�moleculel = 670 nmo2 .co2co2example 27;7f =¢p¢t= nh�l - 01 s= n hll a1019 s–1ba10–27 kg�m�sb l 10–8 n.h�ln = 1019p = hl= 6.63 * 10–34 j�s500 * 10–9 m= 1.3 * 10–27 kg�m�s.l = 500 nm.f = ¢p�¢t,p = h�lp = h�l.1019example 27;6estimatep = ec= hfc= hl.e = hfp = ec.e2 = p2c2m = 0,e2 = p2c2 + m2c4ke = e = hf.m = 0.v = cp = mv�31 - v2�c2.e = hf.section 27–4energy, mass, and momentum of a photon779c a u t i o nmomentum of photon is not mvp h y s i c s  a p p l i e dphotosynthesis
+
+
+
+800
+
+	27–6 for momentum of a photon, compton appliedthe laws of conservation of momentum and energy to the collision of fig.
+	thescattered photon has less energy(some energy is given to theelectron) and hence has a longerwavelength (shown exaggerated).experiments found scattered x-raysof just the wavelengths predicted byconservation of energy andmomentum using the photon model.l¿lθφe−electronat restinitiallyincidentphoton (  )scatteredphoton ( ')λλxybeforecollisionaftercollision
+
+
+
+801
+
+	22–8).note photons of higher energy (shorter wavelength) can also create an electron–positron pair, with the excess energy becoming kinetic energy of the particles.pair production cannot occur in empty space, for momentum could not be con-served.
+	in example 27–9, for instance, energy is conserved, but only enough energywas provided to create the electron–positron pair at rest and thus with zero momen-tum, which could not equal the initial momentum of the photon.
+
+
+
+802
+
+	de broglie proposed that the wavelength of amaterial particle would be related to its momentum in the same way as for a photon,eq.
+	27–6,that is, for a particle having linear momentum the wavelength is given by(27;8)and is valid classically (for ) and relativisticallythis is sometimes called the de broglie wavelength of a particle.mv�31 - v2�c2b.ap = gmv =v v cp = mvl =hp,lp = mv,p = h�l.e = hf782chapter 27early quantum theory and models of the atomc a u t i o nnot correct to say light is a wave and/ora particle.
+
+
+
+809
+
+	in the balmer formula he had the key he was looking for.bohr quickly found that his theory would agree with the balmer formula if he assumed that the electron’s angular momentum l is quantized and equal to aninteger n times as we saw in chapter 8 angular momentum is given bywhere i is the moment of inertia and is the angular velocity.
+
+
+
+815
+
+	he assumed that electrons in fixed orbits do not radiate lighteven though they are accelerating (moving in a circle), and he assumed thatangular momentum is quantized.
+
+
+
+816
+
+	thecharge e on the electron was first measured in the millikan oil-drop experiment and then its mass was obtained from themeasured value of the ratio.quantum theory has its origins in planck’s quantum hypothesisthat molecular oscillations are quantized: their energy e can onlybe integer (n) multiples of hf, where h is planck’s constant andf is the natural frequency of oscillation:(27;3)this hypothesis explained the spectrum of radiation emitted bya blackbody at high temperature.einstein proposed that for some experiments, light couldbe pictured as being emitted and absorbed as quanta (particles),which we now call photons, each with energy(27;4)and momentum(27;6)he proposed the photoelectric effect as a test for the photontheory of light.
+	the wavelength of an object is given by(27;8)where p is the momentum of the object (for a particleof mass m and speed v).p = mvl =hp,p = ec= hfc= hl.e = hfe = nhf.e�m(e�m)the principle of complementarity states that we must beaware of both the particle and wave properties of light and ofmatter for a complete understanding of them.electron microscopes (em) make use of the wave proper-ties of electrons to form an image: their “lenses” are magnetic.various types of em exist: some can magnify 100,000* (1000*better than a light microscope); others can give a 3-d image.early models of the atom include rutherford’s planetary(or nuclear) model of an atom which consists of a tiny butmassive positively charged nucleus surrounded (at a relativelygreat distance) by electrons.to explain the line spectra emitted by atoms, as well as thestability of atoms, the bohr model postulated that: (1) elec-trons bound in an atom can only occupy orbits for which theangular momentum is quantized, which results in discretevalues for the radius and energy; (2) an electron in such astationary state emits no radiation; (3) if an electron jumps to a lower state, it emits a photon whose energy equals thedifference in energy between the two states; (4) the angularmomentum l of atomic electrons is quantized by the rulewhere n is an integer called the quantum number.thestate is the ground state, which in hydrogen has an energy higher values of n correspond toexcited states, and their energies are(27;15b)where ze is the charge on the nucleus.
+
+
+
+817
+
+	use conservation of momentum to explain why photonsemitted by hydrogen atoms have slightly less energy thanthat predicted by eq.
+
+
+
+818
+
+	if the momentum of an electron were doubled, how wouldits wavelength change?
+	electrons and photons of light are similar in that(a) both have momentum given by (b) both exhibit wave–particle duality.
+	(b) momentum.
+
+
+
+819
+
+	(i) calculate the momentum of a photon of yellow light ofwavelength14.
+	(i) what is the momentum of a x-ray photon?15.
+
+
+
+820
+
+	(ii) an electron and a positron,each moving atcollide head on, disappear, and producetwo photons, each with the same energy and momentummoving in opposite directions.
+	determine the energy andmomentum of each photon.37.
+	(ii) an electron has a de broglie wavelength(a) what is its momentum?
+	(ii) a hydrogen atom has an angular momentum ofaccording to the bohr model, whatis the energy (ev) associated with this state?62.
+
+
+
+821
+
+	[hint: assume the photons bounce off thesail with no change in the magnitude of their momentum.]85.
+
+
+
+822
+
+	a photon of momentum is emittedfrom a hydrogen atom.
+	name the person or people who did each of the following:(a) made the first direct measurement of the charge-to-mass ratio of the electron (section 27–1); (b) measuredthe charge on the electron and showed that it is quantized(section 27–1); (c) proposed the radical assumption thatthe vibrational energy of molecules in a radiating object isquantized (sections 27–2, 27–3); (d) found that light (x-rays) scattered off electrons in a material will decreasethe energy of the photons (section 27–5); (e) proposedthat the wavelength of a material particle would be relatedto its momentum in the same way as for a photon (section 27–8); (f) performed the first crucial experimentillustrating electron diffraction (section 27–8); (g) decipheredthe nuclear model of the atom by aiming particles at gold foil (section 27–10).2. state the principle of complementarity, and give at least twoexperimental results that support this principle for electronsand for photons.
+
+
+
+823
+
+	(d) a particle cannot actually have a completely certain value of momentum.bohr’s model of the atom gave us a first (though rough) picture of what anatom is like.
+
+
+
+825
+
+	for material particles such as electrons, quantum mechanics relates the wavelength to momentum according to de broglie’s formula,eq.
+
+
+
+826
+
+	when you search with your hand or a stick,you find the ball’s position when you touch it, but at the same time you unavoid-ably bump it, and give it some momentum.
+
+
+
+827
+
+	but a photon striking a tiny object like an electron transfers enough momentumto greatly change the electron’s motion and position in an unpredictable way.
+	but a short wavelength corresponds to high frequency and largemomentumand the more momentum the photons have, the moremomentum they can give the object when they strike it.
+	if we use photons oflonger wavelength, and correspondingly smaller momentum, the object’s motionwhen struck by the photons will not be affected as much.
+	thus the act of observing produces an uncertainty in both the positionand the momentum of the electron.
+	the photon has amomentum (eq.
+	when the photon strikes our object, it willgive some or all of this momentum to the object, fig.
+	therefore, the finalx momentum of our object will be uncertain in the amountsince we can’t tell how much momentum will be transferred.
+	it tells us that we cannot measureboth the position and momentum of an object precisely at the same time.
+	themore accurately we try to measure the position, so that is small, the greaterwill be the uncertainty in momentum,if we try to measure the momentumvery accurately, then the uncertainty in the position becomes large.
+	but then itsmomentum would be completely unknown.
+	(¢x)a¢pxb l (l) a hl bl h.¢px l hlpx = h�l¢x l l.¢x,l.l,(p = h�l);section 28–3the heisenberg uncertainty principle807uncertainty principle (position and momentum)c a u t i o nuncertainties not due to instrument deficiency,but inherent in nature (wave–particle)figure 28–5 thought experimentfor observing an electron with apowerful light microscope.
+	at leastone photon must scatter from theelectron (transferring somemomentum to it) and enter themicroscope.electronlightsourcelightsource(a)(b)
+
+
+
+828
+
+	what the uncertainty principle really tells us is that if we insist on thinkingof the electron as a particle, then there are certain limitations on this simplifiedview—namely, that the position and velocity cannot both be known precisely atthe same time; and even that the electron does not have a precise position andmomentum at the same time (because it is not simply a particle).
+
+
+
+829
+
+	what is the maximum precision with which its positioncould be simultaneously measured?approach the momentum is and the uncertainty in p isthe uncertainty principle (eq.
+	28–1) gives us the smallest uncer-tainty in position using the equals sign.solution the momentum of the electron isthe uncertainty in the momentum is 0.10% of this, orfrom the uncertainty principle, the best simultaneous position measurement willhave an uncertainty ofor 110 nm.note this is about 1000 times the diameter of an atom.exercise b an electron’s position is measured with a precision of find the minimum uncertainty in its momentum and velocity.position uncertainty of a baseball.
+	what is the uncertaintyin position, imposed by the uncertainty principle, on a 150-g baseball thrown atapproach the uncertainty in the speed is we multiply by mto get and then use the uncertainty principle, solving for solution the uncertainty in the momentum ishence the uncertainty in a position measurement could be as small asnote this distance is far smaller than any we could imagine observing ormeasuring.
+
+
+
+832
+
+	(2) the orbital quantum number,is related to the magnitude of the angularmomentum of the electron;can take on integer values from 0 to for the ground state,can only be zero.† forcan be 0, 1, or 2.the actual magnitude of the angular momentum l is related to the quantumnumber by(28;3)(where again ).
+	(3) the magnetic quantum number,is related to the direction of the electron’sangular momentum, and it can take on integer values ranging from to for example, if then can be or since angularmomentum is a vector, it is not surprising that both its magnitude and its direc-tion would be quantized.
+	in quantum mechanics, the directionof the angular momentum is usually specified by giving its component along the z axis (this choice is arbitrary).
+	27–11).l = 1figure 28–7 quantization ofangular momentum direction for(magnitude of is)l = 16 u.lbl = 2.figure 28–8 energy levels (not to scale).
+
+
+
+833
+
+	it was at first hypothesizedthat this tiny splitting of energy levels, called fine structure, was due to angularmomentum associated with a spinning of the electron.
+	what is important is that the electron can have two differentstates due to some intrinsic property that behaves like an angular momentum, andwe still call this property “spin.” the two possible values of (and )are often said to be “spin up” and “spin down,” referring to the two possibledirections of the spin angular momentum.the possible values of the four quantum numbers for an electron in thehydrogen atom are summarized in table 28–1.– 12± 12msms .mlmsml.l,ms = – 12 .ms = ± 12ms,section 28–6813†fine structure is said to be due to a spin–orbit interaction.possible states forhow many dif-ferent states are possible for an electron with principal quantum numberresponse for can have the valuesforcanbe which is five different possibilities.
+
+
+
+834
+
+	e and l fordetermine (a) the energy and (b) theorbital angular momentum for an electron in each of the hydrogen atom stateswith , as in example 28–4.approach the energy of a state depends only on n, except for the very smallcorrections mentioned above, which we will ignore.
+	energy is calculated as in thebohr model,for angular momentum we use eq.
+	28–3 givesforfornote atomic angular momenta are generally given as a multiple of (orin this case), rather than in si units.exercise d what are the energy and angular momentum of the electron in a hydrogenatom withalthough and do not significantly affect the energy levels in hydrogen,they do affect the electron probability distribution in space.
+	indeed, experimental evidence ofmany sorts shows that the photon can be assigned a spin angular momentum of 1u.¢l = &1.l = 0l = 2l = 0.l = 2l = 3.l = 1l = 2¢l =&1.lml = –1,ml = ±1(l = 1)(l = 0)ms = – 12ms = ± 12ml,l,–1ml = ±1ml = 0n = 2,  l = 1,n = 2,  l = 0n = 2,  lmln = 1,  lmlln = 6, l = 4?16 u12 uul = 2,  l = 22(2 + 1) u = 26 u.l =21(1 + 1) u=22 u= 1.49 * 10–34 j�s.l = 1,l =2l(l + 1) u= 0.l = 0,e3 =– 13.6 ev(3)2=–1.51 ev.n = 3en = –13.6 ev�n2.n = 3n � 3.example 28;5814chapter 28quantum mechanics of atomsfigure 28–9 electron cloud, orprobability distribution, for states in hydrogen.
+
+
+
+844
+
+	it results from the wave–particleduality and the unavoidable interaction between an observedobject and the observer.one form of the uncertainty principle states that theposition x and momentum of an object cannot both bemeasured precisely at the same time.
+	the products of theuncertainties,can be no less than (28;1)another form of the uncertainty principle states that theenergy can be uncertain (or nonconserved) by an amount for a time where(28;2)according to quantum mechanics, the state of an electron inan atom is specified by four quantum numbers: n,and (1) n, the principal quantum number, can take on any integervalue and corresponds to the quantum numberof the old bohr model;(2)the orbital quantum number, can take on values from 0up to (3)the magnetic quantum number, can take on integervalues from to (4)the spin quantum number, can be or the energy levels in the hydrogen atom depend on n,whereas in other atoms they depend on n andthe orbital angular momentum of an atom has magnitudeand z componentwhen an external magnetic field is applied, the spectrallines are split (the zeeman effect), indicating that the energydepends also on in this case.mllz = mlu.l = 2l(l + 1) ul.– 12 .± 12ms,±l;–lml ,n - 1;l,(1, 2, 3, p)ms:l, ml ,(¢e)(¢t) g u.¢t,¢ea¢pxb(¢x) g u.u (= h�2p):(¢x)a¢pxb,pxeven in the absence of a magnetic field, precise measure-ments of spectral lines show a tiny splitting of the lines calledfine structure, whose explanation is that the energy dependsvery slightly on and transitions between states that obey the selection ruleare far more probable than other so-calledforbidden transitions.the arrangement of electrons in multi-electron atoms isgoverned by the pauli exclusion principle, which states that notwo electrons can occupy the same quantum state—that is, theycannot have the same set of quantum numbers n,andas a result, electrons in multi-electron atoms are groupedinto shells (according to the value of n) and subshells (accordingto ).electron configurations are specified using the numericalvalues of n, and using letters for s, p, d, f, etc., forand so on, plus a superscript for the number ofelectrons in that subshell.
+
+
+
+845
+
+	if you knew the position of an object precisely, with nouncertainty, how well would you know its momentum?9.
+
+
+
+846
+
+	(a) only if you know the exact position of a particle canyou know the exact momentum of the particle.
+	(b) the larger the momentum of a particle, the smaller theposition of the particle.
+	(c) the more precisely you know the position of a particle,the less well you can know the momentum of theparticle.
+	(d) the better you know the position of a particle, thebetter you can know the momentum of the particle.
+	(e) how well you can determine the position andmomentum of a particle depends on the particle’squantum numbers.7.
+	(b) there is always an uncertainty in a measurement of themomentum of a particle.
+	(c) there is always an uncertainty in a simultaneousmeasurement of both the position and momentum of aparticle.
+
+
+
+847
+
+	(i) calculate the magnitude of the angular momentum ofan electron in thestate of hydrogen.22.
+	determine (a) theprincipal quantum number, (b) the energy of the state, (c) theorbital angular momentum and its quantum number and(d) the possible values for the magnetic quantum number.28.
+	(ii) show that the total angular momentum is zero for afilled subshell.30.
+	the magnitude of the orbital angular momentum in anexcited state of hydrogen is and the z com-ponent is what are all the possible valuesof n,and for this state?46.
+	what are the largest and smallest possible values for theangular momentum l of an electron in theshell?n = 6n = 2n = 110–8 sn = 2mll,2.11 * 10–34 j�s.6.84 * 10–34 j�s48.
+	(b) if the position of thebullet is known to a precision of 0.60 cm (radius of thebarrel), what is the minimum uncertainty in its momentum?49.
+	if an electron’s position can be measured to a precision ofwhat is the uncertainty in its momentum?assuming its momentum must be at least equal to itsuncertainty, estimate the electron’s wavelength.50.
+
+
+
+848
+
+	the angular momentum in the hydrogen atom is givenboth by the bohr model and by quantum mechanics.compare the results for 58. the lifetime of a typical excited state in an atom is about10 ns.
+	assuming that the uncertaintyin their position is given by their de broglie wavelength,find the ratio of the uncertainty in their momentum.62.
+	[hint: determine the momentum using the bohrmodel of section 27–12 and assume the momentum can be anywhere between this value and zero.]
+	consider the exclusion principle, quantization ofangular momentum, spin, and any others you can think of.3.
+	estimate (a) the quantum number for the orbital angularmomentum of the earth about the sun, and (b) the numberof possible orientations for the plane of earth’s orbit.5.
+	[hint: since the beam’s width is constrained by the dimen-sion of the aperture d, the component of the light’smomentum perpendicular to the laser axis is uncertain.
+
+
+
+850
+
+	from the uncertainty principle with larger, wesee that and the minimum momentum can be less.
+	with less momentum, eachelectron has less energy when the two atoms combine than when they are separate.that is, the molecule has less energy than the two separate atoms, and so is more stable.
+
+
+
+858
+
+	29–15, its kinetic energy of rotation (see section 8–7) iswhere is the angular momentum (section 8–8).
+	quantum mechanics predictsquantization of angular momentum just as in atoms (see eq.
+	28–3):where is an integer called the rotational angular momentum quantum number.thus the rotational energy is quantized:(29;1)transitions between rotational energy levels are subject to the selection rule(as in section 28–6):the energy of a photon emitted or absorbed for a transition between rotationalstates with angular momentum quantum number andwill be(29;2)we see that the transition energy increases directly with figure 29–16 shows someof the allowed rotational energy levels and transitions.
+
+
+
+880
+
+	as a ruleof thumb, to remember, the masses of neutron and proton are about which is about 2000 times the mass of an electron al12 mev�c2b.a= 1000 mev�c2b1 gev�c21 u = 1.6605 * 10–27 kg = 931.5 mev�c2.e = mc2 =a1.66054 * 10–27 kgba2.9979 * 108 m�sb2a1.6022 * 10–19 j�evb= 931.5 mev.mev (= 106 ev)1.0000 u = (1.0000 u) ¢ 1.67262 * 10–27 kg1.007276 u≤= 1.66054 * 10–27 kg;1.67262 * 10–27 kg,e = mc21 ev = 1.6022 * 10–19 j11h126c860chapter 30nuclear physics and radioactivitytable 30–1rest masses in kilograms, unified atomic mass units, and mev c2massobject kguelectron 0.00054858 0.51100proton 1.007276 938.27atom 1.007825 938.78neutron 1.008665 939.571.67493 * 10–271.67353 * 10–2711h1.67262 * 10–279.1094 * 10–31mev�c2�just as an electron has intrinsic spin and angular momentum quantum numbers,so too do nuclei and their constituents, the proton and neutron.
+
+
+
+885
+
+	for the decayof example 30–6, how much of the 5.4-mev disintegration energy will be carriedoff by the particle?approach in any reaction, momentum must be conserved as well as energy.solution before disintegration, the nucleus can be assumed to be at rest, sothe total momentum was zero.
+	after disintegration, the total vector momentummust still be zero so the magnitude of the particle’s momentum must equalthe magnitude of the daughter’s momentum (fig.
+	thetotal energy released is 5.4 mev, so the daughter nucleus, which recoils in theopposite direction, carries off only 0.1 mev.�akea = 57 ked = 5758 q = 5.3 mev.q = kea + ked = 57 ked + ked = 58 ked.=a 228.028741 u4.002603 u b ked = 57 ked.kea =12 mava2=12 ma ¢ mdvdma≤2=12 mdvd2 ¢ mdma≤=¢ mdma≤keda’sva = mdvd�mamava = mdvd.aa 92232u 92232uaexample 30;7aq = (0.005812 u)(931.5 mev�u) = 5.4 mev1 u = 931.5 mev,232.037156 u - 232.031344 u = 0.005812 u.amu - mth - mheb 92232u228.028741 u + 4.002603 u = 232.031344 u.amth + mheb24he 90228th 92232ua 90228th 92232u (mass = 232.037156 u)example 30;6q 6 0aq = mpc2 - amd + mab c2.amamp, md,ampc2 = mdc2 + mac2 + q,aasection 30–4alpha decay865figure 30–6 momentumconservation in example 30–7.m�v�bvdmdbdaughternucleus�particle
+
+
+
+887
+
+	careful experimentsindicated that linear momentum and angular momentum also did not seem to beconserved.
+	this hypothesized particle could be carrying off the energy, momentum,and angular momentum required to maintain the conservation laws.
+
+
+
+889
+
+	in this process, theexcited nucleus interacts with one of the orbital electrons and ejects this electronfrom the atom with the same kinetic energy (minus the binding energy of theelectron) that an emitted ray would have had.30–7 conservation of nucleon numberand other conservation lawsin all three types of radioactive decay, the classical conservation laws hold.energy, linear momentum, angular momentum, and electric charge are allconserved.
+
+
+
+898
+
+	they are much used in elementary par-ticle physics (chapter 32) to track the positions of particles produced and todetermine their point of origin and or their momentum (with the help of amagnetic field).
+	a magnetic field applied across the chambermakes charged particle paths curve (chapter 20) and allows the momentum ofcharged particles to be determined from the radius of curvature of their paths.a multiwire† chamber consists of a set of closely spaced fine wires immersed ina gas (fig.
+	32–15,chapter 32. an external magnetic field curves the paths, allowing the momentumof the particles to be measured.many detectors are also calorimeters which measure the energy of theparticles.� 614c,13hb878chapter 30figure 30–16 multiwire chamberinside the collider detector atfermilab (cdf).
+
+
+
+900
+
+	which has the greater (i) momentum,(ii) velocity, (iii) kinetic energy?
+
+
+
+904
+
+	[hint: use conservation of momentumas well as conservation of energy.]
+	[hint: a particlecan have a momentum at least as large as its momentumuncertainty.]4.
+
+
+
+906
+
+	hence the product nucleus must have and from the periodic table, we find that it is nitrogen that hasso the nucleus produced is exercise a determine the resulting nucleus in the reactionenergy and momentum are also conserved in nuclear reactions, and can beused to determine whether or not a given reaction can occur.
+
+
+
+907
+
+	approach since the neutron and boron are both essentially at rest, the totalmomentum before the reaction is zero; momentum is conserved and so must bezero afterward as well.
+	31–2b.solution (a) we can use classical kinetic energy with little error, rather thanrelativistic formulas, because is not close to the speed oflight c. and will be even less because thus we can write the of the lithium, using the momentum equation just above, aswe put in numbers,changing the mass in u to kg and recall that(b) we are given the datain eq.
+	can the reactionoccur when is bombarded by 2.0-mev protons?approach the reaction will “go” if the reaction is exothermic andeven if if the input momentum and kinetic energy are sufficient.
+	this reaction requiresenergy, and the 2.0-mev protons do not have enough to make it go.note the incoming proton in this example would need more than 3.00 mevof kinetic energy to make this reaction go; 3.00 mev would be enough toconserve energy, but a proton of this energy would produce the and n withno kinetic energy and hence no momentum.
+	since an incident 3.0-mev protonhas momentum, conservation of momentum would be violated.
+	a calculationusing conservation of energy and of momentum, as we did in examples 30–7and 31–2, shows that the minimum proton energy, called the threshold energy,is 3.23 mev in this case.
+
+
+
+926
+
+	in this collision, thepositron and electron are annihilated, producing two rays each having an energy of 511 kev the two rays fly off in oppositedirections since they must have almost exactly equal and oppositemomenta to conserve momentum (the momenta of the initial and are essen-tially zero compared to the momenta afterward of the rays).
+
+
+
+927
+
+	its spin angular momentum (and itsmagnetic moment), like that of the electron, can take on only two values whenplaced in a magnetic field: we call these “spin up” (parallel to the field) and “spindown” (antiparallel to the field), as suggested in fig.
+
+
+
+930
+
+	(b) momentum.
+
+
+
+933
+
+	(c) estimate themomentum of the alpha and of the daughter nucleus.
+
+
+
+935
+
+	a magnetic field causes particlesto move in curved paths so the momentum ofeach can be measured (section 20–4).
+	tracks ofparticles with very large momentum, such as ourelectrons here, are barely curved.in this chapter we will study elementaryparticle physics from its beginnings until today,including antiparticles, neutrinos, quarks, thestandard model, and theories that go beyond.we start with the great machines that accelerateparticles so they can collide at high energies.z0 s e– + e±.�10–24 sz0h0 s z0 + z0.�10–22 s
+
+
+
+937
+
+	27–8),(32;1)showing that the greater the momentum p of the bombarding particle, the shorterits wavelength.
+	the momentum of the electrons is found fromeq.
+
+
+
+939
+
+	at higher speeds, the momentum (eq.
+
+
+
+941
+
+	the detectors within atlas include silicon semiconductordetectors with huge numbers of pixels used to track particle paths and find theirpoint of interaction, and to measure their radius of curvature in a magnetic field andthus determine their momentum (section 20–4).
+
+
+
+942
+
+	in such a collision orinteraction, energy and momentum are transferred from one charged particle tothe other, carried by the photon.
+
+
+
+945
+
+	recall that, as wesaw in chapter 26, the total energy e of a particle with mass m and momentum pand zero potential energy is given by eq.
+	thedrawing indicates the assignment ofparticles to each track, which is based onhow or if that particle decays, and on massvalues estimated from measurement ofmomentum (curvature of track in magneticfield) and energy (thickness of track, forexample).
+
+
+
+946
+
+	the laws ofconservation of energy, of momentum, of angular momentum, and of electriccharge are found to hold precisely in all particle interactions.a study of particle interactions has revealed a number of new conservationlaws which (just like the old ones) are ordering principles: they help to explainwhy some reactions occur and others do not.
+
+
+
+948
+
+	energy and momentum are conserved.
+	in addition to the“number” conservation laws which help explain the decay schemes of particles,we can also apply the laws of conservation of energy and momentum.
+	then we apply conservationof energy and momentum, using relativistic formulas as the energies are large.solution the energy released,, is the change in massnext we apply conservation of momentum: the initial particle is at rest, so the and p have opposite momentum but are equal in magnitude:we squarethis equation,which becomes, using eq.
+
+
+
+954
+
+	the multiwire chamber (section 30–13)is in a magnetic field, and the radius of curvature of the chargedparticle tracks is a measure of each particle’s momentum(chapter 20).
+
+
+
+962
+
+	certain other properties may also be opposite: forexample, the antiproton has baryon number (nucleon number)opposite to that for the proton .in all nuclear and particle reactions, the following conser-vation laws hold: momentum, angular momentum, mass–energy,electric charge, baryon number, and lepton numbers.certain particles have a property called strangeness,which is conserved by the strong force but not by the weakforce.
+
+
+
+965
+
+	both energy and momentum are conserved;use relativistic formulas.
+
+
+
+966
+
+	(a) show, by conserving momentum and energy, that it isimpossible for an isolated electron to radiate only a singlephoton.
+	use conservation of energy and momentumto determine the mass.53.
+
+
+
+983
+
+	once the matter passes within the event horizon,the emitted light cannot escape but is pulled back in by gravity (ofspace-time).all we can know about a black hole is its mass, its angular momentum(rotating black holes), and its electric charge.
+
+
+
+1002
+
+	use conservation of angular momentum to estimate theangular velocity of a neutron star which has collapsed to adiameter of 16 km, from a star whose core radius was equalto that of earth assume its mass is 1.5 timesthat of the sun, and that it rotated (like our sun) about oncea month.40.
+
+
+
+1033
+
+	(a)(b) 0.999.45.147° fromthe electron’s momentum, 123°from the neutrino’s momentum.47.
+
+
+
+1046
+
+	a (atomic mass number), 858aberration:chromatic, 725 fn, 728, 732of lenses, 727–28, 729, 731spherical, 650, 727, 728, 732absolute pressure, 264absolute space, 746, 748absolute temperature scale,362, 368absolute time, 746absolute zero, 368, 424kinetic energy near, 376absorbed dose, 900absorption lines, 692–93, 787,838absorption spectrum, 692–93,787, 838absorption wavelength, 793abundances, natural, 858ac (defn), 514ac circuits, 514–15, 526 fn,611–16ac generator, 597, 599ac motor, 577accademia del cimento, 361accelerating reference frames,77, 80, a-16–a-18acceleration, 26–38, 40, 58–63angular, 201–4, 208–12average, 26–27, 40centripetal, 110 ffconstant, 28–38constant angular, 203–4coriolis, a-17–a-18cosmic, 976–77of expansion of the universe,976–77as a function of time (shm),301in g’s, 37due to gravity, 33–38, 58–63,79 fn, 84, 121–22instantaneous (defn), 26, 40of the moon, 112, 119motion at constant, 28–38,58–64radial, 110 ff, 118related to force, 78–80of simple harmonic oscillator,301and slope, 40tangential, 118, 201–3uniform, 28–38, 58–64velocity vs., 27accelerators, particle, 916–21accelerometer, 92acceptor level, 845accommodation of eye, 719accuracy, 8precision vs., 8achromatic doublet, 728achromatic lens, 728actinides, 817action at a distance, 119action potential, 518–19action–reaction (newton’sthird law), 81–83activation, on an lcd screen,491activation energy, 377, 833,834active galactic nuclei (agn),951active matrix, 492active solar heating, 435activity, 870and half-life, 872source, 900adc, 488–89addition of vectors, 50–57, 87,450addition of velocities:classical, 65–66relativistic, 764addressing pixels, 491–92adenine, 460adhesion (defn), 281–82adiabatic processes, 415–16adp, 833af signal, 637afm, 786agn, 951air circulation, underground,278air columns, vibrations of,337–40air conditioners, 425–27air gap, 694air pollution, 434–35air resistance, 33airplane:noise, 333wing, 277airy disk, 729algebra, review of, a-3–a-6alkali metals, 817allowed transitions, 814,838–39alpenhorn, 358 pralpha decay, 864–66, 869and tunneling, 876alpha particle (or ray), 786–87,864–66alternating current (ac),514–15, 526 fn, 611–16alternators, 598am, 737am radio, 637amino acids, 836–37ammeter, 546–48, 576digital, 546, 548connecting, 547resistance, effect of, 547–48amorphous solids, 840ampère, andré, 504, 573ampere (a) (unit), 504, 572operational definition of,572ampere-hour (a·h) (unit),505ampère’s law, 573–75, 626–27amplifiers, 850–51amplitude, 294, 306, 319intensity related to, 333of vibration, 294of wave, 294, 306, 310, 319,333, 804–6amplitude modulation (am),637analog meters, 546–48, 576analog signals, 488–89, 604analog-to-digital converter(adc), 488–89analyzer (of polarized light),700anderson, carl, 924andromeda, 950, 983 praneroid barometer, 266aneroid gauge, 266angle, 11 fn, 199attack, 277brewster’s, 702, 710 prcritical, 659of dip, 562of incidence (defn), 313, 317,645, 657phase, 615polarizing, 702radian measure of, 199–200of reflection (defn), 313, 645of refraction, 317, 657solid, 11 fnangstrom (å) (unit), 20 pr,685 fnangular acceleration, 201–4,208–12average, 201constant, 203–4instantaneous, 201angular displacement, 200, 302angular magnification, 722angular momentum, 215–18,789, 795in atoms, 789, 812–14conservation, law of, 215–17,869quantized in atoms, 812–13quantized in molecules,837–38vector, 218angular position, 199angular quantities, 199 ffvector nature, 217–18angular velocity, 200–3average, 200instantaneous, 200animals, and sound waves, 309anisotropy of cmb, 968, 977annihilation of electrons, 781,925, 971–72anode, 490antenna, 627–28, 631, 638anthropic principle, 979antiatoms, 925anticodon, 836antilock brakes, 116antilogarithm, a-3,a-11antimatter, 925, 941, 943 pr(see also antiparticle)antineutrino, 867–68, 930antineutron, 925antinodes, 315, 337, 338, 339antiparticle, 868, 924–26,930–31 (see alsoantimatter)antiproton, 924–25, 934antiquark, 930–31, 934–35, 936apparent brightness, 951–52,958apparent weight, 124–25, 270apparent weightlessness,124–25approximations, 8, 13–15arago, f., 687archeological dating, 875arches, 246–49a-43indexnote: the abbreviation defn means the page cited gives the definition of the term;fn means the reference is in a footnote; pr means it is found in a problem or question;ff means “also the following pages.”
+
+
+
+1047
+
+	archimedes, 268–70archimedes’ principle, 268–72and geology, 272area, 12, a-1, inside back coverunder a curve or graph, 142,176–77arecibo radiotelescope, 643 pr,731aristotle, 2, 76armature, 577, 597arteriosclerosis, 280artificial radioactivity, 863asa number, 715 fnasteroids, 135 pr, 136 pr,196 pr, 228 prastigmatism, 720, 727astronomical telescope, 650,724–25, 743 prastrophysics, 916, 947 ffasymptotic freedom, 937atlas, 921, 939atmosphere (atm) (unit), 264atmosphere, scattering of lightby, 704atmospheric pressure, 264,266–67decrease with altitude, 264atom, model of, 445atom trap, 802 pratomic bomb, 893–94, 897atomic density, 859atomic emission spectra,692–93, 787–89atomic force microscope(afm), 786atomic mass, 360atomic mass number (a), 858atomic mass unit, unified, 10,360, 860atomic number (z), 815,817–19, 858atomic spectra, 787–89, 792–94atomic structure:bohr model of, 789–95,803–4, 811–12of complex atoms, 816–17early models of, 786–87of hydrogen atoms, 812–14of multielectron atoms,816–17nuclear model of, 787planetary model of, 787quantum mechanics of,803–24shells and subshells in,816–17atomic theory of matter,359–61, 443atomic weight, 360atomizer, 277atoms, 359–61, 372–77, 786–96,916 fnangular momentum in, 789,812–14binding energy in, 791bohr model of, 789–95as cloud, 811complex, 815–17crystal lattice of, 840and de broglie’s hypothesis,795–96distance between, 361electric charge in, 445energy levels in, 789–95,812–13, 815–16, 818hydrogen, 787–96, 812–14ionization energy in, 791–94multielectron, 815–17neutral, 860probability distributions in,805, 811quantum mechanics of,803–24shells and subshells in,816–17(see also atomic structure;kinetic theory)atp, 833attack angle, 277attractive forces, 832–33, 922atwood machine, 91, 225 praudible range, 329audible sound, frequency of,329, 334–35audiofrequency (af) signal, 637aurora borealis, 569autofocusing camera, 330autoradiography, 904average acceleration (defn),26–27, 40average angular acceleration,201average angular velocity, 200average speed (defn), 23–24, 376average velocity (defn), 23–25,28, 39avogadro, amedeo, 372avogadro’s hypothesis, 372avogadro’s number, 372–73axis of lens, 661axis of rotation (defn), 199forces tilting, 208 axon, 517–19back, forces in, 238–39back emf, 599–600background radiation, cosmicmicrowave, 967–70, 973,974, 977–78backlight, 491bacterium, 785bainbridge-type massspectrometer, 578balance, human, 240ballistic galvanometer, 624 prballistic pendulum, 181balloons:helium, 272, 371hot-air, 43 pr, 359, 389 prbalmer, j. j., 788balmer formula, 789, 792balmer series, 788, 792–93band gap, 842–43band spectra, 837band theory of solids, 842–43and doped semiconductors,845bandwidth, 489banking of curves, 115–17bar (unit), 264, 267bar codes, 822barometer, 266–67barrel distortion, 728barrier, coulomb, 876, 954–55barrier tunneling, 876–77baryon, 930–31, 935, 936–38,976–78decay, 931and quark theory, 934–35baryon number, 926–27,930–31, 933–35, 940, 971conservation of, 927base, of transistor, 850base bias voltage, 850base quantities, 10base semiconductor, 850base units (defn), 10baseball, 68 pr, 70 pr, 74 pr,102 pr, 138, 220 pr, 278position uncertainty, 809baseball curve, and bernoulli’sprinciple, 278bases, nucleotide, 460–61,834–36basketball, 73 pr, 102 prbattery, 476, 502–3, 505, 507, 527automobile, charging,536–37, 604chargers, inductive, 604electric, 502–3jump starting, 536–37lithium-ion, 504rechargeable, 604symbol, 504, 526voltaic, 502bayer mosaic, 714, 717beam splitter, 698beams, 235–36, 245–47bear sling, 105, 252beat frequency, 343beats, 342–43becquerel, henri, 863becquerel (bq) (unit), 900bel (unit), 331bell, alexander graham, 331benzene ring, 849bernoulli, daniel, 274–75bernoulli’s equation, 274–79bernoulli’s principle, 274–78beta decay, 863–64, 866–68,869, 873, 938inverse, 956beta particle (or ray), 864, 866(see also electron)bethe, hans, 896biasing and bias voltage,845–46, 850–51biceps, and torque, 238, 255 prbicycle, 205, 218, 227 pr, 229 prbicycle gears, 227 prbig bang theory, 801 pr, 941,947, 964, 966–79big crunch, 975bimetallic strip, 362bimetallic-strip thermometer,362binary code, 604binary numbers, 488binary system, 956–57, 963binding energy:in atoms, 791for iron, 862in molecules, 830, 832–33,834–35of nuclei, 860–62in solids, 840total, 769 pr, 861binding energy per nucleon(defn), 861, 894binoculars, 660, 725binomial expansion, 753, 755,763, a-1, a-6–a-7, insideback coverbiochemical analysis byspectroscopy, 693biological damage byradiation, 899biological development, andentropy, 430–31bipolar junction transistor,850–51birth and death of stars, 954–57bismuth-strontium-calcium-copper oxide (bscco),517bit depth, 488–89bit-line, 605bits, 604black holes, 136 pr, 951, 956,962–63, 975blackbody, 774blackbody radiation, 774, 952,968blinking flashers, 542blood flow, 274, 280, 282–83,288 prconvection by, 402rate, 584 prtias and, 278blood-flow measurement,electromagnetic, 596blood-flow meter, doppler,347, 358 prblood pressure, measuring,280, 283, 288 pr, 289 pr,290 prblood transfusion, 288 pr,289 prblue sky, 704blueshift, 965a-44index
+
+
+
+1052
+
+	electric circuits (continued)parallel, 513, 528rc, 538–43rectifier, 846–47resonant, 616series, 503, 528time constants of, 540, 610electric conductivity, 508, 517in nervous system, 517–19electric current, 501, 504–8,512–16, 532 ffalternating (ac) (defn),514–15, 526 fn, 611–16conduction (defn), 627conventional, 505direct (dc) (defn), 514displacement, 627eddy, 600–1hazards of, 543–45induced, 591leakage, 545magnetic force on, 564–76microscopic view of, 516and ohm’s law, 505–8peak, 514produced by magnetic field,591–95produces magnetic field,563–65, 579–80rms, 514–15(see also electric circuits)electric dipole, 458, 478, 482,493, 834electric energy, 474–76,478–79, 486–87, 510–12stored in capacitor, 486–87stored in electric field, 487electric energy resources,434–35electric field, 453–59, 463–66,477, 478–80, 516, 597calculation of, 453–58, 477and conductors, 459, 502in dielectric, 485–86of earth, 471 prin em wave, 627–29energy stored in, 487and gauss’s law, 463–66produced by changingmagnetic field, 591–95, 597produces magnetic field,626–27relation to electric potential,477work done by, 474electric field lines, 457–58, 478electric flux, 463–65, 627electric force (defn), 443,447–53adding, 450–52coulomb’s law for, 447–53and ionization, 899in molecular biology, 460–62,482, 834–37electric generator, 597–98electric hazards, 543–45electric heater, 511electric motor, 577counter emf in, 599–600electric plug, 544–45electric potential, 474–77of dipole, 482due to point charges, 479–81equipotential surfaces, 478relation to electric field, 477,482(see also potential difference)electric potential energy,474–76, 481, 486–87electric power, 510–13in ac circuits, 514–15, 610–16generation, 597–98in household circuits, 512–13transmission of, 601–4electric shock, 543–45electric stove burner, 510electric toothbrush, 604electric vehicle, 524 prelectrical conduction, 445,501–48electrical grounding, 446, 505electrical shielding, 459electrical wiring, 545electricity, 443–639, 847 fnhazards of, 512–13, 543–45electricity, static, 444 ffelectrocardiogram (ecg,ekg), 476, 492, 493electrochemical series, 502electrode, 503electroluminescent (el)device, 849electrolyte, 503electromagnet, 572electromagnetic energy, 919electromagnetic force, 129,922–24, 930, 938–41, 959electromagnetic induction,590 ffelectromagnetic oscillation, 616electromagnetic pumping,589 prelectromagnetic spectrum, 630,685–87electromagnetic (em) waves,625–39doppler effect for, 348intensity for, 634production of, 627–29(see also light)electrometer, 447electromotive force (emf),527–28, 590–97, 599–600(see also emf)electron, 445as beta particle, 864, 866as cathode rays, 490, 773charge on, 448, 579, 772–73cloud, 811, 814, 830–32conduction, 445defined, 784discovery of, 772–73in double-slit experiment,805–6as elementary particle, 916,926–27free, 445, 840mass of, 772–73, 860measurement of charge on,772–73measurement of e/m, 772–73momentum of, 759in pair production, 781path in magnetic field, 567photoelectron, 778position uncertainty, 809properties of, 772–73speed of, 516spin, 579wave nature, 806wavelength of, 783what is it?, 784electron capture, 868electron cloud, 811, 814,830–32electron configuration, 816–17electron degeneracy, 955electron diffraction, 783–84electron flow, 505electron lepton number, 927,930electron micrographs, 785electron microscope (em),771, 785–86, 807electron neutrino, 930–31electron–positron annihilation,781electron sharing, 460, 830electron spin, 579, 812–13, 830electron transport layer(etl), 850electron volt (ev) (unit),478–79, 860electronic circuits, 846–51electronic devices, 844–51electronic pacemakers, 543, 608electrons, sea of, 925–26electroscope, 446–47, 502 fnelectrostatic copier, 454,462–63electrostatic force, 447–53,460–62, 834defined, 449potential energy for, 474electrostatic unit (esu), 448 fnelectrostatics, 444–493electroweak era, 971electroweak force, 129, 155,443 fn, 938–41electroweak theory, 938–41elementary charge, 448elementary particle physics,915–42elementary particles, 752,915–42elements, 360, 816–17in compound lenses, 728origin of in universe, 955–56periodic table of, 816–17,inside back coverproduction of, 955–56transmutation of, 864, 885–89transuranic, 888elevator and counterweight, 91ellipse, 126em (electron microscope), 771,785–86, 807em (electromagnetic) waves,625–39 (see also light)emf, 527–28, 590–97, 599–600back, 599–600counter, 599–600of generator, 597–99hall, 569induced, 590–97motional, 596and photons, 922rc circuit with, 541in series and in parallel,536–37sources of, 527, 590–97emission spectra, 774, 787–96atomic, 692–93, 787–89emission tomography, 905–6emissive layer (eml), 849–50emissivity, 403emitter (transistor), 850eml, 849–50emulsion, photographic, 714,878endoergic reaction (defn), 886endoscopes, 660endothermic reaction (defn),886energy, 138, 142–48, 150–58,177–84, 212–14, 412–19,473 ffactivation, 377, 833, 834and atp, 833binding, 769 pr, 791, 830,832–33, 834–35, 860–62bond, 830, 834–35conservation of, 150–58,394–96, 413–19, 776, 865,867, 869, 926–28dark, 916, 926, 973, 975–77degradation of, 431disintegration, 865dissociation, 830elastic potential, 148, 154–55,295electric, 474–76, 478–79,486–87, 510–12in em waves, 627–28,633–34, 919equipartition of, a-20–a-21fermi, 841and first law ofthermodynamics, 413–19geothermal, 435indexa-49
+
+
+
+1058
+
+	light (continued)frequencies of, 630, 686gravitational deflection of,960–61, 963incoherent sources of, 685infrared (ir), 630, 686, 693,711 printensity of, 685, 700–1, 804–5monochromatic (defn), 682as particles, 681, 775–82photon (particle) theory of,775–82polarized, 699–702, 711 prray model of, 645 ff, 661 ffscattering, 704from sky, 704spectrometer, 692–93speed of, 9, 629, 632–33, 656,681, 747, 748ultraviolet (uv), 630, 686,693unpolarized (defn), 699velocity of, 6, 629, 632–33,656, 681, 747, 748visible, 630, 685–87wave–particle duality of, 782wave theory of, 679–704wavelengths of, 630, 682,685–87, 696white, 686(see also diffraction;intensity; interference;reflection; refraction)light-emitting diode (led),491, 847–50applications, 847–48flashlight, 848white-light, 848light-gathering power, 725light-hour, 948 fnlight meter (photographic), 778light-minute, 948light pipe, 660light rays, 645 ff, 661 fflight-second, 948light sources, 919light-year (ly) (unit), 18 pr,948lightbulb, 501, 503, 504, 505,506, 511, 556 pr, 777fluorescent, 820in rc circuit, 542lightning, 329, 512linac, 920linde, andreí, 971, 973line spectrum, 692–93, 787 ff,803line voltage, 515linear accelerator, 920linear expansion (thermal),364–65coefficient of, 364linear momentum, 170–89conservation of, 173–84, 869linear motion, 21–40linear waves, 310linearly polarized light, 699 fflines of force, 457–58, 561liquefaction, 367–70, 373, 377liquid crystal, 261, 378, 703–4liquid crystal display (lcd),490–92, 638, 703–4, 714liquid-drop model, 889liquid-in-glass thermometer,362liquid scintillators, 878liquids, 261 ff, 360 (see alsophase, changes of)lithium, 815log table, a-10–a-11logarithms, a-10–a-11, insideback coverlong jump, 70 pr, 72 prlong-range force, 863, 959longitudinal waves, 307 ffand earthquakes, 309speed of, 308–9(see also sound waves)lookback time, 951, 969loop rule, kirchhoff’s, 533 fflorentz transformation,a-24–a-25los alamos laboratory, 893loudness, 329, 331, 332 (seealso intensity)loudness control, 335loudness level, 334–35loudspeaker cross-over, 613loudspeakers, 332, 341–42,356 pr, 577, 613loupe, jeweler’s, 723low mass stars, 955low-pass filter, 613lowest unoccupied molecularorbitals (lumo), 849–50lr circuit, 610lrc circuit, 614–16luminosity (stars andgalaxies), 951–53, 958lumo, 849–50lunar eclipse, 129lyman series, 788, 792, 793, 817m-theory, 942mach, e., 348 fnmach number, 348macroscopic properties, 360macrostate of system, 432–33magellanic clouds, 950 fnmagnet, 560–62, 579–80domains of, 579electro-, 572permanent, 579–80superconducting, 572magnetic bottle, 897–98magnetic circuit breakers, 573magnetic confinement, 897–98magnetic damping, 618 prmagnetic declination, 562magnetic deflection coils, 490magnetic dipoles and magneticdipole moments, 575–76,580 fnmagnetic domains, 579magnetic field, 560–75between two currents, 570of circular loop, 563definition of, 564–65determination of, 565,570–71, 573–75direction of, 561, 563, 568of earth, 562energy stored in, 610hysteresis, 580induces emf, 591–97of long straight wire, 570–71motion of charged particle in,566–69produced by changingelectric field, 626–27produced by electric current,563–65, 579–80 (see alsoampère’s law)produces electric field andcurrent, 597inside solenoid, 574–75of solenoid, 572–73of straight wire, 564–65, 574of toroid, 580uniform, 562magnetic field lines, 561magnetic flux, 592 ff, 597magnetic force, 560–61, 564–76on current-carrying wire,564–65on electric current, 564–76on moving electric charges,566–69on proton, 566between two parallel wires,571–72magnetic information storage,604–5magnetic lens, 785magnetic moment, 575–76magnetic monopole, 561, 975magnetic permeability, 570,579–80magnetic poles, 560–62of earth, 562magnetic quantum number,812–13magnetic resonance imaging(mri), 907–8magnetic tape and disks, 604magnetism, 560–610magnetoresistive random accessmemory (mram), 606magnification:angular, 722of lens, 665of lens combination, 668–69of magnifying glass, 722–23of microscope, 726–27,731–32, 785of mirror, 652–53sign conventions for, 653,655, 665of telescope, 724, 730–32useful, 732, 785magnifier, simple, 722–23magnifying glass, 661, 722–23magnifying mirror, 649, 654magnifying power, 722 (seealso magnification)total, 724magnitude of vector, 23, 50main-sequence (stars), 953–55,982 prmajorana, ettore, 929 fnmajorana particles, 929malus’ law, 700manhattan project, 893manometer, 266marconi, guglielmo, 636mars, 3, 126, 128mass, 6, 78–80, 261of air in a room, 371atomic, 360center of, 184–89critical, 891–94of galaxy, 949gravitational vs. inertial, 960and luminosity, 952as measure of inertia, 78molecular, 360, 369of neutrinos, 929–30nuclear, 859–60of photon, 779relation to energy, 760–63in relativity theory, 760rest, 760standard of, 10table of, 10units of, 6–7, 79vs.
+
+
+
+1059
+
+	matter waves, 782–84, 795–96,804 ffmatter–antimatter problem,941matter-dominated universe,972, 973maxwell, james clerk, 376,625, 627, 629–30, 635,747maxwell distribution ofmolecular speeds, 376–77,433, 897maxwell’s equations, 626–27,744, 747, 747 fn, 748maxwell’s preferred referenceframe, 747mean life, 871, 930of proton, 941measurements, 3, 5–8of astronomical distances,948, 953, 957–59of blood flow, 358 prof calorie content, 396of charge on electron,772–73electromagnetic, of bloodflow, 596of , 772–73of force, 76precision of, 5–8, 806–8of pressure, 266–67of radiation, 899–903of speed of light, 632–33uncertainty in, 5–8, 806–9units of, 8–10mechanical advantage, 92, 233,265mechanical energy, 150–55total (defn), 150, 295–96mechanical equivalent of heat,391mechanical oscillations, 293mechanical waves, 305–19mechanics, 21–445 (see alsomotion)definition, 21mediate, forces, 922medical imaging, 350–51, 405,905–8techniques, 908medical instruments, 660–61medical uses of lasers, 823meitner, lise, 804, 889melting point, 397–400 (seealso phase, changes of)memory:dynamic random access(dram), 500 pr, 605–6flash, 606magnetoresistive randomaccess (mram), 606random access (ram), 482,500 pr, 605–6volatile and nonvolatile, 606mendeleev, dmitri, 816mercury (planet), 3, 126, 128mercury, surface tension of,281mercury barometer, 267mercury-in-glass thermometer,361–62merry-go-round, 198, 201,202meson exchange, 923meson lifetime, 809mesons, 816, 916, 923, 926–27,930–31, 935, 936–38messenger rna (m-rna),836–37metabolic pathway, 820metabolism, human, 418–19metal detector, 601metal-oxide semiconductorfield-effect transistor(mosfet), 605, 851metallic bond, 840metals:alkali, 817free-electron theory of, 841metastable state, 820, 821–22,869meter (m) (unit), 9meters, electric, 546–48, 576correction for resistance of,547–48metric (si) multipliers: insidefront covermetric (si) system, 10mho (unit), 523 prmichelson, a. a., 632–33, 698,747, 748michelson interferometer, 698,747michelson–morley experiment,747, 748, 748 fnmicroampere ( a) (unit), 504micrometer (measuringdevice), 14micron ( m) (unit), 10, 484microphones, magnetic, 606microscope, 726–27, 730–32atomic force, 786compound, 726–27electron, 771, 785–86, 807interference, 733magnification of, 726–27,731–32, 785phase-contrast, 733resolving power of, 731scanning tunneling electron(stm), 786specialty, 733useful magnification, 732,785microscopic description, 360,373 ffmicroscopic properties, 360,373 ffmicrostate of a system,432–33microwave backgroundradiation, cosmic, 967–70,973, 974, 977–78microwaves, 630, 639, 967–68milky way, 136 pr, 948–50milliampere (ma) (unit), 504millikan, r. a., 773, 777millikan oil-drop experiment,773millimeter (mm) (unit), 10mirage, 682mirror equation, 652–56mirrors, 645–56aberrations of, 725 fn, 727–28concave, 649, 653–54, 725convex, 649, 655–56focal length of, 649–50, 655magnifying, 649, 654plane, 645–49sign conventions, 653used in telescope, 725mks (meter-kilogram-second)system (defn), 10mm-hg (unit), 266model of solar system:geocentric, 3, 125heliocentric, 3, 125models, 5, 22moderator, 891–92modern physics (defn), 2, 745modulation:amplitude, 637frequency, 637, 638 fnmoduli of elasticity, 241–42,308–9molar specific heats,a-19–a-21mole (mol) (unit), 369volume of, for ideal gas, 369molecular biology, electricforce in, 460–62, 482,834–37molecular kinetic energy,374–75, 392–93, a-20–a-21molecular mass, 360, 369molecular oscillation, 326 pr,393, 839molecular rotation, 838–39molecular spectra, 837–39molecular speeds, 376–77, 433molecular vibration, 326 pr,393, 839molecular weight, 360molecules, 360, 372–77, 829–39bonding in, 829–32in a breath, 373diatomic, a-20–a-21polar, 445, 461, 482, 486,831–32potential-energy diagramsfor, 832–34spectra of, 837–39weak bonds between, 834–37molybdenum, 818moment arm, 206moment of a force about anaxis, 206moment of inertia, 208–10momentum, 138, 170–89angular, 215–18, 789, 795center of mass (cm),184–86in collisions, 173–75conservation of angular,215–17conservation of linear,173–76, 177–84, 188,926–28linear, 170–89of photon, 779relation of force to, 171–72,174, 176–77, 760relativistic, 759–60, 763uncertainty in measurementof, 807units of, 171momentum transfer, 635monochromatic aberration,728monochromatic light (defn),682moon, 3, 129, 948acceleration due to gravityon, 46 pr, 134 pracceleration toward theearth, 119centripetal acceleration of,112, 119force on, 119full moon, 129, 137 prnew moon, 129orbit of, 129phases of, 129rising of, 129, 137 prsidereal period, 129, 137 prsynodic period, 129, 137 prwireless communicationfrom, 639work on, 142moonrise, 129moons of jupiter, 125, 128,134 pr, 135 prmorley, e. w., 747, 748moseley, h. g. j., 818moseley plot, 818mosfet, 605, 851most probable speed, 376motion, 21–229, 744–65brownian, 360circular, 110–18at constant acceleration,28–38, 58–64damped, 303description of (kinematics),21–40, 49–66, 110–12of electric charge in magneticfield, 566–69and frames of reference, 22in free fall, 33–38, 124general, 184mme�ma-56index
+
+
+
+1061
+
+	occhialini, g., 923occupied states, density of, 841ocean currents, andconvection, 402octave, 335oersted, h. c., 563off-axis astigmatism, 727ohm, g. s., 505ohm ( ) (unit), 506ohmmeter, 548, 576ohm’s law, 505–8, 528, 534oil film, 697, 709 proil-drop experiment, 773oled, 849–50applications, 849omega (particle), 931one-dimensional waves, 310onnes, h. k., 517open circuit, 504open system, 394open tube, 338open-tube manometer, 266operating temperatures, heatengines, 420operational definitions, 11,572oppenheimer, j. robert, 893optical coating, 697–98optical drive, 605optical illusion, 657, 682optical instruments, 697–98,713–37optical pumping, 821optical sound track, 778optical tweezers, 636optical zoom, 718optics:fiber, 660–61geometric, 645–70physical, 679–704orbit, of the moon, 129, 137 prorbit, near-earth, 134 prorbital angular momentum, inatoms, 812–13orbital quantum number, 812orbitals, atomic, 814order and disorder, 430–31order of interference ordiffraction pattern, 683–85,690–91, 692, 711 pr, 734order-of-magnitude estimate,13–15organ pipe, 339organic compounds, 849organic light-emitting diode(oled), 849–50origin, of coordinate axes, 22orion, 950oscillations, 292 ffof air columns, 337–40damped harmonic motion, 303displacement, 294electromagnetic, 616forced, 304lc, 616mechanical, 293molecular, 326 pr, 393, 839resonant, 304simple harmonic motion(shm), 295–303as source of waves, 306of a spring, 293–95on strings, 315–16, 335–37oscillator, simple harmonic,295–303oscilloscope, 492osteoporosis, diagnosis of, 780out-of-phase waves, 314, 611,683, 690, 698overdamped system, 303overexposure, 715overtones, 316, 336, 337, 338,340p-type semiconductor, 844–46p waves, 309, 311pacemaker, heart, 543, 604, 608packet, wave, 327 prpacking of atoms, 840page thickness, 14pain, threshold of, 335pair production, 781, 926pantheon, dome of, 248parabola, 49, 58, 64parabolic reflector, 650parallax, 957–58parallel capacitors, 538–39parallel electric circuits, 513,528parallel emf, 536–37parallel resistors, 528–32parallelogram method ofadding vectors, 52paramagnetism, 580 fnparaxial rays (defn), 650parent nucleus (defn), 864paris, 247, 386parsec (pc) (unit), 958partial ionic character, 831–32partial pressure, 380–81partially conserved quantities,933partially polarized, 700, 704particle (defn), 22particle accelerators, 916–21particle classification, 930–31particle detectors, 847, 877–78,921, 934particle exchange, 922–24, 937particle interactions, 924 ffparticle physics, 915–42particle resonance, 932particle–antiparticle pair, 926particles, elementary, 752,915–42particles vs. waves, 680pascal, blaise, 262, 265, 291 prpascal (pa) (unit of pressure),262pascal’s principle, 265paschen series, 788, 792passive solar heating, 435path difference, 683, 694pauli, wolfgang, 804, 815, 867pauli exclusion principle,815–16, 830, 841, 867, 936,955, 956peak current, 514peak voltage, 514peaks, tallest, 11pendulum:ballistic, 181simple, 16, 301–3pendulum clock, 302penetration, barrier, 876–77penzias, arno, 967–68percent uncertainty, 6, 8and significant figures, 8perfect cosmological principle,967performance, coefficient of(cop), 426, 427perfume atomizer, 277period, 111, 203, 294, 298–99,306of circular motion, 111of pendulums, 16, 302of planets, 126–28of rotation, 203sidereal, 129, 137 prof simple harmonic motion,298–99synodic, 129, 137 prof vibration, 294of wave, 306periodic motion, 293 ffperiodic table, 816–17, 858 fn,inside back coverperiodic wave, 306perlmutter, saul, 976permeability, magnetic, 570,579–80permeability of free space, 570permittivity, 448, 485perturbations, 127pet, 905–6phase:in ac circuit, 611–16changes of, 377–79, 397–400of matter, 261, 360–61of waves, 314, 683, 690,694–98phase angle, 615phase-contrast microscope, 733phase diagram, 378phase plate, 733phase shift, 695, 697, 698phase transitions, 377–81,397–400phases of the moon, 129phasor diagram, 614phon (unit), 334phone:cell, 318, 602, 604, 631, 639cordless, 604phonon, 847 fnphosphor, 877phosphorescence, 820photino, 942photocathode, 877photocell, 499 pr, 776photocell circuit, 776, 778photoconductivity, 462photocopier, 454, 462–63photodiode, 778, 847–48photoelectric effect, 776–78,781, 899applications, 778photographic emulsion, 878photographic film, 714, 715photomultiplier (pm) tube,801 pr, 877–78photon, 775–82, 804–6, 816,916, 922–24, 926, 930–31,971–73absorption of, 820decoupled (early universe),969, 973and emf, 922energy of, 777, 779mass of, 779mediation of (force), 922momentum of, 779virtual, 922photon exchange, 922–24photon interactions, 781photon theory of light, 775–82predictions, 777photosynthesis, 779photovoltaic (solar) cells, 435,556 pr, 847photovoltaic panel, 847physics:classical (defn), 2, 847modern (defn), 2, 745relation to other fields, 4–5pi meson, 816, 923, 930–31, 935piano tuners, number of, 14–15piano tuning, 343pick-up nuclear reaction, 911 prpicture sharpness, 717–18pin, structural, 246pincushion distortion, 728pinhole camera, 742 prpion, 923, 930–31, 932kinetic energy of, 761pipe, light, 660pipe, vibrating air columns in,335 ffpipe organ, 339pisa, tower, 34, 302pitch of a sound, 329pixels, 10, 488–89, 491–92,703–4, 714, 717, 736planck, max, 775planck length, 19 pr, 970planck time, 941, 970planck’s constant, 775, 808planck’s quantum hypothesis,771, 775�a-58index
+
+
+
+1063
+
+	qcd, 923, 937–39qed, 922qsos, 951, 961quadratic equation, 36, 38quadratic formula, 38, a-6,inside back coverquality factor (q-value) of aresonant system, 624 prquality of sound, 340–41quantities, base and derived,10–11quantization:of angular momentum, 789,812–13of electric charge, 448of energy, 775, 789–95quantization error, 488quantum chromodynamics(qcd), 923, 937–39quantum condition, bohr’s,789, 795–96quantum electrodynamics(qed), 922quantum (quanta) of energy,775quantum fluctuations, 974quantum hypothesis, planck’s,771, 775quantum mechanics, 796,804–51of atoms, 796, 803–24copenhagen interpretationof, 811of molecules and solids,829–51quantum numbers, 775,789–91, 812–14, 815–16,837–39ground state, 815principal, 789 ffquantum theory, 745, 771–96,804–51of atoms, 789–96, 803–24of blackbody radiation, 774of light, 774–82of specific heat, a-21quarks, 448 fn, 916, 922–24,930–31, 933–38, 971–72combinations, 936confinement, 937, 971quasars (quasistellar objects,qsos), 951, 961quintessence, 977q-value (disintegrationenergy), 865q-value (quality factor) of aresonant system, 624 prq-value (reaction energy), 886rad (unit), 900rad equivalent man (rem), 901radar, 348, 349, 630, 639radial acceleration, 110 ff, 118radian (rad), measure forangles, 199–200radiation, electromagnetic:blackbody, 774, 952, 968cosmic microwavebackground, 967–70, 973,974, 977–78emissivity of, 403gamma, 863–64, 868–69,898–99from human body, 404infrared (ir), 630, 686, 693microwave, 630, 639seasons and, 405solar constant and, 405synchrotron, 919thermal, 403–6ultraviolet (uv), 630, 686,693x-ray, 630, 733–35, 819 (seealso x-rays)radiation, nuclear:activity of, 870, 872, 900alpha, 863–66, 869beta, 863–64, 866–68, 869,956damage by, 899detection of, 877–78, 901dosimetry for, 899–903gamma, 863–64, 868–69,898–99human exposure to, 901–3ionizing (defn), 898measurement of, 899–903medical uses of, 903–8types of, 863–64, 869radiation biology, 903–8radiation damage, 899radiation-dominated universe,972–73radiation dosimetry,899–903radiation era, 972–73radiation field, 628radiation film badge, 878,901radiation pressure, 635–36radiation sickness, 901radiation therapy, 903–4radiation worker exposure,901radio, 636–39radio receiver, 638radio transmitter, 637radio waves, 630, 639, 731radioactive background,natural, 866, 901radioactive dating, 874–76radioactive decay, 863–78radioactive decay constant,869–70radioactive decay law, 870radioactive decay series,873–74radioactive fallout, 894radioactive tracers, 904–5radioactive waste, 892–94radioactivity, 857–78artificial (defn), 863natural (defn), 863radiofrequency (rf) signal,637, 907–8radioisotope (defn), 863radionuclide (defn), 863, 900radiotelescope, 731radium, 863, 864radius, of nuclei, 859radius of curvature (defn), 117radius of earth, estimate of,15, 19 prradon, 864, 901, 902–3, 912 prexposure, 902–3rae lakes, 13rainbow, 686ram (random accessmemory), 482, 500 pr,605–6ramp vs. stair analogy, 775random access memory(ram), 482, 500 pr, 605–6range of projectile, 63–64raphael, 2rapid estimating, 13–15rapid transit system, 47 prrare-earth solid-state lasers,822rarefactions, in waves, 307rate of nuclear decay, 869–73ray, 312, 645 ff, 661 ffparaxial (defn), 650ray diagram, 651, 655, 666ray model of light, 645 ff, 661 ffray tracing, 645 ff, 661 ffrayleigh, lord, 729rayleigh criterion, 729rbe, 901rc circuits, 539–43applications, 542–43reactance, 612, 613capacitive, 613inductive, 612(see also impedance)reaction energy, 886reaction time, 32, 610reactions:chain, 890–91, 893–94chemical, rate of, 377endoergic, 886endothermic, 886nuclear, 885–89slow-neutron, 886–87subcritical, 891, 894supercritical, 891, 894reactors, nuclear, 890–93,896–98reading data, 605read/write head, 604real gases, 377–78real image, 647, 651, 663rearview mirror, convex, 656receivers, radio and television,638recoil, 176recombination epoch, 973rectangular coordinates, 22rectifiers, 846–47, 853 prrectilinear motion, 21–40recurrent novae, 956red giants, 951, 953–55redshift, 348, 959, 964–65, 969doppler, 965origins, 965redshift parameter, 947, 965reducing friction, 95reference frames, 22, 65,77–78, 218, 745 ff,a-16–a-18accelerating, 77, 80earth’s, 128inertial, 77, 80, 745 ff, a-16noninertial, 78, 80, 137 pr,745, a-16rotating, 218, a-16–a-18sun’s, 128reflecting telescope, 725reflection:angle of (defn), 313, 645diffuse, 646law of, 313, 645and lens coating, 697–98of light, 644–49phase changes during, 693–98polarization by, 701–2specular, 646from thin films, 693–98total internal, 327 pr, 659–61of waves on a cord, 312–13reflection grating, 690refracting telescope, 724refraction, 317–18, 656–70,681–82angle of, 317, 657of earthquake waves, 318index of, 656law of, 317, 657, 681–82of light, 656–58, 681–82and snell’s law, 657–58by thin lenses, 661–64of water waves, 317refresh rate, 492refrigerators, 425–27coefficient of performance(cop) of, 426regelation, 384 prreheating, 971reines, frederick, 928 fnreinforced concrete, 246relative biologicaleffectiveness (rbe), 901relative humidity (defn), 380relative motion, 65–66, 591,744–65relative velocity, 65–66,178–79, 749 ff, 764relativistic addition ofvelocities, 764relativistic energy, 760–64a-60index
+
+
+
+1064
+
+	relativistic formulas, when touse, 763–64relativistic mass, 760relativistic momentum,759–60, 763relativistic velocitytransformations, a-24relativity, einstein’s theory of,4relativity, galilean–newtonian,745–47, a-22–a-23relativity, general theory of,948, 959–63relativity, special theory of,744–65, 959constancy of speed of light,748four-dimensional space–time,758–59impact of, 765and length, 756–59and mass, 760mass–energy relation in,760–64postulates of, 748–49simultaneity in, 749–50and time, 749–55, 758–59relativity principle, 746–47,748 ffrelay, 582 prrem (unit), 901remote controls, 639replication, dna, 460–62repulsive forces, 832–33, 922research chamber, undersea,287 prresearch reactor, 891reservoir, heat, 414, 423resistance:air, 33thermal, 402resistance and resistors, 506–7,511, 611in ac circuit, 611 ffwith capacitor, 539–43,611–16color code, 507and electric currents, 501 ffwith inductor, 610, 611–16internal, in battery, 527–28in lrc circuit, 611–16of meters, 547–48net, 528in series and parallel, 528–32shunt, 546, 548and superconductivity, 517resistance thermometer, 510resistivity, 508–10temperature coefficient of,508, 509–10temperature dependence of,509–10resistor, 506composition, 506shunt, 546, 548symbol, 507, 526wire-wound, 506resistors, in series and inparallel, 528–32resolution:of electron microscope,785–86of eye, 730, 732of high-energy accelerators,917of lens, 717, 728–32of light microscope, 731–32limits of, 728–32and pixels, 717of telescope, 730–32of voltage, 488–89resolution, of vectors, 53–57resolving power (rp), 731resonance, 304, 315–17in ac circuit, 616elementary particle, 932nuclear magnetic, 906–8resonant collapse, 304resonant frequency, 304,315–16, 335–40, 616resonant oscillation, 304rest energy, 760–64, 809rest mass, 760resting potential, 518restoring force, 148, 293resultant displacement, 50–52resultant vector, 50–52, 56–57retina, 719, 785reverse-biased diode, 845reversible process, 423revolutions per second (rev/s),203reynold’s number, 288 prrf signal, 637, 907–8rho (particle), 931ribosome, 836–37richards, p., 968riess, adam g., 976rifle:muzzle velocity, 323 prrecoil, 176right angle, a–8right triangle, a–8right-hand rule, 217, 219 fn,563, 564, 566, 568, 570, 594rigid object (defn), 198rotational motion of,198–218translational motion of,187–89, 213–14ripple voltage, 847rms (root-mean-square):current, 514–15voltage, 514–15rms (root-mean-square)speed, 376–77rna, 836–37rock climbing, 105 pr, 106 pr,107 pr, 258 prrocket propulsion, 75, 82, 175rocks, dating oldest earth, 876rods, 719roemer, ole, 632roentgen (r) (unit), 900roentgen, w. c., 733roller coaster, 147, 152, 158rolling friction, 93, 213–14rolling motion, 204–5, 212–14without slipping, 204–5total kinetic energy, 213rome, 4, 247, 248, 249roosevelt, franklin, 893root-mean-square (rms)current, 514–15root-mean-square (rms)speed, 376–77root-mean-square (rms)voltage, 514–15roots, a-2–a-3rotating reference frames, 218,a-16–a-18rotation, 198–218axis of (defn), 199, 208frequency of (defn), 203and newton’s second law,208–12, 215–17period of, 203of rigid body, 198–218rotational angular momentumquantum number, 838–39rotational dynamics, 208 ffrotational inertia, 208–10 (seealso moment of inertia)rotational kinetic energy,212–14molecular, 393, a-20–a-21rotational motion, 198–218kinematics for, 198–205uniformly accelerated,203–4rotational transitions, 838–39rotor, 577, 598rotor-ride, 135 prrough calculations, 13–15rp (resolving power), 731rubidium–strontium dating,882 prruby laser, 821rulers, 6runway, 29russell, bertrand, 784rutherford, ernest, 786, 859,863, 885rutherford’s model of theatom, 786–89r-value, 402, 410 prrydberg constant, 788, 792s wave, 309sae, viscosity numbers, 279 fnsafety:in electrical wiring andcircuits, 512–13, 545in jump starting a car, 537safety factor, 245sailboats, and bernoulli’sprinciple, 277salam, a., 938sampling rate, 488–89satellite dish, 638, 650satellite television and radio,639satellites, 109, 122–25geosynchronous, 123global positioning (gps),19 pr, 136 pr, 755saturated vapor pressure, 379saturation (magnetic), 580saturn, 3, 126, 127, 136 pr,197 prsawtooth oscillator, 542sawtooth voltage, 542scalar (defn), 50scalar components, 53scalar quantities, 50scale, musical, 335scale, spring, 76scale factor of universe, 965scanner, fan-beam, 736scanning electron microscope(sem), 771, 785–86scanning tunneling electronmicroscope (stm), 786scattering:of light, 704of x-rays, bragg, 824schmidt, brian p., 976schrödinger, erwin, 771, 804,812schwarzschild radius, 963scientific notation, 7scintigram, 905scintillation counter, 877scintillator, 877–78, 905scuba tank, 287 pr, 386 pr,389 prsdss, 978sea of electrons, 925–26search coil, 624 prseasonal energy efficiencyratio (seer) rating, 427seasons, 405second (s) (unit), 9second harmonic, 316, 338second law of motion, 78–80,82, 87–89, 171, 174,187–89, 747for rotation, 208–12, 215–17for a system of particles,187–89second law of thermodynamics,419–33and carnot efficiency, 422–24clausius statement of, 420,423 pr, 425and efficiency, 422–24and entropy, 428–33, 436general statement of, 429,430heat engine, 420–25indexa-61
+
+
+
+1066
+
+	729spherical mirrors, imageformed by, 649–56, 725,728spherical wave, 310, 312spiderman, 167 prspin:boson, 936down, 813, 907electron, 579, 812–13, 830fermion, 936nuclear, 860up, 813, 907spin angular momentum, 813spin quantum number, 812–13spin-echo technique, 908spin–orbit interaction, 813 fnspine, forces on, 238–39spiral galaxy, 950splitting of atomic energylevels, 842, 907spring:oscillation of, 293 ffpotential energy of, 148,154–55, 295–97spring constant, 148, 293spring equation, 148, 293spring force, 148spring scale, 76spring stiffness constant, 148,293springs, car, 295, 303sps, 920spyglass, 725squark, 942stability, of particles, 932and tunneling, 876–77stable equilibrium, 240stable nucleus, 863standard candle, 957, 958standard conditions (stp), 370standard length, 9, 698standard mass, 10standard model (sm):cosmological, 970–73elementary particles, 448 fn,915, 916, 930, 935–39standard temperature andpressure (stp), 370standard temperature scale,363standard of time, 9standards and units, 8–11standing waves, 315–17circular, 795–96fundamental frequency of,316, 336, 337, 338natural frequencies of,315–16resonant frequencies of,315–16, 335, 336and sources of sound, 335–40stanford linear acceleratorcenter (slac), 920star clusters, 950stars: 894–96, 948–59 and ffbirth and death of, 954–57black holes, 136 pr, 951, 956,962–63, 975clusters of, 950color of, 774, 952–53distance to, 957–59evolution of, 954–57fixed, 3, 125h–r diagram, 952–55, 958heat death not from, 431high mass, 955–56low mass, 955main-sequence, 953–55,982 prneutron, 217, 951, 956–57numbers of, 949quasars, 951, 961red giants, 951, 953–55size of, 406, 952source of energy of, 894–96,954–56sun (see sun)supernovae, 929–30, 951,955–58temperature of, 952types of, 951 and ffvariable, 958white dwarfs, 951, 953,955–57starter, car, 573statcoulomb, 448 fnstate:changes of, 377–81, 397–400energy, in atoms, 789–95equation of, for an ideal gas,367, 370, 372of matter, 261, 360–61metastable, 820, 821–22, 869as physical condition ofsystem, 367state variable, 367, 413, 428 fnstatic electricity, 444 ffstatic equilibrium, 230–49static friction, 94, 204, 214coefficient of, 93, 94static rope, 107 prstatics, 230–49and center of mass (cm), 233stationary states, in atom,789–96statistics:and entropy, 432–33fermi–dirac, 841stator, 598steady-state model of universe,967steam engine, 420–21efficiency, 424steam power plants, 434, 435,892–93stefan-boltzmann constant,403stefan-boltzmann law (orequation), 403, 952stellar evolution, 954–57stellar fusion, 894–96step-down transformer, 601–2step-up transformer, 601–2stereo, 638 fnsterilization, 904stimulated emission, 820–23stm, 786stopping a car, 32, 145stopping potential, 776stopping voltage, 776storage, information, 604–6storage rings, 920stored energy, as potentialenergy, 148stove, induction, 594stp, 370strain, 243–44strain gauge, 525 prstrange particles, 932–33strange quark, 934strangeness, 931 fn, 932–33conservation of, 933strassman, fritz, 889straw, 264, 267, 289 prstreamline (defn), 272–73streamline flow, 272–73strength of materials, 242,245stress, 243–44compressive, 243–44shear, 244tensile, 243–44thermal, 367string, 942string theory, 19 pr, 942stringed instruments, 317,336–37strings, vibrating, 315–16,335–37stripping nuclear reaction,911 prstromboli, 64strong bonds, 829–32, 834–35,840strong nuclear force, 129, 862,888 fn, 922–42, 959and elementary particles,922–42strongly interacting particles(defn), 930strontium-90, 883 pr, 913, 914structure:fine, 803, 813of universe, 973–75, 977–78subcritical reactions, 891, 894sublimation, 378sublimation point, 378subpixels, 491–92subshells, atomic, 816–17subtraction of vectors, 52–53suction, 267, 289 prsun, 3, 126–29, 134 pr, 135 pr,136 pr, 894–96, 948–49,951–55energy source of, 894–96, 954mass of, 126–27reference frame of, 3, 125,128surface temperature of, 403,774sunglasses, polarized, 701sunsets, color, 704super invar, 386 prsuper proton synchrotron(sps), 920supercluster, 950superconducting magnets, 572indexa-63
+
+
+
